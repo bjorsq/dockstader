@@ -1,0 +1,27 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Compositions
+  url: "/compositions/"
+  side: left
+
+- title: Reviews
+  url: "/reviews/"
+  side: left
+
+- title: Biography
+  url: "/biography/"
+  side: left
+
+- title: Discography
+  url: "/discography/"
+  side: left
+
+- title: Interviews
+  url: "/interviews/"
+  side: left
+
+- title: "Music"
+  url: "/music/"
+  side: right
