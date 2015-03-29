@@ -9,7 +9,7 @@ header:
 permalink: "/compositions/"
 ---
 <ul>
-    {% for post in site.tags.compositions %}
+    {% for post in site.categories.compositions %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

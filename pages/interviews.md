@@ -9,7 +9,7 @@ header:
 permalink: "/interviews/"
 ---
 <ul>
-    {% for post in site.tags.interviews %}
+    {% for post in site.categories.interviews %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

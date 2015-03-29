@@ -9,7 +9,7 @@ header:
 permalink: "/reviews/"
 ---
 <ul>
-    {% for post in site.tags.reviews %}
+    {% for post in site.categories.reviews %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
