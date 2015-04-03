@@ -139,7 +139,7 @@ apple_touch_icon_ipad:           "/assets/img/touch-icon-ipad-76x.png"          
 apple_touch_icon_ipad_retina:    "/assets/img/touch-icon-ipad-retina-152x.png"    # iOS7 Size 152x152
 apple_touch_icon_precomposed:    "/assets/img/touch-icon-android-152x.png"        # iOS7 Size 152x152
 msapplication_tileimage:         "/assets/img/windows-8-tile-icon-144x.png"       # Windows 8 Tile 144x144
-msapplication_tilecolor:         "#334D5C"                                    # Windows 8 Tile Backgroundcolor
+msapplication_tilecolor:         "#ffffff"                                        # Windows 8 Tile Backgroundcolor
 
 #      _____                
 #     / ___/____ ___________
