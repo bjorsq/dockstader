@@ -26,6 +26,9 @@
     "tests"
   ],
   "dependencies": {
-    "feeling-responsive": "Phlow/feeling-responsive#gh-pages"
+    "feeling-responsive": "Phlow/feeling-responsive#gh-pages",
+    "foundation": "zurb/bower-foundation",
+    "foundation-libsass-template": "zurb/foundation-libsass-template",
+    "html5-boilerplate": "h5bp/html5-boilerplate#~5.2.0"
   }
 }

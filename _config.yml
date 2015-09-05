@@ -34,7 +34,7 @@ improve_content: https://github.com/bjorsq/dockstader/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://dockstader.local/images/"
+urlimg: "http://dockstader.info/images/"
 
 
 # Logo size is 600x80 pixels
@@ -63,8 +63,10 @@ language: "en"
 
 # Exclude these files from your production _site
 exclude:
-    - Gemfile
-    - Gemfile.lock
+    - node_modules
+    - Gruntfile.js
+    - bower.json
+    - package.json
     - LICENSE
     - README.md
 
@@ -153,14 +155,15 @@ sass:
     style: :compressed
 
 
-#       ___                __      __  _          
-#      /   |  ____  ____ _/ /_  __/ /_(_)_________
-#     / /| | / __ \/ __ `/ / / / / __/ / ___/ ___/
-#    / ___ |/ / / / /_/ / / /_/ / /_/ / /__(__  ) 
-#   /_/  |_/_/ /_/\__,_/_/\__, /\__/_/\___/____/      https://www.google.com/analytics/
-#                        /____/                   
+#     _____           _       __      
+#    / ___/__________(_)___  / /______
+#    \__ \/ ___/ ___/ / __ \/ __/ ___/
+#   ___/ / /__/ /  / / /_/ / /_(__  ) 
+#  /____/\___/_/  /_/ .___/\__/____/  
+#                  /_/                
 #
 # used in _includes/footer_scripts.html
 
-google_analytics_tracking_id: UA-60112281-1
+google_analytics_tracking_id: "UA-60112281-1"
+jquery_version:               "2.1.4"
 

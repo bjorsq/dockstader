@@ -20,5 +20,16 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bjorsq/dockstader/issues"
+  },
+  "devDependencies": {
+    "node-sass": "~2.0.1",
+    "load-grunt-tasks": "*",
+    "grunt": "~0.4.5",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-sass": "~0.18.0",
+    "grunt-shell": "^1.1.2"
   }
 }
