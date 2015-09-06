@@ -485,21 +485,12 @@ $text = array(
     ),
     "interviews" => array(
         array(
-            "title" => "Interviews with Tod Dockstader",
-            "preamble" => "",
-            "people" => array("first" => "Tod Dockstader", "second" => "Tod Dockstader"),
-            "lines_per_page" => 1,
-            "date" => "January 20th, 1994",
-            "text" => array(
-                "","","","",""
-            )
-        ),
-        array(
             "title" => "Tod Dockstader by Ken Hollings",
             "preamble" => "This article first appeared in The Wire issue 256 June 2005. &copy; The Wire, Reproduced by permission. Special thanks to The Wire (<a href=\"http://www.thewire.co.uk/\">www.thewire.co.uk</a>) and author Ken Hollings (<a href=\"http://www.kenhollings.com/\">www.kenhollings.com</a>) for allowing me to reproduce this article here.",
             "people" => false,
             "lines_per_page" => 6,
             "date" => "June, 2005",
+            "postdate" => "2005-06-01",
             "text" => array(
                 "Tod Dockstader wanders down the fluorescent aisles of his local supermarket like a polite ghost. Self-contained and quiet of manner, you may not notice him at first amid the busy shelves and stacked freezer cabinets, but then some detail will catch your eye: his neatly pressed khakis, the knitted white sweater or the crisp Reebok touchline jacket he&rsquo;s wearing. At 73, he displays a casual elegance that allows him to both blend in and stand apart from the suburban sprawl that surrounds him in Westport, Connecticut, a quiet stop on the Metro-North Railroad about 50 miles out from New York&rsquo;s Grand Central Station.",
                 "A couple of fire trucks race by outside, their sirens and horns blaring. He consults a handwritten list, peering closely at the items on it. &ldquo;Soda, bag of ice, spring water, KEN,&rdquo; run a few of the entries. &ldquo;I write a lot of lists,&rdquo; he explains. He sometimes finds he&rsquo;s lost track of which pair of glasses he should be wearing at any given time. He&rsquo;s also responsible for some of the most exciting electronic music you&rsquo;re likely to hear these days.",
@@ -550,6 +541,7 @@ $text = array(
             "people" => array("first" => "David Lee Myers", "second" => "Tod Dockstader"),
             "lines_per_page" => 10,
             "date" => "2004",
+            "postdate" => "2004-01-01",
             "text" => array(
                 "We corresponded off and on for a number of years through letters, but when you got yourself a computer, that escalated our communication a lot. I remember that after a while you decided to try some music programs on the computer, but you felt confounded by it all at the time. I like to think that it was my encouragement that kept you at it until it slowly seemed to become viable for you.",
                 "&quot;Slowly&quot; is the word alright. The only thing about it that was familiar to me was: I was looking at waveforms again for the first time in about fifty years, back when I edited optical film sound. And without your belief I could do it, with a mouse, it wouldn't have happened.",
@@ -587,6 +579,7 @@ $text = array(
             "people" => array("first" => "Chris Cutler", "second" => "Tod Dockstader"),
             "lines_per_page" => 6,
             "date" => "2002",
+            "postdate" => "2002-01-01",
             "text" => array(
                 "Omniphony was a radical and so for as I know unprecedented project, since it integrated concrete sounds, specifically composed material for acoustic instruments and subsequent manipulations of the acoustic material in a collaborative dialogue between two composers. How did you come to that?",
                 "I met Jim Reichert around 1962 at the Gotham Recording studios in NYC, where I'd been working as an engineer since about 1959. He was working for CBS television as a music supervisor picking out recorded cue music for their live drama shows. He was interested in what I'd been doing with tape - I'd done the Eight Pieces, Luna Park and Drone by then, and was working on Water Music. I had a lot of other sounds in the bank, which he listened to and suggested we collaborate on something. He took the tapes home and started writing, orchestrating and expanding on the ideas.",
@@ -604,6 +597,7 @@ $text = array(
             "people" => array("first" => "Chris Cutler", "second" => "Tod Dockstader"),
             "lines_per_page" => 18,
             "date" => "January 20th, 1994",
+            "postdate" => "1994-02-20",
             "text" => array(
                 "Why and how did you start doing organized sound?",
                 "Is that what we're going to call what I did? I don't know if anyone knows that term, now.",
@@ -723,6 +717,7 @@ $text = array(
     "discography" => array(
         array(
             "label" => "Smithsonian Folkways",
+            "postdate" => "1961-01-01",
             "preamble" => "Folkways recordings can be obtained from the <a href=\"http://www.folkways.si.edu/\"> Smithsonian Institute</a>, a major nonprofit arts institution in Washington, DC. They will send cassettes or CDs of titles in their catalogue on request.",
             "recordings" => array(
                 array(
@@ -738,6 +733,7 @@ $text = array(
         array(
             "label" => "OWL Records",
             "preamble" => "Owl was originally (around 1961) 'Owl Records' when the Dockstader LPs were released. Then, later (around 1976), it became 'Owl Recording, Inc,' a nonprofit corporation. These Owl records have been sold out for some time.",
+            "postdate" => "1966-01-01",
             "recordings" => array(
                 array(
                     "catalogue_no" => "ORLP-6",
@@ -776,6 +772,7 @@ $text = array(
         array(
             "label" => "Boosey &amp; Hawkes",
             "preamble" => "The Boosey &amp; Hawkes Recorded Music Library (now Cavendish Music - www.cavendishmusic.com) contains music specifically written for use in Audio-Visual Media (advertising, television, film, corporate videos etc).  It is a business to business music service that is licensed to end users at set rates controlled by a separate society, MCPS (The Mechanical Copyright Protection Society).  The albums are not released commercially or sold for profit to the general public - income is generated via licensing and royalties from broadcast &amp; airplay. SBH 3073 & SBH 3083 are old catalogue numbers for the library and would have been written and recorded to be marketed to clients and royalties collected via MCPS/PRS.",
+            "postdate" => "1979-01-01",
             "recordings" => array(
                 array(
                     "catalogue_no" => "SBH 3073",
@@ -798,6 +795,7 @@ $text = array(
         array(
             "label" => "STARKLAND",
             "preamble" => "",
+            "postdate" => "1992-01-01",
             "recordings" => array(
                 array(
                     "catalogue_no" => "ST-201",
@@ -828,6 +826,7 @@ $text = array(
         array(
             "label" => "Ellipsis Arts",
             "preamble" => "",
+            "postdate" => "2000-01-01",
             "recordings" => array(
                 array(
                     "catalogue_no" => "CD3670",
@@ -842,6 +841,7 @@ $text = array(
         array(
             "label" => "Locust Music",
             "preamble" => "",
+            "postdate" => "2003-01-01",
             "recordings" => array(
                 array(
                     "catalogue_no" => "LOCUST 36",
@@ -856,6 +856,7 @@ $text = array(
         array(
             "label" => "ReR MEGACORP",
             "preamble" => "",
+            "postdate" => "2002-01-01",
             "recordings" => array(
                 array(
                     "catalogue_no" => "ReR TDDM2",
@@ -885,6 +886,7 @@ $text = array(
         ),
 				array(
 				    "label" => "Creel Pone",
+            "postdate" => "2002-01-02",
 						"preamble" => "&ldquo;Creel Pone began as the first ever reissue series for LP covers and related packaging items, with everything printed as closely as possible to exact 5/12 scale including the inserts, label ephemera, booklets. In fact everything but the LP labels and the LP itself. But almost immediately people wanted the missing element so Creel Pone began including the music inside the sleeve on a CD-Recordable. This makes the Creel Pone more expensive to produce than they are sold for; but really it's not about having anything to do with money but just a way for pure and great art both in vision &amp; sound to prosper and be discovered anew.&rdquo;</p><p>Creel Pone editions <a href=\"http://www.orkstorm.com/creelpone/\">[http://www.orkstorm.com/creelpone/]</a> can be purchased through <a href=\"http://www.mimaroglumusicsales.com/labels/creel+pone.html\">www.mimaroglumusicsales.com</a>",
 						"recordings" => array(
 						    array(
@@ -907,6 +909,7 @@ $text = array(
 				),
         array(
             "label" => "Sub Rosa",
+            "postdate" => "2003-01-02",
             "preamble" => "",
             "recordings" => array(
                 array(
@@ -963,7 +966,8 @@ $text = array(
         "articles" => array(
             array(
                 "publication" => "Links to online reviews",
-                "date" => "",
+                "issue" => "",
+                "date" => "2015-09-11",
                 "author" => "",
                 "title" => "",
                 "paras" => array(
@@ -1011,7 +1015,8 @@ $text = array(
             ),
             array(
                 "publication" => "Audion",
-                "date" => "Summer 1995",
+                "issue" => "Summer 1995",
+                "date" => "1995-07-01",
                 "author" => "Alan Freeman",
                 "title" => "Dockstader - Radical Sound Explorations observed by Alan Freeman",
                 "paras" => array(
@@ -1031,7 +1036,8 @@ $text = array(
             ),
             array(
                 "publication" => "Introduction to the Starkland CD release of <em>Apocalypse</em>",
-                "date" => "1993",
+                "issue" => "",
+                "date" => "1993-01-01",
                 "author" => "Craig Anderton",
                 "title" => "",
                 "paras" => array(
@@ -1048,7 +1054,8 @@ $text = array(
             ),
             array(
                 "publication" => "Introduction to the Starkland CD release of <em>Quatermass</em>",
-                "date" => "1992",
+                "issue" => "",
+                "date" => "1992-01-01",
                 "author" => "Edward Tatnall Canby",
                 "title" => "",
                 "paras" => array(
@@ -1064,7 +1071,8 @@ $text = array(
             ),
             array(
                 "publication" => "Saturday Review",
-                "date" => "1965",
+                "issue" => "1965",
+                "date" => "1965-01-01",
                 "author" => "Oliver Daniel",
                 "title" => "Drips and Drabs of Dockstader",
                 "paras" => array(
@@ -1076,7 +1084,8 @@ $text = array(
             ),
             array(
                 "publication" => "OP",
-                "date" => "1981",
+                "issue" => "1981",
+                "date" => "1981-01-01",
                 "author" => "Steve Layton",
                 "title" => "",
                 "paras" => array(
@@ -1090,7 +1099,8 @@ $text = array(
             ),
             array(
                 "publication" => "Washington Post",
-                "date" => "August l, 1993",
+                "issue" => "August 1, 1993",
+                "date" => "1993-08-01",
                 "author" => "Joseph McLellan",
                 "title" => "",
                 "paras" => array(
@@ -1100,7 +1110,8 @@ $text = array(
             ),
             array(
                 "publication" => "Fanfare",
-                "date" => "",
+                "issue" => "17:2, Nov/Dec 1993",
+                "date" => "1993-11-01",
                 "author" => "Mike Silverton",
                 "title" => "",
                 "paras" => array(
@@ -1113,7 +1124,8 @@ $text = array(
             ),
             array(
                 "publication" => "Fanfare",
-                "date" => "",
+                "issue" => "17:2, Nov/Dec 1993",
+                "date" => "1993-11-01",
                 "author" => "Leslie Gerber",
                 "title" => "",
                 "paras" => array(
@@ -1123,7 +1135,8 @@ $text = array(
             ),
             array(
                 "publication" => "Option",
-                "date" => "",
+                "issue" => "1993",
+                "date" => "1993-06-01",
                 "author" => "Scott Lewis",
                 "title" => "TOD DOCKSTADER: Apocalypse",
                 "paras" => array(
@@ -1133,7 +1146,8 @@ $text = array(
             ),
             array(
                 "publication" => "Stereophile",
-                "date" => "",
+                "issue" => "1993",
+                "date" => "1993-07-01",
                 "author" => "Carl Baugher",
                 "title" => "",
                 "paras" => array(
@@ -1144,9 +1158,10 @@ $text = array(
             ),
             array(
                 "publication" => "The Wire",
-                "date" => "",
+                "issue" => "120",
+                "date" => "1994-02-01",
                 "author" => "K.Martin",
-                "title" => "Tod Dockstader Quatermass STARKLAND ST20 1 CD<br />Tod Dockstader Apocalypse STARKLAND ST202 CD",
+                "title" => "Tod Dockstader Quatermass STARKLAND ST20 1 CD / Tod Dockstader Apocalypse STARKLAND ST202 CD",
                 "paras" => array(
                     "Like the music of his more illustrious predecessors Var&#232;se and Stockhausen, Tod Dockstader's sonic explorations were filed under 'crank sci-fi' when they first emerged in the early 60s. Today, in the wake of dub's aural cut-ups and 'Ardkore Techno's relentless info blitzes, Dockstader's use of <em>musique concr&egrave;te's</em> cut'n'splice editing and disorientating tape manipulations should sound less daunting than when they first appeared. But his micro-amplifications of balloon exhalations, water drops and adhesive tape, although seemingly innocuous propositions, still insinuate nightmarish stories. His aural chaos theories were made real by painstakingly overdubbing the screams, scrapes and swells detected by close miking. Rejecting the shock treatments characteristic of electroacoustic music, and drawing on his studies of psychology and cartoon soundtracks, Dockstader demonstrated a commitment to tension as a means of creating sonic suspense. His work was aimed at the mind as opposed to today's musical fascination with the body.",
                     "Apocalypse contains his exemplary memorial to a Coney Island theme lot; Luna Park, and sounds a lot like Lee Perry's alien productions. But most disturbing of this pair of reissues is Quatermass, where a mood of total malevolence prevails throughout.  This stirring of subconscious horrors is as startling as it is oppressive; an insular voyage impossible to forget. The obsessive care with which Starkland have compiled and presented these extraordinary recordings should ensure that Dockstader will be remembered as the innovative, visionary figure he undoubtedly was."
@@ -1154,7 +1169,8 @@ $text = array(
             ),
             array(
                 "publication" => "Revue et Corrigee (France)",
-                "date" => "",
+                "issue" => "",
+                "date" => "1994-02-02",
                 "author" => "Jerome Noetinger (trans. by J. Frey)",
                 "title" => "",
                 "paras" => array(
@@ -1164,7 +1180,8 @@ $text = array(
             ),
             array(
                 "publication" => "Audioview (Belgium)",
-                "date" => "",
+                "issue" => "",
+                "date" => "1994-02-03",
                 "author" => "Cha'Ron",
                 "title" => "APOCALYPSE",
                 "paras" => array(

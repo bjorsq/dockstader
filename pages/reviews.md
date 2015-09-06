@@ -8,6 +8,9 @@ header:
    image_fullwidth: ""
 permalink: "/reviews/"
 ---
+
+When Owl first released the LPs, there were only a few reviews, including the one reproduced here from the <em>Saturday Review</em>, which at the time was one of  the leading mainstream, general interest (<em>Dockstader?</em>) magazines in the U.S. When Thomas Steenland took over Owl in the late '70s, he got some new exposure for the LPs, which resulted in two reviews appearing in <em>OP</em> (which later evolved into <em>Option</em>, which reviewed the CDs) around 1981. One of the first reviews of the Starkland CDs was by Joe McLellan, then the main critic of <em>The Washington Post</em>, who turned out to be a Dockstader fan. There have been about 30 positive reviews of the CDs since they were released - reproduced here are two from <em>Fanfare</em>, and others from <em>Stereophile</em>, <em>The Wire</em>, <em>Revue et Corrigee</em> (France), and <em>Audioview</em> (Belgium).
+
 <ul>
     {% for post in site.categories.reviews %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
