@@ -7,8 +7,6 @@ categories:
 
 ---
 
-## Interview with Chris Cutler, January 20th, 1994
-
 This interview first appeared in ReR Quarterly 0402.
 
 *Chris Cutler*: Why and how did you start doing organized sound?

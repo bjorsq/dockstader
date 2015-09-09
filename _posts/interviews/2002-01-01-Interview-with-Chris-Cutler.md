@@ -7,8 +7,6 @@ categories:
 
 ---
 
-## Interview with Chris Cutler, 2002
-
 This originally appeared as additional notes for the ReR CD release of Omniphony
 
 *Chris Cutler*: Omniphony was a radical and so for as I know unprecedented project, since it integrated concrete sounds, specifically composed material for acoustic instruments and subsequent manipulations of the acoustic material in a collaborative dialogue between two composers. How did you come to that?

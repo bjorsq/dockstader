@@ -7,8 +7,6 @@ categories:
 
 ---
 
-## Interview with David Lee Myers, 2004
-
 This interview was originally published as the notes to the ReR CD release of Pond.
 
 *David Lee Myers*: We corresponded off and on for a number of years through letters, but when you got yourself a computer, that escalated our communication a lot. I remember that after a while you decided to try some music programs on the computer, but you felt confounded by it all at the time. I like to think that it was my encouragement that kept you at it until it slowly seemed to become viable for you.
