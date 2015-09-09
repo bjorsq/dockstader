@@ -118,23 +118,24 @@ foreach ( $text["interviews"] as $r) {
 	file_put_contents( $filename, $pagetext );
 }
 */
-foreach ( $text["discography"] as $r) {
-	$filename = dirname(__FILE__) . "/_posts/discography/" . $r["postdate"] . '-' . preg_replace('/[^a-zA-Z0-9]+/', '-', $r["label"]) . '.md';
-	$pagetext = "---\nlayout: page\ntitle: ";
-	$pagetext .= '"' . str_replace('"', '\"', $r["label"]) . '"' . "\n";
-	$pagetext .= "\ncategories:\n    - discography\n";
-	$pagetext .= "\n---\n\n";
-	$pagetext .= "## " . $r["label"] . "\n\n";
-	$pagetext .= $r["preamble"] . "\n\n";
+$pagetext = "---\n";
+$filename = dirname(__FILE__) . '/_data/discography.yml';
+
+foreach ( array_reverse($text["discography"]) as $r) {
+	$pagetext .= "  -\n    name: \"" . $r["label"] . "\"\n";
+	$pagetext .= "    preamble: \"" . str_replace('"', '\"', cleanup($r["preamble"])) . "\"\n";
+	$pagetext .= "    recordings:\n";
 	foreach ( $r["recordings"] as $rec ) {
+		$first = true;
 		foreach( $rec as $key => $val ) {
-			$pagetext .= $key . ": " . cleanup($val) . "\n";
+			$sep = $first? "      -\n        ": '        ';
+			$pagetext .= $sep . $key . ": \"" . str_replace('"', '\"', cleanup($val)) . "\"\n";
+			$first = false;
 		}
 		$pagetext .= "\n";
 	}
-	if ( file_exists( $filename ) ) {
-		@unlink($filename);
-	}
-	file_put_contents( $filename, $pagetext );
 }
-
+if ( file_exists( $filename ) ) {
+	@unlink($filename);
+}
+file_put_contents( $filename, $pagetext );

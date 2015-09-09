@@ -22,8 +22,9 @@ description: ""
 # This URL is the main adresse. Don't include a slash at the end.
 #
 url: "http://dockstader.local"
+admin_email: "info@dockstader.info"
 baseurl: ""
-urlimg: "http://dockstader.local/assets/images/"
+urlimg: "http://dockstader.local/assets/img/"
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages

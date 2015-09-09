@@ -25,6 +25,9 @@ module.exports = function(grunt) {
 	grunt.initConfig({
 		pkg: grunt.file.readJSON('package.json'),
 
+		yamllint: {
+			all: ['_data/*.yml']
+		},
 		sass: {
 			options: {
 				includePaths: ['_bower_components/foundation/scss']
