@@ -8,5 +8,3 @@ header:
    image_fullwidth: ""
 permalink: "/discography/"
 ---
-
-{% include label.html %}
