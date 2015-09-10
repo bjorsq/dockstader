@@ -10,6 +10,6 @@ permalink: "/interviews/"
 ---
 <ul>
     {% for post in site.categories.interviews %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br>{{ post.description }}</li>
     {% endfor %}
 </ul>

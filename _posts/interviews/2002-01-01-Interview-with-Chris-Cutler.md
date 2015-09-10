@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "Interview with Chris Cutler, 2002"
-
+description: "This interview originally appeared as additional notes for the ReR CD release of Omniphony"
 categories:
     - interviews
 
 ---
 
-This originally appeared as additional notes for the ReR CD release of Omniphony
+This interview originally appeared as additional notes for the ReR CD release of Omniphony
 
 *Chris Cutler*: Omniphony was a radical and so for as I know unprecedented project, since it integrated concrete sounds, specifically composed material for acoustic instruments and subsequent manipulations of the acoustic material in a collaborative dialogue between two composers. How did you come to that?
 
@@ -19,9 +19,9 @@ This originally appeared as additional notes for the ReR CD release of Omniphony
 
 *Chris Cutler*: And how was that done?
 
-*Tod Dockstader*: It took time until we were finally ready to record the instruments. Then the studio session turned out... rough ...a hard day's nightmare. We got through it eventually. The players worked hard and didn't complain, even though some of their parts were almost unplayable. For the transformation of the instrumental tapes we went to Bob Moog's studio in Trumansburg. We ran the instrumental tapes through his filters and ring modulators and the rest, trying to make them blend with the sound of my original &quot;cell&quot; tapes. It took two days. So now we had my original tapes, the studio instrumental tapes and the &quot;Mooged&quot; tapes. Jim pretty much took over at this stage. He'd become a good editor, but as an engineer, he had a way to go: he kept mixing down into overloads, and you can hear some of that still on the CD (as bass IM distortion). But that's my problem. Owl liked it and named it; and that's when it became Omniphony.
+*Tod Dockstader*: It took time until we were finally ready to record the instruments. Then the studio session turned out... rough ...a hard day's nightmare. We got through it eventually. The players worked hard and didn't complain, even though some of their parts were almost unplayable. For the transformation of the instrumental tapes we went to Bob Moog's studio in Trumansburg. We ran the instrumental tapes through his filters and ring modulators and the rest, trying to make them blend with the sound of my original "cell" tapes. It took two days. So now we had my original tapes, the studio instrumental tapes and the "Mooged" tapes. Jim pretty much took over at this stage. He'd become a good editor, but as an engineer, he had a way to go: he kept mixing down into overloads, and you can hear some of that still on the CD (as bass IM distortion). But that's my problem. Owl liked it and named it; and that's when it became Omniphony.
 
 *Chris Cutler*: The two additional pieces that make up this CD you said were respectively the oldest and the newest pieces of yours in print?
 
-*Tod Dockstader*: Yes, No. 7 was the seventh of my first &quot;Eight Pieces&quot; and the first I composed in parts. It was more planned than the first six, which were largely improvised on the fly and then cut-and-recut into shape. I can hear in it pots and pans, oil wells, doors, laughter, water, and some things I have no idea what they were. So I guess it was the first piece in which my &quot;style&quot;, if I can be said to have one, appeared. &quot;Past Prelude&quot; was going to be the first part of &quot;The Aerial Etudes&quot; which I'd started in the 90s. I'd taken it out of the &quot;Etudes,&quot; but I still liked it for itself. Apparently, I did four mixes of it and, as often happens, the first was the best.
+*Tod Dockstader*: Yes, No. 7 was the seventh of my first "Eight Pieces" and the first I composed in parts. It was more planned than the first six, which were largely improvised on the fly and then cut-and-recut into shape. I can hear in it pots and pans, oil wells, doors, laughter, water, and some things I have no idea what they were. So I guess it was the first piece in which my "style", if I can be said to have one, appeared. "Past Prelude" was going to be the first part of "The Aerial Etudes" which I'd started in the 90s. I'd taken it out of the "Etudes," but I still liked it for itself. Apparently, I did four mixes of it and, as often happens, the first was the best.
 
