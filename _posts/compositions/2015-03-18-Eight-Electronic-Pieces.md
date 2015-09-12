@@ -1,17 +1,9 @@
 ---
 layout: page
-sidebar: left
-subheadline: 
 title: "Eight Electronic pieces"
-teaser: ""
-breadcrumb: true
+sidebar: compositions
 categories:
     - compositions
-samples:
-    - study7_1.mp3
-    - study7_2.mp3
-    - study7_3.mp3
-    - study7_4.mp3
 ---
 
 ## Original Sleeve notes for the Smithsonian LP release

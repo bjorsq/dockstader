@@ -1,30 +1,9 @@
 ---
 layout: page
-sidebar: left
-subheadline: 
 title: "Apocalypse"
-teaser: ""
-breadcrumb: true
+sidebar: compositions
 categories:
     - compositions
-samples:
-    - apoc1_1.mp3
-    - apoc1_2.mp3
-    - apoc2_1.mp3
-    - apoc2_2.mp3
-    - apoc3_1.mp3
-    - apoc3_2.mp3
-    - apoc3_3.mp3
-    - apoc4_1.mp3
-    - apoc4_2.mp3
-    - apoc4_3.mp3
-    - apoc4_4.mp3
-    - apoc4_5.mp3
-image:
-    url: picture12.jpg
-    title: Tod Dockstader's studio, circa. 1966
-    caption: Tod Dockstader's studio, circa. 1966
-
 ---
 
 Apocalypse followed Luna: I wanted to do something heavier, thicker in texture, more unruly and alarming - a concrete *Deis Irae*. The slowed (creaking)doors and the cat-cry toy are central to it: they provided the threat and despair I wanted (the cat-cry toy was a little round box with a picture of a cat on it which, when you turned it upside down, emitted a thin, pathetic little cry - slowed[on tape], it became, I thought, heart-wrenching). 

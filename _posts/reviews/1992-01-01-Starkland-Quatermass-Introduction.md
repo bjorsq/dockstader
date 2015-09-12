@@ -1,15 +1,10 @@
 ---
 layout: page
-title: "Introduction to the Starkland CD release of <em>Quatermass</em>"
-
+title: "Introduction to the Starkland CD release of Quatermass. by Edward Tatnall Canby"
+sidebar: reviews
 categories:
     - reviews
-
 ---
-
-## Introduction to the Starkland CD release of <em>Quatermass</em>
-
-### by Edward Tatnall Canby
 
 Tod Dockstader was an early and an outstanding experimenter in the use of tape recording and editing to build a type of "Music" made out of non-musical sounds, assembled into sonic structures that were supposed to take on an artistic life of their own - for better or worse.
 

@@ -1,45 +1,9 @@
 ---
 layout: page
-sidebar: left
-subheadline: 
 title: "Omniphony"
-teaser: ""
-breadcrumb: true
+sidebar: compositions
 categories:
     - compositions
-samples:
-    - omniphony1_1.mp3
-    - omniphony1_2.mp3
-    - omniphony1_3.mp3
-    - omniphony1_4.mp3
-    - omniphony1_5.mp3
-    - omniphony1_6.mp3
-    - omniphony2_1.mp3
-    - omniphony2_2.mp3
-    - omniphony2_3.mp3
-    - omniphony2_4.mp3
-    - omniphony2_5.mp3
-    - omniphony3_1.mp3
-    - omniphony3_2.mp3
-    - omniphony4_1.mp3
-    - omniphony4_2.mp3
-    - omniphony4_3.mp3
-    - omniphony4_4.mp3
-    - omniphony5_1.mp3
-    - omniphony5_10.mp3
-    - omniphony5_2.mp3
-    - omniphony5_3.mp3
-    - omniphony5_4.mp3
-    - omniphony5_5.mp3
-    - omniphony5_6.mp3
-    - omniphony5_7.mp3
-    - omniphony5_8.mp3
-    - omniphony5_9.mp3
-image:
-    url: picture21.jpg
-    title: Tod Dockstader's studio, circa. 1966
-    caption: Tod Dockstader's studio, circa. 1966
-
 ---
 
 

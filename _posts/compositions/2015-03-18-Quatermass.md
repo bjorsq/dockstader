@@ -1,41 +1,9 @@
 ---
 layout: page
-sidebar: left
-subheadline: 
 title: "Quatermass"
-teaser: ""
-breadcrumb: true
+sidebar: compositions
 categories:
     - compositions
-samples:
-    - song+lament1.mp3
-    - song+lament2.mp3
-    - song+lament3.mp3
-    - song+lament4.mp3
-    - song+lament5.mp3
-    - tango1.mp3
-    - tango2.mp3
-    - tango3.mp3
-    - parade1.mp3
-    - parade2.mp3
-    - parade3.mp3
-    - parade4.mp3
-    - flight1.mp3
-    - flight2.mp3
-    - flight3.mp3
-    - flight4.mp3
-    - secondsong1.mp3
-    - secondsong2.mp3
-    - secondsong3.mp3
-    - secondsong4.mp3
-    - secondsong5.mp3
-    - secondsong6.mp3
-    - secondsong7.mp3
-image:
-    url: picture16.jpg
-    title: Tod Dockstader and James Reichert in the studio mixing Omniphony
-    caption: Tod Dockstader and James Reichert in the studio mixing Omniphony
-
 ---
 
 Quatermass was intended, from the start, to be a very dense, massive, even threatening, work of high levels and high energy. It was my antidote to the preceding *Water Music* - a work of small details, delicate textures, and some playfulness. The title was chosen because the word *sounded* right for the work. It happened to be the name of Professor Bernard Quatermass, star character of a 1950s BBC-TV science fiction serial and two B films (*The Creeping Unknown* [1956] and *Enemy from Space* [1957]); at the time, I hadn't seen them.

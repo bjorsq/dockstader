@@ -1,5 +1,6 @@
 ---
 layout: page
+sidebar: default
 ---
 
 <div data-magellan-expedition="fixed">
@@ -7,13 +8,16 @@ layout: page
     <dd data-magellan-arrival="feed-forward"><a href="#feed-forward">[Feed-forward]</a></dd>
     <dd data-magellan-arrival="back-track"><a href="#back-track">[Back-track]</a></dd>
     <dd data-magellan-arrival="sound-off"><a href="#sound-off">[Sound-off]</a></dd>
-    <dd data-magellan-arrival="time-out"><a href="#time-out">[[Time-out]</a></dd>
+    <dd data-magellan-arrival="time-out"><a href="#time-out">[Time-out]</a></dd>
   </dl>
 </div>
 
-<h1>WITH THE SOUND IN YOUR EARS</h1>
-<h2>On Tod Dockstader</h2>
-<blockquote>"No one is responsible for an emergence; no one can glory in it, since it always occurs in the interstice"</blockquote>
+## WITH THE SOUND IN YOUR EARS
+
+### On Tod Dockstader
+
+> "No one is responsible for an emergence; no one can glory in it, since it always occurs in the interstice"
+
 <h3 data-magellan-destination="feed-forward">[Feed-forward]</h3>
 <a name="feed-forward" id="feed-forward"></a>
 <p>We can maybe begin with history but to historify is to set precedents and conform to the unspoken rules that say there has got to be a first and that then there's a lineage to follow. So there is genre and the sound of silence and our enthusiasm becomes muted behind a self-perceived lack of knowledge that is always uttered by experts. We are disqualified by history. However, to be self-consciously working in 'history' is to be nothing other than to be too closely affixed to the demands and expectations of the present. Instead of this instant contemporaneity, an infamy that is often mediated and emphatically 'new',  sound-mavericks like Dockstader, following a laborious and singular vein of experimentation, seem to fall into a space that is neither musical nor traditional, neither past nor present.</p>
@@ -30,11 +34,16 @@ layout: page
 <p>Whereas the popularisation of electronic music through techno has prepared us to dispense with notions of 'acoustic' being read as 'authentic' and where we may be accustomed to the use of sub-bass (cf. Luna Park) what we are not prepared for is Dockstader's creation of electronic timbres out of almost nothing. Not having access to synthesisers what Dockstader achieves is the building of his own 'personalised' synthesiser by the merging of tone generators with found and transformed sounds and then composing his pieces directly onto tape. Another divergence from techno-orthodoxy is that there is an improvisatory feel to Dockstader's pieces: &quot;moving around, working with your hands, sometimes very fast, more often very slowly... it had a muscular joy... teetering between control and chaos, trying to push the sound a little father forward&quot;.</p>
 <p>Dockstader compares his working methods to those he employed in his early years as a painter and what comes across, what gives the music this sense of immediacy and emergence, is just this 'live' quality of the pieces where, as with improvised music, there is the imbrication of form and content: a precarious balance between organising the sound and letting the sound disorganise the composition. Thus, through all parts of the process it is as if the intensity of Dockstader's pieces are a direct outcome of the lack of any mediating device between the sounds, his listening into them and the finished piece we listen into. No screen. No software. No baton. No score. Sounds are neither softened nor made palatable, they are not organised into compositions that make the sounds operate figuratively, but are composed in a way that makes sound audible as a non-narrative process.</p>
 <p>Apocalypse (Part 2) with its use of 'various doors' and a 'Gregorian chant' seems to depict Dockstader in the process of doing everything possible to continually transform his source. This reflexive technique thus raises a use of repetition and it is this aspect that could be seen as another way that his music is different from the traditional approach of musique-concrete. Pieces such as Apocalypse and Quatermass both use the same sources repeatedly and in so doing they inflect the music, not with a repetitious edge, but with a cinematic atmosphere that is creative of a sustained and portentous mood. The Tango piece (and others from Quatermass) also use steady rhythms more readily than other musique concrete electronic/tape constructions. This is also audible during Drone where a repeating bass motif is briefly held-out to feed-forward towards a moment of meta-funk. Once more this points to an appreciation of Dockstader from the vantage point of a more populist approach the 60s pop producer Joe Meek, though intent on record sales, was similarly involved in the possibilities of the music studio and his I Hear A New World concept album bears some resemblance to the more architectonic and finely detailed work of Dockstader. But Meek was mainly interested in enhancing the sound of ballad-singers and beat-groups and did not resist &quot;forcing the sounds too far into music&quot;.</p>
-<p>So whilst both Meek and Dockstader both used tape-phasing techniques to create a 3-D effect through echo it is with Dockstader that sound-processing comes to the fore. Sound for sound. Sound as desire. Desire in perception. A group of singular emergences.</p>
+
+So whilst both Meek and Dockstader both used tape-phasing techniques to create a 3-D effect through echo it is with Dockstader that sound-processing comes to the fore. Sound for sound. Sound as desire. Desire in perception. A group of singular emergences.
+
 <h3 data-magellan-destination="time-out">[Time-out]</h3>
 <a name="time-out" id="time-out"></a>
-<p>And so listening to Dockstader's music is like listening to a 'gap of deferred time' in that what we hear is neither history nor cult but a sense of our discontinuity from the so-called continuities of musical tradition. That Dockstader's experiments had to cease because of his &quot;lack of academic credentials&quot; may have had the bonus effect of burying and preserving his work, making it seem like an unintentioned accident that, not being 'overcoded' and allotted its place in 'musical knowledge', is thus always open to rediscovery by any that stumble across it. Thus it is a music that is always liable to retain something of the vitality and passion that was initially injected into it. For what is communicated in the work of Dockstader is the sense that conformity to categories and expectations is a way to diminish our desire to listen and thereby to repress the continual process of singularisation as it remakes itself through the obsessive pursuit of sounds in transformation.</p>
-<blockquote>This is the music of the interstice ... Late nights in a studio in 1961 ... Nothing telling us how to respond...</blockquote>
+
+And so listening to Dockstader's music is like listening to a 'gap of deferred time' in that what we hear is neither history nor cult but a sense of our discontinuity from the so-called continuities of musical tradition. That Dockstader's experiments had to cease because of his &quot;lack of academic credentials&quot; may have had the bonus effect of burying and preserving his work, making it seem like an unintentioned accident that, not being 'overcoded' and allotted its place in 'musical knowledge', is thus always open to rediscovery by any that stumble across it. Thus it is a music that is always liable to retain something of the vitality and passion that was initially injected into it. For what is communicated in the work of Dockstader is the sense that conformity to categories and expectations is a way to diminish our desire to listen and thereby to repress the continual process of singularisation as it remakes itself through the obsessive pursuit of sounds in transformation.</p>
+
+> This is the music of the interstice ... Late nights in a studio in 1961 ... Nothing telling us how to respond...
+
 <footer>
   <div class="vcard">by
     <address class="author">

@@ -1,27 +1,9 @@
 ---
 layout: page
-sidebar: left
-subheadline: 
 title: "Four Telemetry Tapes"
-teaser: ""
-breadcrumb: true
+sidebar: compositions
 categories:
     - compositions
-samples:
-    - telemetry1_1.mp3
-    - telemetry1_2.mp3
-    - telemetry2_1.mp3
-    - telemetry2_2.mp3
-    - telemetry3_1.mp3
-    - telemetry3_2.mp3
-    - telemetry4_1.mp3
-    - telemetry4_2.mp3
-    - telemetry4_3.mp3
-image:
-    url: picture20.jpg
-    title: Tod Dockstader and James Reichert in the studio mixing Omniphony
-    caption: Tod Dockstader and James Reichert in the studio mixing Omniphony
-
 ---
 
 Four Telemetry Tapes are the last pieces of truly organized sound that I did - though they're almost entirely "electronic":three rewired audio test generators, played by twisting dials and knobs. The original idea came from recordings of early satellites, starting with Sputnik: the messages they sent back to earth, "telemetry," were, to my ears, in the form of loops, slowly and subtly changing over transmission times. I constructed a lot of these loops, and started to mix them - and managed to create an early form of what became New Age music: restful, but, to me, dull. 

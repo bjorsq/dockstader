@@ -1,12 +1,9 @@
 ---
 layout: page
-show_meta: false
-subheadline: ""
 title: "Biography"
 description: "Tod Dockstader was born in 1932 in St.Paul, Minnesota, and died on February 27th, 2015. After an early career in storyboarding cartoons, he worked as a recording engineer at Gotham Reconrding Studios, where he spent his off-work hours experimenting with tape."
-header:
-   image_fullwidth: ""
 permalink: "/biography/"
+sidebar: default
 ---
 
 <div data-magellan-expedition="fixed">

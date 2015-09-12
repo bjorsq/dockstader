@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ReR MEGACORP press releases"
+sidebar: reviews
 categories:
     - reviews
 ---

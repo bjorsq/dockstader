@@ -22,6 +22,6 @@
   url: "/interviews/"
   side: left
 
-- title: "Music"
-  url: "/music/"
-  side: right
+- title: "Links"
+  url: "/links/"
+  side: left

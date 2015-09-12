@@ -1,13 +1,10 @@
 ---
 layout: page
-title: "Revue et Corrigee (France), by Jerome Noetinger (trans. by J. Frey)"
+title: "Review of Starkland releases in Revue et Corrigee (France), by Jerome Noetinger (trans. by J. Frey)"
+sidebar: reviews
 categories:
     - reviews
 ---
-
-## Revue et Corrigee (France)
-
-### by Jerome Noetinger (trans. by J. Frey)
 
 Another discovery is the music of Tod DOCKSTADER, at least for me, although some already know his music on LP. Born in 1932, this American composer started out studying painting and film making. By 1955 he was combining sound with images and working on some cartoons. In 1958, working as a sound engineer in a commercial recording studio, during off hours he made himself a collection of sounds, and began to try doing *musique concrète* which he had heard about on the radio. He prefers the term "organized sounds" from Edgar Varèse's *organisation sonore*, for it short circuits questions like "Is it still music?" His organized sounds are mainly acoustic in origin, but Tod DOCKSTADER also uses some oscillators, a kind of early ancestor of synthesizers. "A worker in rhythms, frequencies, and intensities."
 
