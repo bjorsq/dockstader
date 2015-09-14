@@ -1066,4 +1066,6 @@
         },
         reflow: function() {}
     };
-}(jQuery, window, window.document);
+}(jQuery, window, window.document), function(a) {
+    a(document).foundation(), alert("hi");
+}(jQuery);

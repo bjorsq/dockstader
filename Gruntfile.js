@@ -1,6 +1,6 @@
 module.exports = function(grunt) {
 	require('load-grunt-tasks')(grunt);
-	var foundationjs = [
+	var alljs = [
 		'_bower_components/foundation/js/foundation/vendor/jquery.cookie.js',
 		'_bower_components/foundation/js/foundation/vendor/fastclick.js',
 		'_bower_components/foundation/js/foundation/vendor/placeholder.js',
@@ -21,6 +21,7 @@ module.exports = function(grunt) {
 		'_bower_components/foundation/js/foundation/foundation.tab.js',
 //		'_bower_components/foundation/js/foundation/foundation.tooltip.js',
 		'_bower_components/foundation/js/foundation/foundation.topbar.js',
+		'assets/js/src.js'
 	];
 	grunt.initConfig({
 		pkg: grunt.file.readJSON('package.json'),
@@ -57,7 +58,7 @@ module.exports = function(grunt) {
 					beautify: true
 				},
 				files: {
-					'assets/js/dockstader.js': foundationjs
+					'assets/js/dockstader.js': alljs
 				}
 			},
 			dist: {
@@ -65,7 +66,7 @@ module.exports = function(grunt) {
 					compress: true
 				},
 				files: {
-					'assets/js/dockstader.min.js': foundationjs
+					'assets/js/dockstader.min.js': alljs
 				}
 			}
 		},
