@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-<div class="row t30">
-	<div class="small-12 columns">
-		{% if site.data.discography %}
+<div class="row">
+	{% if site.data.discography %}
 		{% for label in site.data.discography %}
 		<section>
 			<header>
@@ -14,7 +13,7 @@ layout: default
 			</header>
 			{% for release in label.recordings %}
 			<div class="release">
-				<img src="{{ site.urlimg }}discography/{{ release.coverimage }}">
+				<img src="{{ site.urlimg }}discography/{{ release.coverimage }}" class="left">
 				<h3>{{ release.title }} ({{ release.date }})</h3>
 				<p class="cat-no">{{ release.catalogue_no }}</p>
 				<p class="content">{{ release.contents }}</p>
@@ -22,6 +21,5 @@ layout: default
 			{% endfor %}
 		</section>
 		{% endfor %}	
-		{% endif %}	
-	</div>
+	{% endif %}	
 </div>
