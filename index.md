@@ -1,17 +1,13 @@
 ---
 layout: page
-sidebar: default
+sidebar: homepage
 title: "The Unofficial Tod Dockstader website"
+magellan:
+    - feed-forward
+    - back-track
+    - sound-off
+    - time-out
 ---
-
-<div data-magellan-expedition="fixed">
-  <dl class="sub-nav">
-    <dd data-magellan-arrival="feed-forward"><a href="#feed-forward">[Feed-forward]</a></dd>
-    <dd data-magellan-arrival="back-track"><a href="#back-track">[Back-track]</a></dd>
-    <dd data-magellan-arrival="sound-off"><a href="#sound-off">[Sound-off]</a></dd>
-    <dd data-magellan-arrival="time-out"><a href="#time-out">[Time-out]</a></dd>
-  </dl>
-</div>
 
 ## WITH THE SOUND IN YOUR EARS
 

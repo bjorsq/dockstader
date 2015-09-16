@@ -99,16 +99,16 @@ module.exports = function(grunt) {
 
 			sass: {
 				files: '_scss/*.scss',
-				tasks: ['sass']
+				tasks: ['sass','shell:jekyllBuild']
 			},
 
 			js: {
 				files: 'assets/js/src.js',
-				tasks: ['js']
+				tasks: ['js','shell:jekyllBuild']
 			},
 
 			content: {
-				files: '**/*.md',
+				files: ['**/*.md', '_layouts/*.html', '_includes/*.html', '_data/*.yaml'],
 				tasks: 'shell:jekyllBuild'
 			}
 		}

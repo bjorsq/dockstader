@@ -1067,5 +1067,5 @@
         reflow: function() {}
     };
 }(jQuery, window, window.document), function(a) {
-    a(document).foundation(), alert("hi");
+    a(document).foundation();
 }(jQuery);

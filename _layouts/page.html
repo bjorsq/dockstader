@@ -2,52 +2,18 @@
 layout: default
 format: post
 ---
-<div class="row t30">
-	<div class="{% if page.sidebar == NULL %} medium-offset-2 end{% else %}medium-8 columns{% endif %}">
-		<article itemscope itemtype="http://schema.org/Article">
-			<header>
-				{% if page.image.title %}
-				<figure>
-					<img src="{{ site.url }}/images/{{ page.image.title }}" width="970" alt="{{ page.title escape_once }}" itemprop="image">
 
-					{% if page.image.url && page.image.credit %}
-					<figcaption class="text-right">
-						<a href="{{ page.image.url }}">{{ page.image.credit }}</a>
-					</figcaption>
-					{% elsif page.image.credit %}
-					<figcaption class="text-right">
-						{{ page.image.credit }}
-					</figcaption>
-					{% endif %}
-				</figure>
-				{% endif %}
-
-				{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
-				<h1>{{ page.title }}</h1>
-			</header>
-
-
-			{% if page.teaser %}
-			<p class="teaser" itemprop="description">
-				{{ page.teaser }}
-			</p>
+<div class="row">
+	<article itemscope itemtype="http://schema.org/Article">
+		<header>
+			{% if page.image.title %}
+			<figure>
+				<img src="{{ site.urlimg }}svg/{{ page.image.title }}" width="940" alt="{{ page.title escape_once }}">
+			</figure>
 			{% endif %}
+		</header>
 
-			{{ content }}
+		{{ content }}
 
-		</article>
-	</div><!-- /.medium-8.columns -->
-
-
-{% if page.sidebar != NULL %}
-	<div class="medium-4 columns">
-	{% if page.sidebar == "reviews" %}
-		{% include sidebar-reviews.html %}
-	{% elsif page.sidebar == "compositions" %}
-		{% include sidebar-compositions.html %}
-	{% else %}
-		{% include sidebar-default.html %}
-	{% endif %}
-	</div><!-- /.medium-4.columns -->
-{% endif %}
-</div><!-- /.row -->
+	</article>
+</div>
