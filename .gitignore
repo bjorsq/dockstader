@@ -7,3 +7,6 @@ _bower_components
 # jekyll/sass
 _site/
 .sass-cache/
+
+# pdfs
+assets/pdf
