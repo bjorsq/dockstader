@@ -30,5 +30,8 @@
     "foundation": "zurb/bower-foundation",
     "foundation-libsass-template": "zurb/foundation-libsass-template",
     "html5-boilerplate": "h5bp/html5-boilerplate#~5.2.0"
+  },
+  "devDependencies": {
+    "svgeezy": "benhowdle89/svgeezy#~1.0.0"
   }
 }
