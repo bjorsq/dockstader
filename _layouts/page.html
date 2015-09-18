@@ -6,7 +6,7 @@ format: post
 <div class="row">
 	<article itemscope itemtype="http://schema.org/Article">
 		<header>
-			{% if page.image.title %}
+			{% if page.headerimage %}
 			<figure>
 				<img src="{{ site.urlimg }}svg/{{ page.image.title }}" width="940" alt="{{ page.title escape_once }}">
 			</figure>
