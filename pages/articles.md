@@ -1,19 +1,35 @@
 ---
 layout: page
-title: "Articles"
+title: "Links, Articles and Tributes"
+headerimage: svg/articles.svg
 permalink: "/articles/"
 sidebar: default
 ---
 
+### Links
+
+* [Unlocking Dockstader](http://unlockingdockstader.com/)
+* [Tod Dockstader Wikipedia page](https://en.wikipedia.org/wiki/Tod_Dockstader)
+* [Starkland](http://www.starkland.com/)
+
+### Articles by Tod Dockstader
+
 <ul>
     {% for post in site.categories.articles %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br>{{ post.intro }}</li>
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-    <li><a href="http://www.starkland.com/musicians/dockstader.htm">Starkland's Dockstader page</a></li>
-    <li><a href="http://www.wired.com/2012/06/tod-dockstader/">Legends of Electronic Music</a><br>Profile by Geeta Dayal in WIRED magazine, July 6, 2012</li>
-    <li><a href="http://daily.redbullmusicacademy.com/2013/06/secret-circuits">Secret Circuits: New York’s Early Electronic Music Mavericks</a> by Geeta Dayal</li>
-    <li><a href="https://www.tumblr.com/search/tod-dockstader">Tod Dockstader on tumblr</a></li>
 </ul>
+
+
+### Articles about Tod Dockstader
+
+* [Starkland's Dockstader page](http://www.starkland.com/musicians/dockstader.htm)
+* [Legends of Electronic Music](http://www.wired.com/2012/06/tod-dockstader/) in Wired magazine (6/7/12) by Geeta Dayal
+* [Brave Old World](http://www.citypages.com/2005-08-10/arts/brave-old-world/) on citypages.com (10/08/2005) by Andy Beta
+* [Legends of Electronic Music](http://www.wired.com/2012/06/tod-dockstader/) - profile by Geeta Dayal in WIRED magazine, July 6, 2012
+* [Secret Circuits: New York’s Early Electronic Music Mavericks(http://daily.redbullmusicacademy.com/2013/06/secret-circuits) - by Geeta Dayal
+* [Tod Dockstader](http://www.scaruffi.com/avant/dockstad.html) on scaruffi.com by Piero Scaruffi (English/Italian)
+* [Tod Dockstader](https://www.tumblr.com/search/tod-dockstader) on tumblr
 
 ### Tributes and Obituaries
 

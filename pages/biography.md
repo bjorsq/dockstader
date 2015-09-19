@@ -1,29 +1,18 @@
 ---
 layout: page
 title: "Biography"
+headerimage: svg/biography.svg
+
 description: "Tod Dockstader was born in 1932 in St.Paul, Minnesota, and died on February 27th, 2015. After an early career in storyboarding cartoons, he worked as a recording engineer at Gotham Reconrding Studios, where he spent his off-work hours experimenting with tape."
 permalink: "/biography/"
 sidebar: default
 ---
 
-<div data-magellan-expedition="fixed">
-  <dl class="sub-nav">
-    <dd data-magellan-arrival="early-career"><a href="#early-career">Early Career</a></dd>
-    <dd data-magellan-arrival="early-recordings"><a href="#early-recordings">Early Recordings</a></dd>
-    <dd data-magellan-arrival="westport-communications"><a href="#westport-communications">Westport Communications</a></dd>
-    <dd data-magellan-arrival="late-recordings"><a href="#late-recordings">Late Recordings</a></dd>
-    <dd data-magellan-arrival="dockstader-on-dockstader"><a href="#dockstader-on-dockstader">Docstader on Dockstader</a></dd>
-  </dl>
-</div>
-
 ### Early Career
-{: data-magellan-destination="early-career"}
-
 
 Tod Dockstader was born in 1932 in St.Paul, Minnesota. After majoring in psychology and art at the University of Minnesota, he went on to study painting and film, earning money by drawing cartoons for local newspapers and magazines. In 1955, Dockstader moved to California with his partner, Beverly, who had got a job teaching at an elementary school in Hollywood. He went looking for work and was rejected by Disney, but welcomed by United Productions of America (UPA) to work as an apprentice film editor, cutting picture and sound for animated cartoons including "Mr.Magoo" and "Gerald McBoing Boing." He then moved on to writing and storyboarding cartoons.
 
 ### Early Recordings
-{: data-magellan-destination="early-recordings"}
 
 Dockstader moved to New York in 1958 and became a self-taught sound engineer and sound effects specialist and apprenticed as a recording engineer at Gotham Recording Studios. It was around this time that he started to use his off-work hours  to experiment with mixing and manipulating sounds on magnetic tape (musique concrète). By 1960 he had amassed enough material to assemble his first record [Eight Electronic Pieces]({% post_url /compositions/2015-03-18-Eight-Electronic-Pieces %}) which was released on the Folkways label in 1961 (this would later be used in the soundtrack of Fellini's Satyricon). The last of the eight pieces was later re-worked into his first stereo piece [Travelling Music](({% post_url /compositions/2015-03-18-Travelling-Music %}).</p>
 
@@ -32,21 +21,18 @@ In 1961 he applied to use the facilities at the Columbia-Princeton Electronic Mu
 He continued to create music throughout the first half of the 60s, working principally with tape manipulation effects. His last piece at Gotham was [Four Telemetry Tapes]({% post_url /compositions/2015-03-18-Four-Telemetry-Tapes %}) in 1965, after which he left to work as an audio-visual designer on the Air Canada Pavillion at Montreal's Expo '67. It was around this time in 1966 that some of Dockstader's pieces were released on three Owl L.P.s, and his work became known to a larger audience. He achieved modest recognition and radio play alongside the likes of Karlheinz Stockhausen, Edgard Varèse, and John Cage.
 
 ### Westport Communications
-{: data-magellan-destination="westport-communications"}
 
 After leaving New York in the late 1960s he formed the audio-visual service Westport Communications Group along with business partner, and former Gotham executive, Fred Hertz. The company produced award-winning educational films for the American Heritage series, which Tod wrote, directed, and created sound for. By that time (late 60s) Tod and Beverly had a daughter, Tina who recalls her father immersing himself into each new project, becoming an expert on the subject at hand, be it the Civil War, the Roaring 20s, or some other aspect of American History. 
 
 Through his own company he was able to purchase the equipment, including at that time a Moog and two ARP Synthesizers. His only musical output of this period were two L.P.s of short, synth-based pieces released by Boosey & Hawkes and intended for film, radio, and television use.
 
 ### Late Recordings
-{:data-magellan-destination="late-recordings"}
 
 In the late 90s, Tina, who was now starting a family of her own in Massachusetts, convinced Tod to get a computer so that they could keep in contact via email. He quickly realized the computer’s potential for creating music and set about transferring hours and hours of DATs that he had accumulated over the years. During this time he released the three disc set Aerial and collaborated with David Lee Myers on two albums. 
 
 Later in his life, Tod cared for his wife Beverly, who suffered from Alzheimer's, and passed away peacefully at the age of 84 on February 27th, 2015 surrounded by his friends and family while listening to his own music.
 
 ### Docstader on Dockstader
-{: data-magellan-destination="dockstader-on-dockstader"}
 
 I don't remember just when I first heard *musique concrète*; it must have been in the early 50s. I think I liked the *idea* of it more than the Toonerville-Trolley sound of the early pieces. In Pierre Schaeffer's original definition, it meant working with the sound in your ears, directly with the sound, as opposed to "abstract" music in which the sounds are written. Like Schaeffer, a working sound engineer, I had the training to be a "worker in rhythms, frequencies and intensities." As a non-musician, I couldn't write music, but this "new art of sound" didn't need notation. In the beginning, *musique concrète* wasn't even agreed upon to be music; Schaeffer's first presentation of his work was called "a concert of noises."
 

@@ -4,3 +4,28 @@
 	width:100%;
 	padding:0 2%;
 }
+.small {
+	font-size:smaller;
+}
+.release {
+	img {
+		float:left;
+		margin:0 1em 1em 0;
+	}
+	.content {
+		clear:both;
+	}
+}
+.labelname {
+	background:$gainsboro;
+	padding-left:.1em;
+}
+figure {
+	margin:1em 0;
+	text-align:left;
+}
+img.figurehead {
+	width:100%;
+	height:auto;
+	max-height:8em;
+}

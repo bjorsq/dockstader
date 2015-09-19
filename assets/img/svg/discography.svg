@@ -8,7 +8,7 @@
 
    width="100%"
    height="100%"
-   viewBox="0,0,425,70">
+   viewBox="0,0,355,70">
   <svg:defs>
     <svg:style type="text/css"><![CDATA[
       .letter {
@@ -151,20 +151,17 @@
         d="m 22.588179,48.684379 c 0,3.441992 -2.79029,6.232278 -6.23228,6.232278 -3.441985,0 -6.232275,-2.790286 -6.232275,-6.232278 0,-3.441993 2.79029,-6.232279 6.232275,-6.232279 3.44199,0 6.23228,2.790286 6.23228,6.232279 z M 6.9387718,36.139822 c 0,0 -5.21225,-10.973155 0.20748,-15.830579 7.5039002,-6.725353 15.6096102,-5.877049 20.6901202,-2.643998 5.08051,3.233051 5.76334,10.288207 5.76334,10.288207 0,0 -1.47938,24.016949 -0.55565,25.864407 0.92373,1.847458 0.66936,6.225213 0.66936,6.225213 -2.24304,2.132277 -7.7675,4.549644 -9.69209,1.499292 -0.63749,-1.282806 -0.57557,-4.297458 -0.57557,-4.297458 0,0 -9.37154,6.941455 -14.9139102,4.632133 -5.54238,-2.309322 -9.97345,-14.920339 -4.89294,-19.538983 5.08051,-4.618645 18.4944902,-5.796752 20.8038102,-9.953532 2.30932,-4.15678 -0.17408,-7.918502 -4.79273,-7.918502 -4.61864,0 -6.03763,6.338913 -5.11391,7.851695 0.86784,1.421268 -7.5973102,3.822105 -7.5973102,3.822105 z"/>
   </svg:g>
   </svg:defs>
-  <svg:use xlink:href="#T"/>
-  <svg:use xlink:href="#d" class="letter" transform="translate(62,0)"/>
-  <svg:use xlink:href="#D" class="letter" transform="translate(120,0)"/>
-  <svg:use xlink:href="#c" class="letter" transform="translate(180,0)"/>
-  <svg:use xlink:href="#k" class="letter" transform="translate(210,0)"/>
-  <svg:use xlink:href="#s" class="letter" transform="translate(240,0)"/>
-  <svg:use xlink:href="#t" class="letter" transform="translate(270,0)"/>
-  <svg:use xlink:href="#a" class="letter" transform="translate(300,0)"/>
-  <svg:use xlink:href="#d" class="letter" transform="translate(330,0)"/>
-  <svg:use xlink:href="#e" class="letter" transform="translate(360,0)"/>
-  <svg:use xlink:href="#r" class="letter" transform="translate(390,0)"/>
-  <svg:use xlink:href="#reel_cw" transform="translate(26,25) scale(.42)"/>
-  <svg:use xlink:href="#reel_ccw" transform="translate(150,25) scale(.42)"/>
-  <svg:use xlink:href="#reel_cw" transform="translate(307,39) scale(.18)"/>
-  <svg:use xlink:href="#reel_ccw" transform="translate(369,24) scale(.18)"/>
+  <svg:use xlink:href="#D" class="letter"/>
+  <svg:use xlink:href="#i" class="letter" transform="translate(37,0)"/>
+  <svg:use xlink:href="#s" class="letter" transform="translate(54,0)"/>
+  <svg:use xlink:href="#c" class="letter" transform="translate(84,0)"/>
+  <svg:use xlink:href="#g" class="letter" transform="translate(150,0)"/>
+  <svg:use xlink:href="#r" class="letter" transform="translate(185,0)"/>
+  <svg:use xlink:href="#a" class="letter" transform="translate(214,0)"/>
+  <svg:use xlink:href="#p" class="letter" transform="translate(247,0)"/>
+  <svg:use xlink:href="#h" class="letter" transform="translate(283,0)"/>
+  <svg:use xlink:href="#y" class="letter" transform="translate(316,0)"/>
+  <svg:use xlink:href="#reel_ccw" transform="translate(115,21) scale(.42)"/>
+  <svg:use xlink:href="#reel_cw" transform="translate(221,39) scale(.18)"/>
 
 </svg:svg>

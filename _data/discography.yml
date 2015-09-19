@@ -8,7 +8,7 @@
         date: "2005"
         title: "Aerial"
         coverimage: "aerial_cover.jpg"
-        contents: "*&quot;Airwaves allow for a silence that is not dead, representing a presence even wthout a signal&quot;*</p><p>Dockstader has given up tape manipulation in favour of working with frequencies and computer composition. Unlike the cycle of 1960-65, these pieces no longer rely on interruptions, accumulations, and complex acceleration effects. Instead, we have slow, penetrating pulses that explore every corner with celestial thrills."
+        contents: "<blockquote>&quot;Airwaves allow for a silence that is not dead, representing a presence even wthout a signal&quot;</blockquote><p>Dockstader has given up tape manipulation in favour of working with frequencies and computer composition. Unlike the cycle of 1960-65, these pieces no longer rely on interruptions, accumulations, and complex acceleration effects. Instead, we have slow, penetrating pulses that explore every corner with celestial thrills."
         url: "http://www.subrosa.net/"
 
       -
@@ -95,7 +95,7 @@
         catalogue_no: "MM054"
         date: "2015-01-26"
         title: "Tod Dockstader &ldquo;Electronic Vol.1&rdquo; vinyl/download"
-        coverimage: "MM054.jpg"
+        coverimage: "MM054.png"
         contents: "Tod Dockstader's synth-based library production music lives again with the first of two bulbous volumes...to this day TD remains a gargant of free-spirited nocturnal composition...shards of avant garde on the trunk line...Vibrations Inc.<br>A reproduction of Dockstader&rsquo;s first LP of library music for Boosey &amp; Hawkes (SBH 3073)."
         url: "https://toddockstader.bandcamp.com/album/electronic-vol-1"
 
@@ -103,7 +103,7 @@
         catalogue_no: "MM055"
         date: "2013-01-01"
         title: "Tod Dockstader &ldquo;Electronic Vol.2&rdquo; vinyl/download"
-        coverimage: "MM055.jpg"
+        coverimage: "MM055.png"
         contents: "MM spore the second Tod Dockstader library album salvo after the first volume took local councils by storm...1981 is the year in question this time and once again TD deploys an arsenal of synths for the Aldwych-based Boosey & Hawkes...a behemoth of the avant-garde shows the digital age how to synth-spar with aplomb...<br>A reproduction of Dockstader&rsquo;s second LP of library music for Boosey &amp; Hawkes (SBH 3082). "
         url: "https://toddockstader.bandcamp.com/album/electronic-vol-2"
 
@@ -210,7 +210,7 @@
         catalogue_no: "LOCUST 36"
         date: "2003"
         title: "Eight Electronic Pieces"
-        coverimage: "eightpieces_cover.gif"
+        coverimage: "locust.jpg"
         contents: "Reissue of Dockstader's crucial and remarkably advanced early concrete pieces, originally released privately and then reissued by Folkways in 1961. Tod Dockstader did the analog-to-digital transfer from the original tape, and Ernst Karel mastered the recordings for CD."
         url: "http://www.locustmusic.com/dockstader.html"
 

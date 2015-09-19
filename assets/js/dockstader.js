@@ -1067,5 +1067,15 @@
         reflow: function() {}
     };
 }(jQuery, window, window.document), function(a) {
-    a(document).foundation();
+    function b() {
+        return document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1");
+    }
+    if (a(document).foundation(), !b()) {
+        var c = document.getElementsByTagName("img");
+        c.length || (c = document.getElementsByTagName("IMG"));
+        for (var d = 0, e = c.length; e > d; d++) {
+            var f = c[d], g = f.getAttribute("src");
+            g.match(/svgz?$/) && f.setAttribute("src", f.getAttribute("data-fallback"));
+        }
+    }
 }(jQuery);

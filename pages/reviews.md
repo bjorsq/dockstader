@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Reviews"
+headerimage: svg/reviews.svg
 permalink: "/reviews/"
 sidebar: default
 ---
