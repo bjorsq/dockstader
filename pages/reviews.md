@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Reviews"
+description: "When Owl first released the LPs, there were only a few reviews. When Thomas Steenland took over Owl in the late '70s, he got some new exposure for the LPs, abd one of the first reviews of the Starkland CDs was by Joe McLellan, then the main critic of The Washington Post, who turned out to be a Dockstader fan."
 headerimage: svg/reviews.svg
 permalink: "/reviews/"
 sidebar: default
