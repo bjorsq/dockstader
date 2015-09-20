@@ -1,15 +1,31 @@
 ---
   -
     name: "Sub Rosa"
-    preamble: ""
+    preamble: "<blockquote>&quot;Airwaves allow for a silence that is not dead, representing a presence even wthout a signal&quot;</blockquote><p>Dockstader has given up tape manipulation in favour of working with frequencies and computer composition. Unlike the cycle of 1960-65, these pieces no longer rely on interruptions, accumulations, and complex acceleration effects. Instead, we have slow, penetrating pulses that explore every corner with celestial thrills.</blockquote><p>Sub Rosa released Tod Dockstader's Aerial in three installments during 2005, the first of which came with a cardboard sleeve in which to collect the remaining releases.</p>"
     recordings:
       -
-        catalogue_no: "SR 223, SR 228 &amp; SR 233"
+        catalogue_no: "SR 223"
         date: "2005"
-        title: "Aerial"
-        coverimage: "aerial_cover.jpg"
-        contents: "<blockquote>&quot;Airwaves allow for a silence that is not dead, representing a presence even wthout a signal&quot;</blockquote><p>Dockstader has given up tape manipulation in favour of working with frequencies and computer composition. Unlike the cycle of 1960-65, these pieces no longer rely on interruptions, accumulations, and complex acceleration effects. Instead, we have slow, penetrating pulses that explore every corner with celestial thrills."
-        url: "http://www.subrosa.net/"
+        title: "Aerial #1"
+        coverimage: "aerial_1.jpg"
+        contents: "Song, Om, Runble, Shout, Raga, Dada, Tremblar, Lala, Myst, Aw, March, Harbor, Swell, Pulse, Second Song"
+        url: "http://www.subrosa.net/en/catalogue/early-electronic-music/tod-dockstader.html"
+
+      -
+        catalogue_no: "SR 228"
+        date: "2005"
+        title: "Aerial #2"
+        coverimage: "aerial_2.jpg"
+        contents: "Approach, Omaggio a Fellini, Pipes, Orgal, Babbel, Yaya, Ba Loon, Clocking, Wail, Bottom, Feeder, Spindrift, Surfer, Low Roller, Still, Beating, Piccolo, Wire, Knock, Wah, Aah"
+        url: "http://www.subrosa.net/en/catalogue/early-electronic-music/tod-dockstader_01.html"
+
+      -
+        catalogue_no: "SR 233"
+        date: "2005"
+        title: "Aerial #3"
+        coverimage: "aerial_3.jpg"
+        contents: "Mutter, Wave, Descent, Voicetrain, Howl, Surge, Wheeze, CQ, Jam, Bounce, Whisper, Oh, Stomp, Harmonic, Din, Pressure, Serious Jig, Stream, Steam, Wait, Woo, Finale"
+        url: "http://www.subrosa.net/en/catalogue/early-electronic-music/tod-dockstader_02.html"
 
       -
         catalogue_no: "SR 200 CD"
