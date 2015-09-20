@@ -13,7 +13,7 @@ releases:
     - 'ORLP-6'
 ---
 
-Apocalypse followed Luna: I wanted to do something heavier, thicker in texture, more unruly and alarming - a concrete *Deis Irae*. The slowed (creaking)doors and the cat-cry toy are central to it: they provided the threat and despair I wanted (the cat-cry toy was a little round box with a picture of a cat on it which, when you turned it upside down, emitted a thin, pathetic little cry - slowed[on tape], it became, I thought, heart-wrenching). 
+Apocalypse followed [Luna]({% post_url compositions/2015-03-18-luna-park %}): I wanted to do something heavier, thicker in texture, more unruly and alarming - a concrete *Deis Irae*. The slowed (creaking)doors and the cat-cry toy are central to it: they provided the threat and despair I wanted (the cat-cry toy was a little round box with a picture of a cat on it which, when you turned it upside down, emitted a thin, pathetic little cry - slowed[on tape], it became, I thought, heart-wrenching). 
 
 The passage of Gregorian chant, in Part Two, was used as a vocalization of the door sounds - I'm always looking for sounds of different timbres that express the same emotion. The inclusion of Hitler (tape-echoed into gibberish) in the last part is from my radio childhood, when I heard his broadcasts in the late thirties: I didn't understand a word, but the terrifying sound of it (made stranger by the shortwave phasing) stayed with me. 
 
