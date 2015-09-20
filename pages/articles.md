@@ -13,6 +13,8 @@ sidebar: default
 * [Tod Dockstader Wikipedia page](https://en.wikipedia.org/wiki/Tod_Dockstader)
 * [Starkland](http://www.starkland.com/)
 
+![Tod Dockstader in the studio, circa 1965]({{ site.urlimg }}photographs/tod-dockstader-05.jpg){: .right}
+
 ### Articles by Tod Dockstader
 
 <ul>

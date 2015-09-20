@@ -4,10 +4,9 @@ title: "Tod Dockstader by Ken Hollings, June, 2005"
 description: "This article first appeared in The Wire issue 256 June 2005."
 categories:
     - interviews
-
 ---
 
-This article first appeared in The Wire issue 256 June 2005. &copy; The Wire, Reproduced by permission. Special thanks to The Wire (http://www.thewire.co.uk/) and author Ken Hollings (http://www.kenhollings.com/) for allowing me to reproduce this article here.
+This article first appeared in The Wire issue 256 June 2005. &copy; The Wire, Reproduced by permission. Special thanks to [The Wire](http://www.thewire.co.uk/) and author [Ken Hollings](http://www.kenhollings.com/) for allowing me to reproduce this article here.
 
 Tod Dockstader wanders down the fluorescent aisles of his local supermarket like a polite ghost. Self-contained and quiet of manner, you may not notice him at first amid the busy shelves and stacked freezer cabinets, but then some detail will catch your eye: his neatly pressed khakis, the knitted white sweater or the crisp Reebok touchline jacket he's wearing. At 73, he displays a casual elegance that allows him to both blend in and stand apart from the suburban sprawl that surrounds him in Westport, Connecticut, a quiet stop on the Metro-North Railroad about 50 miles out from New York's Grand Central Station.
 
