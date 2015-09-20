@@ -14,6 +14,8 @@ The session took place in March 1966 at the Gotham Recording Corporation studios
 
 Next came the mixing of these sounds, and again the facilities of the Gotham Recording Corporation were used. This last phase was the most important of all because it would be then, and only then, that Dockstader and Reichert would know if their adventurous concepts would materialise into a valid musical work of major proportions, or just an experimental curiosity for hi-fi buffs. A year later they finished the re-composition. This recording of Omniphony is the premiere and only performance of their work.
 
+![Tod Dockstader in the studio with James Reichert, circa 1965]({{ site.urlimg }}photographs/tod-dockstader-04.jpg){: .full}
+
 ### Instrumentalists
 
 Harvey Estrin: Flute, Stanley Drucker: B-flat Clarinet, Harry Shulman: Oboe, Elias Carmen: Bassoon, Raymond Crisara: Trumpet, Joseph Singer: French Horn, Abraham Pearlstein: Baritone Horn, Richard Hixon: Bass Trombone, Harvey Shapiro: Cello, John Carter: Piano/Celeste, Morris Lang: Timpani, Walter Rosenberger: Percussion, Herbert Harris: Percussion/Contractor

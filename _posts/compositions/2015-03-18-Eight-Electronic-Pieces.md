@@ -26,6 +26,8 @@ Europe has been quicker to realise aid to composers who want to work in electron
 
 *Tod Dockstader, July 30, 1961*
 
+![Score for Eight Electronic pieces from Folkways liner notes]({{ site.urlimg }}compositions/eight-electronic-pieces-score.png){: .full}
+
 ### Sleeve notes for the Locust CD issue
 
 Tod Dockstader's *Eight Electronic Pieces* is an unqualified masterpiece of Musique Concrète, a transmission from a reality that is strangely familiar yet completely removed from everyday experience. It is chaotic yet surgically precise, otherworldly in its sound and scope yet unmistakably the product of human innovation and discovery. It is most of all a challenge to the musical form - Dockstader eschews traditional melody, harmony and rhythm - but in cutting, pasting and manipulating recorded sounds he evokes genuine drama and emotion, properties that distinguish the finest music regardless of its origins and elemental makeup.

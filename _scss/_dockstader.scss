@@ -24,8 +24,30 @@ figure {
 	margin:1em 0;
 	text-align:left;
 }
-img.figurehead {
-	width:100%;
-	height:auto;
-	max-height:8em;
+img {
+	&.figurehead {
+		width:100%;
+		height:auto;
+		max-height:8em;
+	}
+	&.full,
+	&.right,
+	&.left {
+		width:100%;
+		height:auto;
+	}
+}
+@media #{$medium-up} {
+	img {
+		&.right {
+			width:50%;
+			margin:0 0 1em 1em;
+			float:right;
+		}
+		&.left {
+			width:50%;
+			margin:0 1em 1em 0;
+			float:left;
+		}
+	}
 }

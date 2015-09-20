@@ -8,7 +8,7 @@
 
    width="100%"
    height="100%"
-   viewBox="0,0,353,70">
+   viewBox="0,0,644,70">
    <svg:defs>
     <svg:style type="text/css"><![CDATA[
       .letter {
@@ -186,16 +186,28 @@
   <svg:path class="letter" id="comma"
     d="M 2.117251,53.37866 C 2.4092856,52.210521 4.9795452,51.815455 6.0597183,52.28353 8.249978,53.232642 8.8340472,55.130867 8.6880299,56.591041 8.5339238,58.132101 6.4247616,62.06669 3.9424674,61.920672 1.4601731,61.774655 0.87610386,61.336603 1.0221212,60.606516 1.1681385,59.87643 1.3871644,58.854309 2.117251,58.927317 2.8473375,59.000326 3.5774241,59.438378 3.8694587,58.343248 4.1614934,57.248119 2.4822942,57.978205 1.898225,56.737058 1.3141557,55.495911 2.117251,53.37866 2.117251,53.37866 z"/>
   </svg:defs>
-  <svg:use xlink:href="#D"/>
-  <svg:use xlink:href="#i" transform="translate(37,0)"/>
-  <svg:use xlink:href="#s" transform="translate(54,0)"/>
-  <svg:use xlink:href="#c" transform="translate(84,0)"/>
-  <svg:use xlink:href="#g" transform="translate(150,0)"/>
-  <svg:use xlink:href="#r" transform="translate(185,0)"/>
-  <svg:use xlink:href="#a" transform="translate(214,0)"/>
-  <svg:use xlink:href="#p" transform="translate(247,0)"/>
-  <svg:use xlink:href="#h" transform="translate(283,0)"/>
-  <svg:use xlink:href="#y" transform="translate(316,0)"/>
-  <svg:use xlink:href="#reel_ccw" transform="translate(115,21) scale(.42)"/>
+  <svg:use xlink:href="#L"/>
+  <svg:use xlink:href="#i" transform="translate(33,0)"/>
+  <svg:use xlink:href="#n" transform="translate(50,0)"/>
+  <svg:use xlink:href="#k" transform="translate(81,0)"/>
+  <svg:use xlink:href="#s" transform="translate(111,0)"/>
+  <svg:use xlink:href="#comma" transform="translate(142,0)"/>
+  <svg:use xlink:href="#A" transform="translate(162,0)"/>
+  <svg:use xlink:href="#r" transform="translate(200,0)"/>
+  <svg:use xlink:href="#t" transform="translate(230,0)"/>
+  <svg:use xlink:href="#i" transform="translate(263,0)"/>
+  <svg:use xlink:href="#c" transform="translate(281,0)"/>
+  <svg:use xlink:href="#l" transform="translate(313,0)"/>
+  <svg:use xlink:href="#e" transform="translate(328,0)"/>
+  <svg:use xlink:href="#s" transform="translate(359,0)"/>
+  <svg:use xlink:href="#comma" transform="translate(389,0)"/>
+  <svg:use xlink:href="#T" transform="translate(410,0)"/>
+  <svg:use xlink:href="#r" transform="translate(440,0)"/>
+  <svg:use xlink:href="#i" transform="translate(472,0)"/>
+  <svg:use xlink:href="#b" transform="translate(489,0)"/>
+  <svg:use xlink:href="#u" transform="translate(521,0)"/>
+  <svg:use xlink:href="#t" transform="translate(550,0)"/>
+  <svg:use xlink:href="#e" transform="translate(580,0)"/>
+  <svg:use xlink:href="#s" transform="translate(610,0)"/>
 
 </svg:svg>

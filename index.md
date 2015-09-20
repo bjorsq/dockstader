@@ -11,11 +11,14 @@ title: "The Unofficial Tod Dockstader website"
 
 > "No one is responsible for an emergence; no one can glory in it, since it always occurs in the interstice"
 
+
 ### [Feed-forward]
 
 We can maybe begin with history but to historify is to set precedents and conform to the unspoken rules that say there has got to be a first and that then there's a lineage to follow. So there is genre and the sound of silence and our enthusiasm becomes muted behind a self-perceived lack of knowledge that is always uttered by experts. We are disqualified by history. However, to be self-consciously working in 'history' is to be nothing other than to be too closely affixed to the demands and expectations of the present. Instead of this instant contemporaneity, an infamy that is often mediated and emphatically 'new',  sound-mavericks like Dockstader, following a laborious and singular vein of experimentation, seem to fall into a space that is neither musical nor traditional, neither past nor present.
 
 Listening to Dockstader is like listening to an event as it unfolds for the first time. It is not to eavesdrop on a institutionalised and monologic music of the past,  but it is to embrace a form of musical polyphony that does not reduce the "diversity of time" to the hierarchic dimension of originators and imitators. With Dockstader we are invited to listen to sound as it emerges in its materiality: a present becoming the future by way of the past. A reclaimed history. Most of all, as listeners, Dockstader makes sure that we are eminently qualified in that the basis of his experimentation is the basis of our own experimentation as listeners:  we too work "directly with the sound" in our ears.Listening is time regained.
+
+![Tod Dockstader, circa 1965]({{ site.urlimg }}photographs/tod-dockstader-01.jpg){: .full}
 
 ### [Back-track]
 
@@ -46,12 +49,13 @@ And so listening to Dockstader's music is like listening to a 'gap of deferred t
 > This is the music of the interstice ... Late nights in a studio in 1961 ... Nothing telling us how to respond...
 
 <footer>
+  <p class="small">Text assembled with reference to Michel Foucault's <em>Archaeology of Knowledge</em>, Morton Feldman's <em>Essays</em>, and with reference to the Starkland sleevenote material assembled on this site.</p>
   <div class="vcard">by
     <address class="author">
       <span class="fn">Howard Slater</span>
       <span class="organization-name">Break/Flow</span>
     </address>
+    <time datetime="1999-03-01" class="published updated">March 1999</time>
   </div>
-  <time datetime="1999-03-01" class="published updated">March 1999</time>
-  <p class="endnote">Text assembled with reference to Michel Foucault's Archaeology of Knowledge, Morton Feldman's Essays, and with reference to the Starkland sleevenote material assembled on this site.</p>
+  
 </footer>
