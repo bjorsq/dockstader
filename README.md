@@ -7,4 +7,4 @@ When a search for Tod Dockstader drew a blank, I decided it was time someone did
 
 I had some contact with Tod in the late nineties, and one of his questions was "Why is it called the *Unofficial* site?" - I explained that I'd started the project a few years back, and that I didn't have any contact details for him at the time, so when the site went live, I felt that I should point this out by calling it "unofficial" (there were lots of sites around in the late 90s which were "unofficial"). I've removed this badge in the latest release - I figured that there was no longer any need for it.
 
-The site gradually migrated to use PHP when it became difficult to manage (around 2005, when the additional CDs were being published), but stayed pretty static until 2015. At the start of 2015 I decided to move the site into github and pubish it using jeky
+The site gradually migrated to use PHP when it became difficult to manage (around 2005, when the additional CDs were being published), but stayed pretty static until 2015. At the start of 2015 I decided to move the site into github and pubish it using jekyll.
