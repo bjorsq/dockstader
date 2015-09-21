@@ -8,23 +8,17 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "The Unofficial Tod Dockstader Website"
-
-
-# The slogan describes your website and is used on homepage in <title> and other important places
-slogan: ""
-
+title: "The Tod Dockstader Website"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: ""
+description: "Tod Dockstader was a composer of organized sound, in the tradition of Edgard Varèse (who he greatly admired). He created two bodies of work in the 1960s and 2000s in a career which also encompassed creation of educational audio and video for his company, Westport Communications Group."
 
-
-# This URL is the main adresse. Don't include a slash at the end.
+# This URL is the main address. Don't include a slash at the end.
 #
-url: "http://dockstader.local"
+url: "http://dockstader.info"
 admin_email: "info@dockstader.info"
 baseurl: ""
-urlimg: "http://dockstader.local/assets/img/"
+urlimg: "http://dockstader.info/assets/img/"
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -62,10 +56,11 @@ exclude:
     - package.json
     - LICENSE
     - README.md
+    - generate.php
     - assets/img/src
     - assets/pdf
     - assets/audio
-    
+    - CNAME
 
 #
 #       ____       ____            ____ 
