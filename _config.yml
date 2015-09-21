@@ -19,6 +19,7 @@ url: "http://dockstader.info"
 admin_email: "info@dockstader.info"
 baseurl: ""
 urlimg: "http://dockstader.info/assets/img/"
+musicurl : ""
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Introduction to the Starkland CD release of Apocalypse,  by Craig Anderton"
-sidebar: reviews
+description: "This Introduction was originally included in the liner notes for the Starkland CD release."
 categories:
     - reviews
 ---

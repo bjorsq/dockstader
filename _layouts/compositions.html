@@ -9,6 +9,19 @@ layout: default
 
 		{{ content }}
 
+{% if page.releases %}
+    <h3>Samples</h3>
+	{% for rel in page.releases %}
+	<div class="audio">
+		<audio controls>
+			<source src="{{ site.musicurl }}{{ rel.filename }}.ogg" type="audio/ogg">
+			<source src="{{ site.musicurl }}{{ rel.filename }}.mp3" type="audio/mpeg">
+			<p>Your browser does not support the audio element. Download {{ rel.title }} <a href="{{ site.musicurl }}{{ rel.filename }}.mp3">the MP3 file</a> or <a href="{{ site.musicurl }}{{ rel.filename }}.ogg">or the OGG file</a>.</p>
+		</audio>
+	</div>
+	{% endfor %}
+{% endif %}	
+
 
 {% if page.releases %}
 	<h3>Releases</h3>

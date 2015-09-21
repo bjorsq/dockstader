@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Quatermass"
-sidebar: compositions
+description: "Quatermass was intended, from the start, to be a very dense, massive, even threatening, work of high levels and high energy."
 categories:
     - compositions
 releases:

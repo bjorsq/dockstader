@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Two Moons of Quatermass"
-sidebar: compositions
+description: "Two Moons of Quatermass were spin-offs from Quatermass: they were flung out, in the long process of editing."
 categories:
     - compositions
 releases:
