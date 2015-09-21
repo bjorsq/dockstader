@@ -9,9 +9,9 @@ layout: default
 
 		{{ content }}
 
-{% if page.releases %}
+{% if page.samples %}
     <h3>Samples</h3>
-	{% for rel in page.releases %}
+	{% for rel in page.samples %}
 	<div class="audio">
 		<audio controls>
 			<source src="{{ site.musicurl }}{{ rel.filename }}.ogg" type="audio/ogg">
