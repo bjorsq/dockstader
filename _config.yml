@@ -17,9 +17,9 @@ description: "Tod Dockstader was a composer of organized sound, in the tradition
 #
 url: "http://dockstader.info"
 admin_email: "info@dockstader.info"
-baseurl: ""
+baseurl: "http://dockstader.info/"
 urlimg: "http://dockstader.info/assets/img/"
-musicurl : ""
+musicurl : "https://dl.dropboxusercontent.com/u/5104625/dockstader/"
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
