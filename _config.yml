@@ -115,8 +115,8 @@ defaults:
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
 #google_author:             ""
-#google_site_verification:  ""
-#bing_webmastertools_id:    ""
+google_site_verification:  "ueATYIweQmKmyNdFpZV13WxO--BlwuA7Dv4hNLOD5F4"
+bing_webmastertools_id:    "1563314628E4390B2846E689DB4316A7"
 # alexa_verify_id:         ""
 
 
