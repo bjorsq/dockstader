@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: reviews
 title: "Review of Starkland releases in Revue et Corrigee (France), by Jerome Noetinger (trans. by J. Frey)"
 description: "A review of the original Owl LPs from the French magazine"
 categories:

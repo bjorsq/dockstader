@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: reviews
 title: "Reviews from the brainwashed website by John Kealy and Jonathan Dean"
-sidebar: reviews
+description: "The music is very evocative: many of the tracks stimulated very detailed daydreams and imaginings in me"
 categories:
     - reviews
 ---

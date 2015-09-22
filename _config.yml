@@ -20,6 +20,7 @@ admin_email: "info@dockstader.info"
 baseurl: "http://dockstader.info/"
 urlimg: "http://dockstader.info/assets/img/"
 musicurl : "https://dl.dropboxusercontent.com/u/5104625/dockstader/"
+repourl: "https://github.com/bjorsq/dockstader/"
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages

@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: reviews
 title: "Stylus Magazine - reviews by Cameron Macdonald"
-sidebar: reviews
+description: "Once devoid of broadcasting information, the radio returns to being a defective machine that fascinated and often haunted Dockstader as a child who pressed his ear to a radio while growing up in St. Paul, Minnesota during the 1930’s."
 categories:
     - reviews
 ---
@@ -20,7 +20,7 @@ Aerial is a three-volume epic, with its first release curiously packaged in a th
 
 ### An Anthology of Noise & Electronic Music / Fourth A-Chronology 1937-2005
 
-The perpetual vexations of someone looking for a needle in a haystack” is how Guy Marc Hinant describes his work. That’s well-put for a curator of significant noise and electronic music pieces for Sub Rosa’s often dubious, but admirable A-Chronology series. His task, to cover such music’s early stages in the 1940s and 50’s, is (in a way) a simple one. Back in those days, there were only a small number of technicians and composers in university and corporate laboratories creating this music—spending countless hours translating metal and electricity into sound. 
+"The perpetual vexations of someone looking for a needle in a haystack” is how Guy Marc Hinant describes his work. That’s well-put for a curator of significant noise and electronic music pieces for Sub Rosa’s often dubious, but admirable A-Chronology series. His task, to cover such music’s early stages in the 1940s and 50’s, is (in a way) a simple one. Back in those days, there were only a small number of technicians and composers in university and corporate laboratories creating this music—spending countless hours translating metal and electricity into sound. 
 
 Today, there is more firepower and possibility in a pirated audio program on a laptop than there was in the entire Columbia-Princeton Electronic Music Center four decades ago. Which is where our friend Hinant got lost. Subgenres in electronic music have been piling up for the past decade, while virtually any audio track has been made available for consumption through a few clicks on the Internet. Hinant came to a realization, though, while having tea with musique concrete composer Francisco Lopez. It was a meeting that “made [Hinant] realize how beautiful this undecipherable flood [is].” 
 

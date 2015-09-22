@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: reviews
 title: "Reviews from the cloudsandclocks website by Beppi Colli"
-sidebar: reviews
+description: "Extremely logical and totally unexpected at the same time"
 categories:
     - reviews
 ---
@@ -25,6 +25,7 @@ In closing? I'm quite puzzled - for many reasons.
 ### Pond
 
 An examination of the possible reasons that make it high unlikely for Tod Dockstader to be more appreciated and, just for a start, more well-known beyond a tiny circle of aficionados led me to the conclusion that the only possible reason is his not being a name that's "in the fashion". Which is a quite paradoxical - and not very encouraging - conclusion, given the fact that we are talking about a musical landscape - that of electronic, concréte, or whatever you want to call it, music - that one would like to imagine as being immune to random, capricious factors like one being mentioned by the arbiter of taste of the day.
+
 In truth, Dockstader has all the right ingredients to be appreciated, a lot of excellent music, (obviously) above all; also, the air of an outsider who - while being outside of academia - learned to use (and innovate) the means he used by using them: a notion that is highly prized in this era which holds the "DIY" spirit in high esteem. Instead, I believe that the excellent interview by Chris Cutler which appeared in the issue Vol. 4 # 2 of the RéR Quarterly was for most people the only in-depth source of knowledge about Dockstader's music and "career". Fortunately, gems from the 60s such as Apocalypse and Quatermass (originally released on Owl) were re-released about ten years ago by Starkland; while a later work such as Omniphony 1 - Tod Dockstader's collaboration with James Reichert - was re-released by RéR not too long ago.
 
 The silent question that Dockstader's fans asked themselves - will he ever record again? (and: will it be of the same quality as his classic works?) - gets an unambiguous answer from this new CD, recorded thanks also to the decisive contribution by David Lee Myers: the cultivator of "feedback music" whose excellent album Engines Of Myth, recorded under the name Arcane Device (originally released on vinyl in 1988, the album was finally released on CD last year), had on its cover a dedication to Tod Dockstader. A token of his esteem, and also an appreciation that was not that that difficult to hear in the grooves.

@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: reviews
 title: "Review of Aerial #2 on Popmatters by Nate Dorr"
-sidebar: reviews
+description: "What is perhaps most interesting about this work is not the jumbled, alien quality of the sounds but the hints of order, the occasional rhythmic qualities, and the even more frequent tonality that lurk in it."
 categories:
     - reviews
 ---

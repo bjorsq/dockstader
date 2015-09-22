@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: reviews
 title: "Review of Starkland's A to Z in Cyberpsychos A.O.D., 1995 by Jasmine Sailing"
-sidebar: reviews
+description: "A perfect sampler for a darned near perfect label."
 categories:
     - reviews
 ---

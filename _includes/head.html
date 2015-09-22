@@ -4,13 +4,13 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	{% if page.description %}<meta name="description" content="{{ page.description | strip_html | escape }}"/>{% elsif site.description %}<meta name="description" content="{{ site.description | strip_html | escape }}"/>{% endif %}
 	<link href="https://fonts.googleapis.com/css?family=Oswald:300&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
 	<link href="{{ site.url }}/assets/css/dockstader.css" rel="stylesheet" type="text/css">
 	<script src="{{ site.url }}/assets/js/vendor/modernizr.js"></script>
 
-  {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification}}" />{% endif %}
+    {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification}}" />{% endif %}
 	{% if site.bing_webmastertools_id %}<meta name="msvalidate.01" content="{{ site.bing_webmastertools_id }}" />{% endif %}
-	{% if page.description %}<meta name="description" content="{{ page.description | strip_html | escape }}"/>{% elsif site.description %}<meta name="description" content="{{ site.description | strip_html | escape }}"/>{% endif %}
 	
 	{% if site.google_author %}<link rel="author" href="{{ site.google_author }}"/>{% endif %}
 	{% if site.favicon %}<link rel="shortcut icon" href="{{ site.url }}{{ site.favicon }}" type="image/png" />{% endif %}
@@ -28,7 +28,6 @@
 	{% if page.description %}<meta property="og:description" content="{{ page.description | strip_html | escape }}"/>{% elsif site.description %}<meta property="og:description" content="{{ site.description | strip_html | escape }}"/>{% endif %}
 	<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 	{% if site.title %}<meta property="og:site_name" content="{{ site.title }}" />{% endif %}
-	{% if page.image.thumb %}<meta property="og:image" content="{{ site.url }}/images/{{ page.image.thumb }}" />{% endif %}
 
 	{% if site.alexa_verify_id %}<meta name="alexaVerifyID" content="{{ site.alexa_verify_id }}" />{% endif %}
 
