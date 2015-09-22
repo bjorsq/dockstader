@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: composition
 title: "Eight Electronic pieces"
 description: An unqualified masterpiece of Musique Concrète, strangely familiar yet completely removed from everyday experience, chaotic yet surgically precise, otherworldly in its sound and scope yet unmistakably the product of human innovation and discovery.
 categories:
