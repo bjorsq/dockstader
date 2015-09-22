@@ -11,14 +11,13 @@ format: compositions
 		{{ content }}
 
 {% if page.samples %}
-    <h3>Samples</h3>
 	{% for rel in page.samples %}
 	<div class="audio">
-	    <h4>{{ rel.title }}</h4>
+	    <h4><em>{{ rel.title }}</em></h4>
 		<audio controls>
 			<source src="{{site.musicurl}}{{ rel.filename }}.ogg" type="audio/ogg">
 			<source src="{{site.musicurl}}{{ rel.filename }}.mp3" type="audio/mpeg">
-			<p>Your browser does not support the audio element. Download {{ rel.title }} <a href="{{ site.musicurl }}{{ rel.filename }}.mp3">the MP3 file</a> or <a href="{{ site.musicurl }}{{ rel.filename }}.ogg">or the OGG file</a>.</p>
+			<p>Your browser does not support the audio element. Download {{ rel.title }} in <a href="{{ site.musicurl }}{{ rel.filename }}.mp3" title="Download MP3">MP3</a> or <a href="{{ site.musicurl }}{{ rel.filename }}.ogg" title="Download OGG">OGG</a> format.</p>
 		</audio>
 	</div>
 	{% endfor %}
@@ -26,14 +25,14 @@ format: compositions
 
 
 {% if page.releases %}
-	<h3>Releases</h3>
+	<h3 class="releases">Releases</h3>
 	{% for comp in page.releases %}
 		{% for label in site.data.discography %}
 			{% for release in label.recordings %}
 				{% if release.catalogue_no == comp %}
 				<div class="release">
 					<img src="{{ site.urlimg }}discography/{{ release.coverimage }}">
-					<h3>{{ release.title }} ({{label.name}}, {{ release.date }})</h3>
+					<h4>{{ release.title }} ({{label.name}}, {{ release.date }})</h4>
 					<p class="cat-no">{{ release.catalogue_no }}</p>
 					<p class="content">{{ release.contents }}</p>
 					{% if release.url %}

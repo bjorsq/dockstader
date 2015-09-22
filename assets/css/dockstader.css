@@ -3022,6 +3022,9 @@ th.hide-for-touch {
   background: #DDDDDD;
   padding-left: .1em; }
 
+.compositions .releases {
+  border-bottom: .5em solid #DDDDDD; }
+
 figure {
   margin: 1em 0;
   text-align: left; }

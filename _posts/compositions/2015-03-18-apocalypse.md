@@ -27,18 +27,14 @@ The passage of Gregorian chant, in Part Two, was used as a vocalization of the d
 
 The sonic boom(s) were almost the only sounds I had that had originally been recorded in stereo: the sound materials in all my work were, originally, almost all monaural, recorded all over the place in a time before portable stereo tape recorders (the "live" cat in Part Four sang one night outside our apartment window in the Village: I hung a mic out the window for most of the night, recording his arias).
 
-### First Part
-
+**First Part**:
 Orchestral chimes, voice, generator, sonic boom (jet), pie tin, piano
 
-### Second Part
-
+**Second Part**:
 Various doors, generator, Gregorian chant
 
-### Third Part
-
+**Third Part**
 Cat-cry (toy), chimes, drum, voice, oilwell, piano
 
-### Fourth Part
-
+**Fourth Part**
 Generator, bamboo flute, chimes, hollow tube, a live cat, piano, jets, cymbal, voice (Adolph Hitler's), drum
