@@ -12,7 +12,7 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      filename: 'Past Prelude'
+      filename: 'past-prelude'
       title: 'Past Prelude'  
 ---
 

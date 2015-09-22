@@ -12,6 +12,10 @@ sitemap:
     priority: 0.7
     changefreq: 'yearly'
     lastmod: 2015-09-22
+samples:
+    - 
+      filename: 'Quatermass-Parade'
+      title: 'Quatermass act 3: Parade'  
 ---
 
 Quatermass was intended, from the start, to be a very dense, massive, even threatening, work of high levels and high energy. It was my antidote to the preceding *Water Music* - a work of small details, delicate textures, and some playfulness. The title was chosen because the word *sounded* right for the work. It happened to be the name of Professor Bernard Quatermass, star character of a 1950s BBC-TV science fiction serial and two B films (*The Creeping Unknown* [1956] and *Enemy from Space* [1957]); at the time, I hadn't seen them.

@@ -12,7 +12,7 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      filename: 'Four-Telemetry-Tapes-no3'
+      filename: 'Four-Telemetry-Tapes-no2'
       title: 'Four Telemetry Tapes - No.3'
 ---
 

@@ -15,6 +15,10 @@ sitemap:
     priority: 0.7
     changefreq: 'yearly'
     lastmod: 2015-09-22
+samples:
+    - 
+      filename: 'Apocalypse-Part-Three'
+      title: 'Apocalypse - Part Three'
 ---
 
 Apocalypse followed [Luna]({% post_url compositions/2015-03-18-luna-park %}): I wanted to do something heavier, thicker in texture, more unruly and alarming - a concrete *Deis Irae*. The slowed (creaking)doors and the cat-cry toy are central to it: they provided the threat and despair I wanted (the cat-cry toy was a little round box with a picture of a cat on it which, when you turned it upside down, emitted a thin, pathetic little cry - slowed[on tape], it became, I thought, heart-wrenching). 
@@ -25,37 +29,16 @@ The sonic boom(s) were almost the only sounds I had that had originally been rec
 
 ### First Part
 
-* orchestral chimes
-* voice
-* generator
-* sonic boom (jet)
-* pie tin
-* piano
+Orchestral chimes, voice, generator, sonic boom (jet), pie tin, piano
 
 ### Second Part
 
-* various doors
-* generator
-* Gregorian chant
+Various doors, generator, Gregorian chant
 
 ### Third Part
 
-* cat-cry (toy)
-* chimes
-* drum
-* voice
-* oilwell
-* piano
+Cat-cry (toy), chimes, drum, voice, oilwell, piano
 
 ### Fourth Part
 
-* generator
-* bamboo flute
-* chimes
-* hollow tube
-* a live cat
-* piano
-* jets
-* cymbal
-* voice (Adolph Hitler's)
-* drum
+Generator, bamboo flute, chimes, hollow tube, a live cat, piano, jets, cymbal, voice (Adolph Hitler's), drum
