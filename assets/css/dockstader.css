@@ -3018,12 +3018,9 @@ th.hide-for-touch {
 .release .content {
   clear: both; }
 
-.labelname {
+.labelname, .releasesheader {
   background: #DDDDDD;
   padding-left: .1em; }
-
-.compositions .releases {
-  border-bottom: .5em solid #DDDDDD; }
 
 figure {
   margin: 1em 0;

@@ -28,32 +28,17 @@ The final (and longest) stage was to edit the mixes into the five movements (thi
 
 "Song and Lament" does indeed have a song and lament. "Tango", although it doesn't start like a tango, becomes something like a tango, and "Parade" is sort of a pompous, John Philip Sousa crashing about. "Flight" continues the source ideas of "Tango" on a darker level, and the final part, "Second Song," is a long working-out of the energies, and an attempt at balancing the weights of the first four parts; it uses the same sound materials, with the addition of a second song figure, a kind of inversion of the first. The gong that ushered in the first song ushers out the second.
 
-### Song and Lament
+**Song and Lament**
+A gong, several balloons, a toy cat-cry (or maybe it was a slowed cow-cry), two (unstable) test generators
 
-* A gong
-* several balloons
-* a toy cat-cry (or maybe it was a slowed cow-cry)
-* two (unstable) test generators
+**Tango**
+The generators, the balloons, lots of tape-echo to create the rhythm
 
-### Tango
+**Parade**
+A cymbal, rolls of adhesive tape in different widths, elevator motors and white noise (taken from FM radio)
 
-* The generators
-* the balloons
-* lots of tape-echo to create the rhythm
+**Flight**
+A hollow pipe, a vacuum cleaner hose, a bamboo flute, the balloons.
 
-### Parade
-
-* A cymbal
-* rolls of adhesive tape in different widths
-* elevator motors and white noise (taken from FM radio)
-
-### Flight
-
-* A hollow pipe
-* a vacuum cleaner hose
-* a bamboo flute
-* the balloons.
-
-### Second Song
-
-* Almost all the above, plus chimes (*Two Moons* use these same materials).
+**Second Song**
+Almost all the above, plus chimes (*Two Moons* use these same materials).

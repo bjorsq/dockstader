@@ -16,14 +16,10 @@
 		clear:both;
 	}
 }
-.labelname {
+.labelname,
+.releasesheader {
 	background:$gainsboro;
 	padding-left:.1em;
-}
-.compositions {
-	.releases {
-		border-bottom:.5em solid $gainsboro;
-	}
 }
 figure {
 	margin:1em 0;

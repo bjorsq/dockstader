@@ -25,12 +25,4 @@ There are six short parts, each one of varying degrees of density, acceleration,
 
 Water Music had its premiere on WXQR in June 1963. At the end of the broadcast, the announcer stated that, since electronic music wasn't going anywhere, the broadcast would be the last of its kind. They'd also played Stockhausen's *Gesang der Jünglinge* - so I went out in good company.
 
-* water
-* toy gong-rattles
-* Indian finger bells
-* sheet of metal
-* two test generators (rewired for instability)
-* two water glasses
-* a Coke bottle
-* a metal garbage can (to hold the water)
-* a nail
+Water, toy gong-rattles, Indian finger bells, sheet of metal, two test generators (rewired for instability), two water glasses, a Coke bottle, a metal garbage can (to hold the water), a nail.
