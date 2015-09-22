@@ -1,5 +1,5 @@
 ---
-layout: compositions
+layout: composition
 title: "Water Music"
 description: "Water Music began with the sound of water; there is little else in the piece. I've described organized sound as the technique using everything and the kitchen sink; this is the piece that uses the sink - a kind of kitchen La Mer"
 categories:

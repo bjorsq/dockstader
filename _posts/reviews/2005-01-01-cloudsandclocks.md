@@ -1,5 +1,5 @@
 ---
-layout: reviews
+layout: review
 title: "Reviews from the cloudsandclocks website by Beppi Colli"
 description: "Extremely logical and totally unexpected at the same time"
 categories:

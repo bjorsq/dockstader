@@ -1,5 +1,5 @@
 ---
-layout: reviews
+layout: review
 title: "Review of Aerial #2 on The Milk Factory by Max Schaefer"
 description: "The presence of Dockstader, which previously loomed ominously overtop his creation, scarcely noticeable, content to make minute adjustments, is now thoroughly embedded in these rhythmic and pulsing currents."
 categories:

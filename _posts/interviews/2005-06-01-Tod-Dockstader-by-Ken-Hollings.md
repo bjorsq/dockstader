@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: interview
 title: "Tod Dockstader by Ken Hollings, June, 2005"
 description: "This article y Ken Hollings first appeared in The Wire, issue 256 June 2005."
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: compositions
+layout: composition
 title: "Four Telemetry Tapes"
 description: "The original idea Tapes came from recordings of early satellites, starting with Sputnik: the telemetry messages they sent back to earth were, to my ears, in the form of loops, slowly and subtly changing over transmission times."
 categories:

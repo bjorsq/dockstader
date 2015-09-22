@@ -1,5 +1,5 @@
 ---
-layout: reviews
+layout: review
 title: "Drips and Drabs of Dockstader - Saturday Review 1965, by Oliver Daniel"
 description: "One of the positive reviews for the releases on the OWL label in the 60s"
 categories:

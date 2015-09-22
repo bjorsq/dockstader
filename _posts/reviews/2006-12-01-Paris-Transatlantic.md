@@ -1,5 +1,5 @@
 ---
-layout: reviews
+layout: review
 title: "Review of Aerial in Paris Transatlantic, December 2006 by Massimo Ricci"
 description: "The sequencing - the pieces follow on from each other without a break, as suggested by Dockstader's friend and frequent collaborator David Lee Myers – seems to have been planned to open new vistas onto the unconscious, stimulating new, unexpected reactions that sometimes verge on rage."
 categories:

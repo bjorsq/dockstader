@@ -1,5 +1,5 @@
 ---
-layout: reviews
+layout: review
 title: "Introduction to the Starkland CD release of Quatermass, by Edward Tatnall Canby"
 description: "This Introduction was originally included in the liner notes for the Starkland CD release."
 sidebar: reviews

@@ -1,5 +1,5 @@
 ---
-layout: reviews
+layout: review
 title: "APOCALYPSE review in Audioview (Belgium), by Cha'Ron"
 description: "enthusiastic"
 categories:

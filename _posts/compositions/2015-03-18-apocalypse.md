@@ -1,5 +1,5 @@
 ---
-layout: compositions
+layout: composition
 title: "Apocalypse"
 description: "Apocalypse uses creaking doors, toys, sonic booms and samples of Adolf Hitler recorded from shortwave radio stations among other things), to make a four movement musique concrète Deis Irae"
 sidebar: compositions

@@ -1,5 +1,5 @@
 ---
-layout: reviews
+layout: review
 title: "Review of Starkland releases in the Washington Post August 1, 1993, by Joseph McLellan"
 description: "A really positive review from the Washington Post for the two Starkland CDs"
 sidebar: reviews

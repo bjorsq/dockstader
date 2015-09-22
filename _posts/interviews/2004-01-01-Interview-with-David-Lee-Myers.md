@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: interview
 title: "Interview with David Lee Myers, 2004"
 description: "This interview was originally published as the notes to the ReR CD release of Pond."
 categories:

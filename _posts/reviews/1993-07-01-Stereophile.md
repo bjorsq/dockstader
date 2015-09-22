@@ -1,5 +1,5 @@
 ---
-layout: reviews
+layout: review
 title: "Review of Starkland releases in Stereophile 1993, by Scott Lewis"
 description: "An audiophile-centric review of the two Starkland releases"
 categories:

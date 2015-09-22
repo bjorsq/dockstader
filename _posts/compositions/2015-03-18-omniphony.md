@@ -1,5 +1,5 @@
 ---
-layout: compositions
+layout: composition
 title: "Omniphony"
 description: "In 1963, Tod Dockstader composed a set of  natural and electronically generated sounds which he called cells. James Reichert then familiarised himself with the cells, and composed a series of instrumental parts which were based upon them."
 categories:

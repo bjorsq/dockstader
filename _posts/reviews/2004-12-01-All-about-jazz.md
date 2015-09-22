@@ -1,5 +1,5 @@
 ---
-layout: reviews
+layout: review
 title: "Review of Pond from the allaboutjazz website"
 description: "Hit play on this one and prepare to immerse yourself in a supernatural universe"
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: reviews
+layout: review
 title: "Review of Aerial #2 on groovesmag by Richard Moule"
 description: "What is remarkable is how nuanced and carefully constructed Dockstader’s designs of these re-contextualized wave forms are."
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: interview
 title: "Interview with Chris Cutler, January 20th, 1994"
 description: "This interview first appeared in ReR Quarterly 0402"
 categories:

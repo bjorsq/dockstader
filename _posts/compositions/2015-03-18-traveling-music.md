@@ -1,5 +1,5 @@
 ---
-layout: compositions
+layout: composition
 title: "Traveling Music"
 description: "Traveling Music was originally composed as a monaural piece (Electronic Piece No.8), It was, in effect, my Poème Élèctronique, after Varèse, and my first piece to be strictly organized with a few sound materials (instead of throwing everything in and stirring briskly, as I'd done prior to this)."
 categories:

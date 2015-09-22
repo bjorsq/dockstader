@@ -1,5 +1,5 @@
 ---
-layout: reviews
+layout: review
 title: "Stylus Magazine - reviews by Cameron Macdonald"
 description: "Once devoid of broadcasting information, the radio returns to being a defective machine that fascinated and often haunted Dockstader as a child who pressed his ear to a radio while growing up in St. Paul, Minnesota during the 1930’s."
 categories:

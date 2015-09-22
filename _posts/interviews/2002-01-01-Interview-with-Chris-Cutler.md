@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: interview
 title: "Interview with Chris Cutler, 2002"
 description: "This interview originally appeared as additional notes for the ReR CD release of Omniphony"
 categories:

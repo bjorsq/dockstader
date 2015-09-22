@@ -1,0 +1,17 @@
+---
+layout: default
+format: review
+---
+
+<div class="row">
+	<article itemscope itemtype="http://schema.org/Article">
+		<header>
+			<h1><a href="{{ site.url }}/reviews/">Reviews</a> &raquo; {{ page.title }}</h1>
+		</header>
+
+		{{ content }}
+
+		{% include next-previous-post-in-category.html %}
+
+	</article>
+</div>

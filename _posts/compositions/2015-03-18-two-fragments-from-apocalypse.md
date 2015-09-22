@@ -1,5 +1,5 @@
 ---
-layout: compositions
+layout: composition
 title: "Two Fragments from Apocalypse"
 description: "Two Fragments from Apocalypse, like the Two Moons of Quatermass, were thrown out from the main work as it cooled and contracted (over a period of months of editing the mixes)."
 categories:

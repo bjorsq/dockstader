@@ -1,5 +1,5 @@
 ---
-layout: reviews
+layout: review
 title: "ReR MEGACORP press releases"
 description: "A subtle, moody, rich and wide-ranging work, in which atmosphere, emotion and dramaturgy lead the ear far beyond music into a world of hints, evocations, anticipation and association"
 categories:

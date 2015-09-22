@@ -1,5 +1,5 @@
 ---
-layout: reviews
+layout: review
 title: "Review of OHM : the early gurus of electronic music : 1948-1980 for Classical Music Review by Tony Gualtieri"
 description: "What first strikes one on hearing these pieces is how heroic these early pioneers were"
 categories:
