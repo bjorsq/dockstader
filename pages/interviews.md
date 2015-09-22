@@ -10,15 +10,16 @@ redirect_from:
 
 ![Tod Dockstader in the studio, circa 1965]({{ site.urlimg }}photographs/tod-dockstader-11.jpg){: .right}
 
-Listen to a 1963 interview with Tod Dockstader at WRVR FM, New York City
-
-<audio controls>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
 
 <ul>
+	<li>Listen to a 1963 interview with Tod Dockstader at WRVR FM, New York City
+
+<audio controls>
+  <source src="{{ site.musicurl }}dockstader_interview_WRVR_FM_NY_1963.ogg" type="audio/ogg">
+  <source src="{{ site.musicurl }}dockstader_interview_WRVR_FM_NY_1963.mp3" type="audio/mpeg">
+  <p>Download in <a href="">MP3</a> or <a href="">OGG</a> format</p>
+</audio>
+</li>
     {% for post in site.categories.interviews %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br>{{ post.description }}</li>
     {% endfor %}
