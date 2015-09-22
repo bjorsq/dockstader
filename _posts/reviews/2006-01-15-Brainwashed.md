@@ -4,6 +4,10 @@ title: "Reviews from the brainwashed website by John Kealy and Jonathan Dean"
 description: "The music is very evocative: many of the tracks stimulated very detailed daydreams and imaginings in me"
 categories:
     - reviews
+sitemap:
+    priority: 0.5
+    changefreq: 'never'
+    lastmod: 2015-09-22
 ---
 
 ### Aerial #2 by John Kealy

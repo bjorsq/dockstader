@@ -4,6 +4,10 @@ title: "Reviews from the cloudsandclocks website by Beppi Colli"
 description: "Extremely logical and totally unexpected at the same time"
 categories:
     - reviews
+sitemap:
+    priority: 0.5
+    changefreq: 'never'
+    lastmod: 2015-09-22
 ---
 
 ### Bijou

@@ -4,7 +4,10 @@ title: "Links, Articles and Tributes"
 description: "Links to other websites about Tod Dockstader and his work, Artcles written by, and about Tod Dockstader, and other links to online tributes."
 headerimage: svg/articles.svg
 permalink: "/articles/"
-sidebar: default
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2015-09-22
 ---
 
 ### Links

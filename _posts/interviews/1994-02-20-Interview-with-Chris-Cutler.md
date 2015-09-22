@@ -4,6 +4,10 @@ title: "Interview with Chris Cutler, January 20th, 1994"
 description: "This interview first appeared in ReR Quarterly 0402"
 categories:
     - interviews
+sitemap:
+    priority: 0.5
+    changefreq: 'never'
+    lastmod: 2015-09-22
 ---
 
 This interview first appeared in ReR Quarterly 0402.

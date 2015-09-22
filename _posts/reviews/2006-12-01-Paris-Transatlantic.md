@@ -4,6 +4,10 @@ title: "Review of Aerial in Paris Transatlantic, December 2006 by Massimo Ricci"
 description: "The sequencing - the pieces follow on from each other without a break, as suggested by Dockstader's friend and frequent collaborator David Lee Myers – seems to have been planned to open new vistas onto the unconscious, stimulating new, unexpected reactions that sometimes verge on rage."
 categories:
     - reviews
+sitemap:
+    priority: 0.5
+    changefreq: 'never'
+    lastmod: 2015-09-22
 ---
 
 Writing about Dockstader in the June 2005 issue of The Wire, Ken Hollings remarked: “Tuning through an old radio dial put you in touch with the space between stations, a mysterious zone of harmonies and distortions that existed and functioned according to a strange and distinct logic.” There is a parallel between this description and the position of this tape manipulating maverick, whose daily job in the audiovisual field brought him, among other things, to develop sound effects for cartoons such as Mr. Magoo; in fact, despite his evident talent, the academic establishment of the 60s prevented Dockstader from pursuing a career in composition, because he lacked the formal credentials needed to access the hi-tech studios where he could practice his advanced, if self-taught craft. Like many other composers who somehow slipped through the cracks of music history, he had to wait a long time before his genius was recognized. Aerial is his finest work – and puts him among the all-time greats.

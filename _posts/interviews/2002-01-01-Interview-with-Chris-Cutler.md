@@ -4,7 +4,10 @@ title: "Interview with Chris Cutler, 2002"
 description: "This interview originally appeared as additional notes for the ReR CD release of Omniphony"
 categories:
     - interviews
-
+sitemap:
+    priority: 0.5
+    changefreq: 'never'
+    lastmod: 2015-09-22
 ---
 
 This interview originally appeared as additional notes for the ReR CD release of Omniphony

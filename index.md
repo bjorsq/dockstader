@@ -3,6 +3,10 @@ layout: page
 sidebar: homepage
 headerimage: svg/tod-dockstader.svg
 title: "The Unofficial Tod Dockstader website"
+sitemap:
+    priority: 1.0
+    changefreq: 'yearly'
+    lastmod: 2015-09-22
 ---
 
 ## WITH THE SOUND IN YOUR EARS

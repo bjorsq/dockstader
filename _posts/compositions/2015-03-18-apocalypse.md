@@ -11,6 +11,10 @@ releases:
     - 'CD3670'
     - 'DOZ425'
     - 'ORLP-6'
+sitemap:
+    priority: 0.7
+    changefreq: 'yearly'
+    lastmod: 2015-09-22
 ---
 
 Apocalypse followed [Luna]({% post_url compositions/2015-03-18-luna-park %}): I wanted to do something heavier, thicker in texture, more unruly and alarming - a concrete *Deis Irae*. The slowed (creaking)doors and the cat-cry toy are central to it: they provided the threat and despair I wanted (the cat-cry toy was a little round box with a picture of a cat on it which, when you turned it upside down, emitted a thin, pathetic little cry - slowed[on tape], it became, I thought, heart-wrenching). 

@@ -4,6 +4,10 @@ title: "Tod Dockstader by Ken Hollings, June, 2005"
 description: "This article y Ken Hollings first appeared in The Wire, issue 256 June 2005."
 categories:
     - interviews
+sitemap:
+    priority: 0.5
+    changefreq: 'never'
+    lastmod: 2015-09-22
 ---
 
 This article first appeared in The Wire issue 256 June 2005. &copy; The Wire, Reproduced by permission. Special thanks to [The Wire](http://www.thewire.co.uk/) and author [Ken Hollings](http://www.kenhollings.com/) for allowing me to reproduce this article here.

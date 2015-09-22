@@ -4,6 +4,10 @@ title: "Review of Pond from the allaboutjazz website"
 description: "Hit play on this one and prepare to immerse yourself in a supernatural universe"
 categories:
     - reviews
+sitemap:
+    priority: 0.5
+    changefreq: 'never'
+    lastmod: 2015-09-22
 ---
 
 Hit play on this one and prepare to immerse yourself in a supernatural universe. The electronic sound sculptures on Pond bear some resemblance to the real world events, insofar as you can discern insects, birds, and frogs popping in and out of the steaming mist, but for the most part this self-described "organized sound" collection is abstract, ethereal, and, well, extreme.

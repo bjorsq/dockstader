@@ -4,6 +4,10 @@ title: "ReR MEGACORP press releases"
 description: "A subtle, moody, rich and wide-ranging work, in which atmosphere, emotion and dramaturgy lead the ear far beyond music into a world of hints, evocations, anticipation and association"
 categories:
     - reviews
+sitemap:
+    priority: 0.5
+    changefreq: 'never'
+    lastmod: 2015-09-22
 ---
 
 ### Bijou

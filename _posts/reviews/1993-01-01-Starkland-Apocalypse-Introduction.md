@@ -4,6 +4,10 @@ title: "Introduction to the Starkland CD release of Apocalypse,  by Craig Andert
 description: "This Introduction was originally included in the liner notes for the Starkland CD release."
 categories:
     - reviews
+sitemap:
+    priority: 0.5
+    changefreq: 'never'
+    lastmod: 2015-09-22
 ---
 
 When listening to Tod Dockstader's music, it's difficult to tell whether you're hearing a reminder of the way electronic music used to be done, or a preview of what we'll be hearing in the future. Dockstader was one of the few to master *musique concrète*, the art of assembling tape-recorded sounds and painstakingly splicing, cutting, dubbing, manipulating and mixing to create final compositions.

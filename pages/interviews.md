@@ -6,6 +6,10 @@ headerimage: svg/interviews.svg
 permalink: "/interviews/"
 redirect_from:
   - /interviews.php
+sitemap:
+    priority: 0.7
+    changefreq: 'yearly'
+    lastmod: 2015-09-22
 ---
 
 ![Tod Dockstader in the studio, circa 1965]({{ site.urlimg }}photographs/tod-dockstader-11.jpg){: .right}

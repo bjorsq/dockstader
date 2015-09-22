@@ -5,6 +5,10 @@ description: "A really positive review from the Washington Post for the two Star
 sidebar: reviews
 categories:
     - reviews
+sitemap:
+    priority: 0.5
+    changefreq: 'never'
+    lastmod: 2015-09-22
 ---
 
 Electronic composition, including computer-generated sounds as well as "musique concrète," which uses and manipulates recorded natural noises, should be a composer's ultimate liberation. We have reached the stage, at least theoretically, where virtually any sound that can be imagined can be recorded. In practical terms, this makes the composer's imagination the only limiting factor in creating works of art. Unfortunately, in the 40-odd years since electronic music was invented, most composers in this field have shown very limited imagination. After the n-dozenth exposure to essentially the same set of bleeps, whooshes and splats under a new, pseudo-technological title, one grows weary and goes back to Bach and Beethoven.

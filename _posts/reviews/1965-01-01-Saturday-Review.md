@@ -4,6 +4,10 @@ title: "Drips and Drabs of Dockstader - Saturday Review 1965, by Oliver Daniel"
 description: "One of the positive reviews for the releases on the OWL label in the 60s"
 categories:
     - reviews
+sitemap:
+    priority: 0.5
+    changefreq: 'never'
+    lastmod: 2015-09-22
 ---
 
 Tod Dockstader is a rarity in musical circles - he claims he is not a musician but rather an engineer. And that's refreshing when some of our self-styled musicians making various, odd, and random noises all in the name of music. Dockstader does not even call the tapes he produces music, but rather organized sound - a term used by Varèse. As an engineer he is skillful and aware. He chooses his sounds at will and is not bothered by any of the silly arguments that insist that all tones must be electronically produced, or that they should be organized according to any arcane formulae. He is not plagued by theory and, since he maintains that he is not a musician and in fact has never studied music, he is quite uninhibited in assembling taped sounds into a satisfactory organization. And in so doing he actually becomes a composer. The end result is, for the most part, really musical - more so at times than that assembled or composed by many of his more pretentious academic colleagues.

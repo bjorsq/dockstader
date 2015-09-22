@@ -4,7 +4,10 @@ title: "Interview with David Lee Myers, 2004"
 description: "This interview was originally published as the notes to the ReR CD release of Pond."
 categories:
     - interviews
-
+sitemap:
+    priority: 0.5
+    changefreq: 'never'
+    lastmod: 2015-09-22
 ---
 
 This interview was originally published as the notes to the ReR CD release of Pond.

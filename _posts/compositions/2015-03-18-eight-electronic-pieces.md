@@ -8,6 +8,10 @@ releases:
     - 'Folkways SM 3434'
     - 'LOCUST 36'
     - 'ReR TODD1'
+sitemap:
+    priority: 0.7
+    changefreq: 'yearly'
+    lastmod: 2015-09-22
 ---
 
 ## Original Sleeve notes for the Smithsonian LP release
