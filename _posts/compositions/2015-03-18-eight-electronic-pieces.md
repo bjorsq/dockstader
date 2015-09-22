@@ -12,6 +12,10 @@ sitemap:
     priority: 0.7
     changefreq: 'yearly'
     lastmod: 2015-09-22
+samples:
+    - 
+      filename: 'Study-no-7'
+      title: 'Study no.7'  
 ---
 
 ## Original Sleeve notes for the Smithsonian LP release

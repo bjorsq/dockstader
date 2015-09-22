@@ -11,6 +11,10 @@ sitemap:
     priority: 0.7
     changefreq: 'yearly'
     lastmod: 2015-09-22
+samples:
+    - 
+      filename: 'Omniphony1-3'
+      title: 'Omniphony 1 - act 3'  
 ---
 
 The work was completed in May, 1967 but was begun over four years earlier. Two composers conceived, wrote and executed the work, their talents being inextricably bound together in its composition. In 1963, Tod Dockstader composed a set of taped sounds which he called "cells." They were both natural sounds (those that move the air, e.g. bells, wind, voice, etc.) and electronically generated sounds (modulation that goes directly to tape, as from oscillators, recording circuitry, etc.). James Reichert then familiarised himself with the cells, and composed a series of instrumental parts which were based upon the sound intentions of Dockstader's cells. But they could not proceed any further without recording the instrumental parts. Three years and many foundations later, the recording of these "inparts" was commissioned by Owl Records.

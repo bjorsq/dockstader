@@ -10,6 +10,10 @@ sitemap:
     priority: 0.7
     changefreq: 'yearly'
     lastmod: 2015-09-22
+samples:
+    - 
+      filename: 'Two-Moons-Of-Quatermass-First-Moon'
+      title: 'Two Moons of Quatermass - First Moon'
 ---
 
 Two Moons of Quatermass were spin-offs from *[Quatermass]({% post_url compositions/2015-03-18-quatermass %})*: they were flung out, in the long process of editing, as outs. Later, after *Quatermass* was done, I went back and edited them into the *Two Moons*. 

@@ -12,6 +12,11 @@ sitemap:
     priority: 0.7
     changefreq: 'yearly'
     lastmod: 2015-09-22
+
+samples:
+    - 
+      filename: 'Water-Music-Part-Three'
+      title: 'Water Music - part 3'
 ---
 
 Water Music began with the sound of water; there is little else in the piece. I've described organized sound as the technique using everything and the kitchen sink; this is the piece that uses the sink - a kind of kitchen *La Mer*. I suspected these sound sources were capable of complex organization - in short, of making a kind of music. And yet the processes of mechanical and electronic abstraction they went through during organization did not rob them of their essential quality: a sometimes delicate, sometimes ponderous, wetness.
