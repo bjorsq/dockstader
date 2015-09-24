@@ -2,7 +2,7 @@
 layout: page
 title: "Interviews"
 description: "Tod Dockstader gave some interviews when the later work was released on CD by ReR Megacorp. There is also an archival radio interview from 1963."
-headerimage: svg/interviews.svg
+headerimage: svg/interviews
 permalink: "/interviews/"
 sitemap:
     priority: 0.7
