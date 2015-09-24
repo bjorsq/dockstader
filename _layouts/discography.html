@@ -6,7 +6,7 @@ format: discography
 	{% if page.headerimage %}
 	<header>
 		<figure>
-			<img class="figurehead" src="{{ site.urlimg }}{{ page.headerimage }}" alt="{{ page.title escape_once }}">
+			<img class="figurehead" src="{{ site.urlimg }}{{ page.headerimage }}.svg" alt="{{ page.title escape_once }}" data-fallback="{{ site.urlimg }}{{ page.headerimage }}.png">
 		</figure>
 	</header>
 	{% endif %}
