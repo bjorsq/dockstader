@@ -177,20 +177,20 @@
 
   -
     name: "Doxy Records"
-    preamble: ""
+    preamble: "Unauthorised bootlegs of the original OWL LPs"
     recordings:
       -
         catalogue_no: DOZ425
         date: 2014-06-02
         title: "Organised Sound by Tod Dockstader"
-        contents: "Luna Park, Apocalypse, Traveling Music. Re-issue of ORLP-6 pressed on 180g vinyl"
+        contents: "Luna Park, Apocalypse, Traveling Music."
         coverimage: "orlp6_cover.jpg"
         url: ""
       -
         catalogue_no: DOZ426
         date: 2014-06-02
         title: "Organised Sound by Tod Dockstader"
-        contents: "Drone, Water Music, Two Fragments from Apocalypse. Re-issue of ORLP-7 pressed on 180g vinyl"
+        contents: "Drone, Water Music, Two Fragments from Apocalypse."
         coverimage: "orlp7_cover.jpg"
         url: ""
 

@@ -9,6 +9,5 @@ _site/
 .sass-cache/
 
 # pdfs
-assets/pdf
 assets/img/src
 assets/audio
