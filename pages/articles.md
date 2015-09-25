@@ -40,6 +40,7 @@ sitemap:
 ### Tributes and Obituaries
 
 * [In Memoriam Tod Dockstader](http://www.starkland.com/st202/Memorial.htm) - tribute on the Starkland website
+* [Smithsonian Folkways Remembers Tod Dockstader (1932–2015)](http://www.folkways.si.edu/news-and-press/smithsonian-folkways-remembers-tod-dockstader-1932-2015)
 * [Musique concrète composer Tod Dockstader has died](http://www.factmag.com/2015/02/28/musique-concrete-composer-tod-dockstader-has-died/) - FACT magazine, February 28, 2015
 * [Musique Concrète Composer Tod Dockstader Has Died](http://pitchfork.com/news/58660-musique-concrete-composer-tod-dockstader-has-died/) - Pitchfork - by Zoe Camp, February 27, 2015
 * [Musique Concrète Pioneer Tod Dockstader Has Died](http://www.synthtopia.com/content/2015/02/28/musique-concrete-pioneer-tod-dockstader-has-died/) - synthtopia - by synthhead, February 28, 2015
