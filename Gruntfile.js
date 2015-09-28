@@ -74,6 +74,7 @@ module.exports = function(grunt) {
 			vendorjs: {
 				files: [
 					{src: '_bower_components/foundation/js/vendor/modernizr.js', dest: 'assets/js/vendor/modernizr.js'},
+					{src: '_bower_components/foundation/js/vendor/modernizr.js', dest: '_includes/modernizr.inc.js'},
 					{src: '_bower_components/foundation/js/vendor/jquery.js', dest: 'assets/js/vendor/jquery.js'}
 				]
 			}
