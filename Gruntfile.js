@@ -36,19 +36,19 @@ module.exports = function(grunt) {
 			dev: {
 				options: {
 					outputStyle: 'expanded',
-					sourceMap: true,
+					sourceMap: false,
 				},
 				files: {
-					'assets/css/dockstader.css': '_scss/dockstader.scss'
+					'_includes/dockstader.css': '_scss/dockstader.scss'
 				}
 			},
 			dist: {
 				options: {
 					outputStyle: 'compressed',
-					sourceMap: true,
+					sourceMap: false,
 				},
 				files: {
-					'assets/css/dockstader.min.css': '_scss/dockstader.scss'
+					'_includes/dockstader.min.css': '_scss/dockstader.scss'
 				}
 			}
 		},

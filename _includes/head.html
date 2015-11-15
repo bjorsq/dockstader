@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 	{% if page.description %}<meta name="description" content="{{ page.description | strip_html | escape }}"/>{% elsif site.description %}<meta name="description" content="{{ site.description | strip_html | escape }}"/>{% endif %}
-	<link href="{{ site.url }}/assets/css/dockstader.css" rel="stylesheet" type="text/css">
+	<style type="text/css">{% include dockstader.min.css %}</style>
 	<script>{% include modernizr.inc.js %}</script>
 
     {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification}}" />{% endif %}
