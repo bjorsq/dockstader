@@ -48,7 +48,7 @@ module.exports = function(grunt) {
 					sourceMap: false,
 				},
 				files: {
-					'_includes/dockstader.min.css': '_scss/dockstader.scss'
+					'_includes/dockstader.css': '_scss/dockstader.scss'
 				}
 			}
 		},
@@ -66,7 +66,15 @@ module.exports = function(grunt) {
 					compress: true
 				},
 				files: {
-					'assets/js/dockstader.min.js': alljs
+					'assets/js/dockstader.js': alljs
+				}
+			},
+			headjs: {
+				options: {
+					compress: true
+				},
+				files: {
+					'_includes/dockstader.js': ['_bower_components/foundation/js/vendor/modernizr.js', 'assets/js/head.js']
 				}
 			}
 		},
@@ -74,7 +82,6 @@ module.exports = function(grunt) {
 			vendorjs: {
 				files: [
 					{src: '_bower_components/foundation/js/vendor/modernizr.js', dest: 'assets/js/vendor/modernizr.js'},
-					{src: '_bower_components/foundation/js/vendor/modernizr.js', dest: '_includes/modernizr.inc.js'},
 					{src: '_bower_components/foundation/js/vendor/jquery.js', dest: 'assets/js/vendor/jquery.js'}
 				]
 			}
@@ -100,7 +107,7 @@ module.exports = function(grunt) {
 
 			sass: {
 				files: '_scss/*.scss',
-				tasks: ['sass','shell:jekyllBuild']
+				tasks: ['css','shell:jekyllBuild']
 			},
 
 			js: {
@@ -115,8 +122,12 @@ module.exports = function(grunt) {
 		}
 	});
 
-	grunt.registerTask('js', ['copy:vendorjs', 'jshint', 'uglify']);
-	grunt.registerTask('serve', ['sass', 'js', 'shell:jekyllBuild', 'shell:jekyllServe']);
-	grunt.registerTask('build', ['sass', 'js', 'shell:jekyllBuild']);
+	grunt.registerTask('js', ['copy:vendorjs', 'jshint', 'uglify:dist', 'uglify:headjs']);
+	grunt.registerTask('jsdev', ['copy:vendorjs', 'jshint', 'uglify:dev', 'uglify:headjs']);
+	grunt.registerTask('css', ['sass:dist']);
+	grunt.registerTask('cssdev', ['sass:dev']);
+	grunt.registerTask('serve', ['css', 'js', 'shell:jekyllBuild', 'shell:jekyllServe']);
+	grunt.registerTask('build', ['css', 'js', 'shell:jekyllBuild']);
+	grunt.registerTask('builddev', ['cssdev', 'jsdev', 'shell:jekyllBuild']);
 	grunt.registerTask('default', ['watch']);
 };
