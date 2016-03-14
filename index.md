@@ -2,7 +2,7 @@
 layout: page
 sidebar: homepage
 headerimage: svg/tod-dockstader
-title: "The Unofficial Tod Dockstader website"
+title: "Tod Dockstader"
 sitemap:
     priority: 1.0
     changefreq: 'yearly'

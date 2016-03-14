@@ -1,6 +1,6 @@
 ---
 layout: discography
-title: "Discography"
+title: "Tod Dockstader: Discography"
 description: "A list of all the CD and vinyl releases of material by Tod Dockstader from the early 1960s to the present day"
 headerimage: svg/discography
 permalink: "/discography/"

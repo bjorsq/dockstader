@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Links, Articles and Tributes"
+title: "Tod Dockstader: Links, Articles and Tributes"
 description: "Links to other websites about Tod Dockstader and his work, Artcles written by, and about Tod Dockstader, and other links to online tributes."
 headerimage: svg/articles
 permalink: "/articles/"
