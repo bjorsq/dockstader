@@ -1,6 +1,6 @@
 ---
 layout: review
-title: "Brave Old World by Andy Beta"
+title: "Brave Old World"
 description: "Originally published at citypages.com, this article by Andy Beta is a good introduction to the life and recorded output of Tod Dockstader"
 categories:
     - reviews
@@ -10,9 +10,7 @@ sitemap:
     lastmod: 2016-10-29
 ---
 
-### Brave Old World
-
-#### by Andy Beta
+### by Andy Beta
 
 _Originally published at [citypages.com](http://www.citypages.com/) on 8th October 2005_
 
