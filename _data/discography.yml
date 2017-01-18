@@ -1,5 +1,41 @@
 ---
   -
+    name: "STARKLAND"
+    preamble: "With over four decades in the record business, Thomas Steenland has released dozens of albums on the Starkland label, presenting world premiere recordings of over 160 works by more than 80 composers."
+    recordings:
+      -
+        catalogue_no: "ST-226"
+        date: "2016"
+        title: "TOD DOCKSTADER: From the Archives"
+        coverimage: "from-the-archives.jpg"
+        contents: "Carefully selected by Justin H Brierley and Tom Steenland from over 4,200 sound files left behind by Dockstader after he died in 2015, these were the last pieces he composed."
+        url: "http://www.starkland.com/st226/index.htm"
+
+      -
+        catalogue_no: "ST-201"
+        date: "1992"
+        title: "Quatermass"
+        coverimage: "quatermass_cover.gif"
+        contents: "Water Music, Quatermass, and Two Moons of Quatermass."
+        url: "http://www.starkland.com/st201/index.htm"
+
+      -
+        catalogue_no: "ST-202"
+        date: "1993"
+        title: "Apocalypse"
+        coverimage: "apocalypse_cover.gif"
+        contents: "Luna Park, Traveling Music, Drone, Apocalypse, Two Fragments from Apocalypse, Four Telemetry Tapes."
+        url: "http://www.starkland.com/st202/index.htm"
+
+      -
+        catalogue_no: "ST-203"
+        date: "1993"
+        title: "From A to Z"
+        coverimage: "atoz_cover.gif"
+        contents: "Excerpt from Luna Park, Part Three (from Apocalypse), Tango (from Quatermass), plus works by Paul Dresher, Joseph Kasinskas, Joseph Lukasik, Pamela Z, Barbara Imhoff, Charles Amirkhanian, and Phillip Kent Bimstein."
+        url: "http://www.starkland.com/st203/index.htm"
+
+  -
     name: "Sub Rosa"
     preamble: "<blockquote>&quot;Airwaves allow for a silence that is not dead, representing a presence even wthout a signal&quot;</blockquote><p>Dockstader has given up tape manipulation in favour of working with frequencies and computer composition. Unlike the cycle of 1960-65, these pieces no longer rely on interruptions, accumulations, and complex acceleration effects. Instead, we have slow, penetrating pulses that explore every corner with celestial thrills.</blockquote><p>Sub Rosa released Tod Dockstader's Aerial in three installments during 2005, the first of which came with a cardboard sleeve in which to collect the remaining releases.</p>"
     recordings:
@@ -74,34 +110,6 @@
         coverimage: "ohm_cover.jpg"
         contents: "Apocalypse (part 2), alongside early electronic works by other composers including Robert Ashley, David Behrman, John Cage, Luc Ferrari, Edgard Varèse (Poème Electronique) and Iannis Xenakis. A compilation on a 3xCD box set with 90-page booklet was originally released, then re-released as a &ldquo;Special Edition&rdquo; which included a 2 hour DVD containing films, interviews and animations of the various artists featured on the CDs."
         url: ""
-
-  -
-    name: "STARKLAND"
-    preamble: ""
-    recordings:
-      -
-        catalogue_no: "ST-201"
-        date: "1992"
-        title: "Quatermass"
-        coverimage: "quatermass_cover.gif"
-        contents: "Water Music, Quatermass, and Two Moons of Quatermass."
-        url: "http://www.starkland.com/st201/index.htm"
-
-      -
-        catalogue_no: "ST-202"
-        date: "1993"
-        title: "Apocalypse"
-        coverimage: "apocalypse_cover.gif"
-        contents: "Luna Park, Traveling Music, Drone, Apocalypse, Two Fragments from Apocalypse, Four Telemetry Tapes."
-        url: "http://www.starkland.com/st202/index.htm"
-
-      -
-        catalogue_no: "ST-203"
-        date: "1993"
-        title: "From A to Z"
-        coverimage: "atoz_cover.gif"
-        contents: "Excerpt from Luna Park, Part Three (from Apocalypse), Tango (from Quatermass), plus works by Paul Dresher, Joseph Kasinskas, Joseph Lukasik, Pamela Z, Barbara Imhoff, Charles Amirkhanian, and Phillip Kent Bimstein."
-        url: "http://www.starkland.com/st203/index.htm"
 
   -
     name: "Mordant Music"

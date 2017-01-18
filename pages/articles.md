@@ -30,7 +30,6 @@ sitemap:
 ### Articles about Tod Dockstader
 
 * [Starkland's Dockstader page](http://www.starkland.com/musicians/dockstader.htm)
-* [Legends of Electronic Music](http://www.wired.com/2012/06/tod-dockstader/) in Wired magazine (6/7/12) by Geeta Dayal
 * [Brave Old World](http://www.citypages.com/2005-08-10/arts/brave-old-world/) on citypages.com (10/08/2005) by Andy Beta
 * [Legends of Electronic Music](http://www.wired.com/2012/06/tod-dockstader/) - profile by Geeta Dayal in WIRED magazine, July 6, 2012
 * [Secret Circuits: New York’s Early Electronic Music Mavericks](http://daily.redbullmusicacademy.com/2013/06/secret-circuits) - by Geeta Dayal
