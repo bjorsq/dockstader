@@ -30,8 +30,8 @@ sitemap:
 ### Articles about Tod Dockstader
 
 * [Starkland's Dockstader page](http://www.starkland.com/musicians/dockstader.htm)
-* [Brave Old World](http://www.citypages.com/2005-08-10/arts/brave-old-world/) on citypages.com (10/08/2005) by Andy Beta
 * [Legends of Electronic Music](http://www.wired.com/2012/06/tod-dockstader/) - profile by Geeta Dayal in WIRED magazine, July 6, 2012
+* [Brave Old World]({% post_url reviews/2005-08-10-Brave-old-world-andy-beta %}) (8/10/2005) by Andy Beta originally published on [citypages.com](http://www.citypages.com/) on 8th October 2005
 * [Secret Circuits: New York’s Early Electronic Music Mavericks](http://daily.redbullmusicacademy.com/2013/06/secret-circuits) - by Geeta Dayal
 * [Tod Dockstader](http://www.scaruffi.com/avant/dockstad.html) on scaruffi.com by Piero Scaruffi (English/Italian)
 * [Tod Dockstader](https://www.tumblr.com/search/tod-dockstader) on tumblr
