@@ -14,8 +14,8 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      mp3: ''
-      ogg: ''
+      mp3: '0B2L5eVrXbcDKTWgzWDU0YS00VW8'
+      ogg: '0B2L5eVrXbcDKN1A1dGdzOGhKYXc'
       title: 'Traveling Music'  
 ---
 
