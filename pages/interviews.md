@@ -17,9 +17,10 @@ sitemap:
 	<li>Listen to a 1963 interview with Tod Dockstader at WRVR FM, New York City
 
 <audio controls>
-  <source src="{{ site.musicurl }}dockstader_interview_WRVR_FM_NY_1963.ogg" type="audio/ogg">
-  <source src="{{ site.musicurl }}dockstader_interview_WRVR_FM_NY_1963.mp3" type="audio/mpeg">
-  <p>Download in <a href="">MP3</a> or <a href="">OGG</a> format</p>
+
+  <source src="https://drive.google.com/open?id=0B2L5eVrXbcDKVGMyWnpVVHJRMG8" type="audio/ogg">
+  <source src="https://drive.google.com/open?id=0B2L5eVrXbcDKSEtzTVZ0R2ZtWmc" type="audio/mpeg">
+  <p>Download in <a href="https://drive.google.com/open?id=0B2L5eVrXbcDKSEtzTVZ0R2ZtWmc">MP3</a> or <a href="https://drive.google.com/open?id=0B2L5eVrXbcDKVGMyWnpVVHJRMG8">OGG</a> format</p>
 </audio>
 </li>
     {% for post in site.categories.interviews %}

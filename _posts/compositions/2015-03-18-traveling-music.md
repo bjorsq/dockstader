@@ -14,7 +14,8 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      filename: 'TravelingMusic'
+      mp3: ''
+      ogg: ''
       title: 'Traveling Music'  
 ---
 
