@@ -13,7 +13,8 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      filename: 'Omniphony1-3'
+      mp3: '0B2L5eVrXbcDKOFphdzFDcmFGa3c'
+      ogg: '0B2L5eVrXbcDKTUFiTmRlT1IxaTA'
       title: 'Omniphony 1 - act 3'  
 ---
 

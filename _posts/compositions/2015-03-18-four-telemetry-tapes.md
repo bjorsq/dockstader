@@ -12,7 +12,8 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      filename: 'Four-Telemetry-Tapes-no2'
+      mp3: '0B2L5eVrXbcDKRHQtLWZLLTc3YkE'
+      ogg: '0B2L5eVrXbcDKWmFQV0czWkg0Qlk'
       title: 'Four Telemetry Tapes - No.3'
 ---
 

@@ -17,7 +17,8 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      filename: 'Apocalypse-Part-Three'
+      mp3: '0B2L5eVrXbcDKUXN3aHA2WWhRV2s'
+      ogg: '0B2L5eVrXbcDKQ21nMzJ1cjlvem8'
       title: 'Apocalypse - Part Three'
 ---
 

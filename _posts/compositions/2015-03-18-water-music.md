@@ -15,7 +15,8 @@ sitemap:
 
 samples:
     - 
-      filename: 'Water-Music-Part-Three'
+      mp3: '0B2L5eVrXbcDKLWVoYXFKaldfS00'
+      ogg: '0B2L5eVrXbcDKYnVPS1JMWmVIQ00'
       title: 'Water Music - part 3'
 ---
 

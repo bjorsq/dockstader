@@ -14,7 +14,8 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      filename: 'Quatermass-Parade'
+      mp3: '0B2L5eVrXbcDKZndvaTNBM1lRLVk'
+      ogg: '0B2L5eVrXbcDKZUN4azNOMUcteUU'
       title: 'Quatermass act 3: Parade'  
 ---
 

@@ -14,7 +14,8 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      filename: 'Two-Fragments-from-Apocalypse-Second-Fragment'
+      mp3: '0B2L5eVrXbcDKQW83SHgxUUY1bmc'
+      ogg: '0B2L5eVrXbcDKZmtzWlA2LWpfMHM'
       title: 'Two Fragments from Apocalypse - Second Fragment'  
 ---
 

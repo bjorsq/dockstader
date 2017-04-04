@@ -12,7 +12,8 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      filename: 'Two-Moons-Of-Quatermass-First-Moon'
+      mp3: '0B2L5eVrXbcDKd0hRYkd2LUNaWnM'
+      ogg: '0B2L5eVrXbcDKNk9LQTJJeHVtNFE'
       title: 'Two Moons of Quatermass - First Moon'
 ---
 

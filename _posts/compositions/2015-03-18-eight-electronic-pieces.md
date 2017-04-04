@@ -14,7 +14,8 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      filename: 'Study-no-7'
+      mp3: '0B2L5eVrXbcDKLTlsU2hnQmlfdDQ'
+      ogg: '0B2L5eVrXbcDKMjE1TXU2WnZtbFE'
       title: 'Study no.7'  
 ---
 
