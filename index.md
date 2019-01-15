@@ -2,6 +2,7 @@
 layout: page
 sidebar: homepage
 headerimage: svg/tod-dockstader
+title: Tod Dockstader
 sitemap:
     priority: 1.0
     changefreq: 'yearly'
