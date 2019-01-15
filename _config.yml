@@ -15,10 +15,10 @@ description: "Tod Dockstader was a composer of organized sound, in the tradition
 
 # This URL is the main address. Don't include a slash at the end.
 #
-url: "http://dockstader.info"
+url: "https://dockstader.info"
 admin_email: "info@dockstader.info"
-baseurl: "http://dockstader.info/"
-urlimg: "http://dockstader.info/assets/img/"
+baseurl: "https://dockstader.info/"
+urlimg: "https://dockstader.info/assets/img/"
 musicurl : "https://dl.dropboxusercontent.com/u/5104625/dockstader/"
 repourl: "https://github.com/bjorsq/dockstader/"
 
