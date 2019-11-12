@@ -12,7 +12,6 @@ sitemap:
 
 ### Links
 
-* [Unlocking Dockstader](http://unlockingdockstader.com/)
 * [Tod Dockstader Wikipedia page](https://en.wikipedia.org/wiki/Tod_Dockstader)
 * [Starkland](http://www.starkland.com/)
 
