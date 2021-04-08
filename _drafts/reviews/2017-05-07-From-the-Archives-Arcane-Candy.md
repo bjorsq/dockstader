@@ -1,6 +1,18 @@
-https://arcanecandy.com/2017/05/07/tod-dockstader-from-the-archives/
+---
+layout: review
+title: "Tod Dockstader: From the Archives - CD review by Arcane Candy"
+description: "First published May 7, 2017 on arcanecandy.com"
+categories:
+    - reviews
+sitemap:
+    priority: 0.5
+    changefreq: 'never'
+    lastmod: 2017-05-07
+---
 
-Tod Dockstader – From the Archives
+First published May 7, 2017 on <a href="https://arcanecandy.com/" target="_blank">arcanecandy.com</a>.
+
+[https://arcanecandy.com/2017/05/07/tod-dockstader-from-the-archives/](https://arcanecandy.com/2017/05/07/tod-dockstader-from-the-archives/)
 
 Tod Dockstader (1932-2015) was a sound engineer and effects specialist at Gotham Recording studios in New York City from the late 1950s to the mid-’60s who, with no formal musical training, secretly composed some of the best electro-acoustic music of all time on company equipment after hours. [Insert evil laughter here.] My ears now thank him. Tod’s vintage material ranks right up there with the best of the late-night drive accompaniment wafted out by major mid-century composers like Karlheinz Stockhausen, Pierre Henry and Iannis Xenakis.
 

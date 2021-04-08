@@ -36,9 +36,9 @@
 {% endfor %}
 <nav class="nav-buttons">
 {% if prev_post %}
-<a href="{{ prev_post }}">&larr; {{ prev_title }}</a>
+<a href="{{ prev_post }}">{{ prev_title }}</a>
 {% endif %}
 {% if next_post %}
-<a href="{{ next_post }}">{{ next_title }} &rarr;</a>
+<a href="{{ next_post }}">{{ next_title }}</a>
 {% endif %}
 </nav>

@@ -3,7 +3,7 @@ layout: review
 title: "Tod Dockstader: From the Archives - CD Review by Christian Carey"
 description: "First published February 8, 2017 on sequenza21.com"
 categories:
-    - reviews-draft
+    - reviews
 sitemap:
     priority: 0.5
     changefreq: 'never'

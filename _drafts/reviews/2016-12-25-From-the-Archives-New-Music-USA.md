@@ -3,7 +3,7 @@ layout: review
 title: "Tod Dockstader: From the Archives - New Music USA"
 description: "Release announcement by Tom Steenland first published December 25, 2016 on newmusicusa.org"
 categories:
-    - reviews-draft
+    - reviews
 sitemap:
     priority: 0.5
     changefreq: 'never'

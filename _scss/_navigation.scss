@@ -133,7 +133,37 @@ body {
 	}
 }
 .nav-buttons {
-	align-items: center;
 	display:flex;
 	justify-content:space-between;
+	width: 100%;
+	a {
+		flex:1;
+		position:relative;
+		padding: 1rem;
+		border-style: solid;
+		border-width: 1px;
+		border-radius: 3px;
+		border-color: $footerborder;
+		background: $footerbg;
+		color: $footerfg;
+		&:first-child {
+			padding-left:2rem;
+			&:before {
+				position: absolute;
+				left: 0.25em;
+				content: "\2039";
+				font: bold 1.5em sans-serif;
+			}
+		}
+		&:last-child {
+			padding-right:2rem;
+			text-align:right;
+			&:before {
+				position: absolute;
+				right: 0.25em;
+				content: "\203A";
+				font: bold 1.5em sans-serif;
+			}
+		}
+	}
 }

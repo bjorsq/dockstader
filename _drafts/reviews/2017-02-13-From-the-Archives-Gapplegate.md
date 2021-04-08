@@ -3,7 +3,7 @@ layout: review
 title: "Tod Dockstader: From the Archives - CD review by Grego Applegate Edwards"
 description: "First published February 13, 2017 on classicalmodernmusic.blogspot.com"
 categories:
-    - reviews-draft
+    - reviews
 sitemap:
     priority: 0.5
     changefreq: 'never'
