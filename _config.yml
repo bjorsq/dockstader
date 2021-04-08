@@ -17,7 +17,6 @@ description: "Tod Dockstader was a composer of organized sound, in the tradition
 #
 url: "https://dockstader.info"
 admin_email: "info@dockstader.info"
-baseurl: "https://dockstader.info/"
 urlimg: "https://dockstader.info/assets/img/"
 musicurl : "https://dl.dropboxusercontent.com/u/5104625/dockstader/"
 repourl: "https://github.com/bjorsq/dockstader/"

@@ -9,7 +9,9 @@
         title: "TOD DOCKSTADER: From the Archives"
         coverimage: "from-the-archives.jpg"
         contents: "Carefully selected by Justin H Brierley and Tom Steenland from over 4,200 sound files left behind by Dockstader after he died in 2015, these were the last pieces he composed."
-        url: "http://www.starkland.com/st226/index.htm"
+        url:
+          - "https://www.starkland.com/st226/index.htm"
+          - "https://dockstader.bandcamp.com/album/tod-dockstader-from-the-archives"
 
       -
         catalogue_no: "ST-201"
@@ -17,7 +19,9 @@
         title: "Quatermass"
         coverimage: "quatermass_cover.gif"
         contents: "Water Music, Quatermass, and Two Moons of Quatermass."
-        url: "http://www.starkland.com/st201/index.htm"
+        url: 
+          - "https://www.starkland.com/st201/index.htm"
+          - "https://dockstader.bandcamp.com/album/tod-dockstader-quatermass"
 
       -
         catalogue_no: "ST-202"
@@ -25,7 +29,9 @@
         title: "Apocalypse"
         coverimage: "apocalypse_cover.gif"
         contents: "Luna Park, Traveling Music, Drone, Apocalypse, Two Fragments from Apocalypse, Four Telemetry Tapes."
-        url: "http://www.starkland.com/st202/index.htm"
+        url: 
+          - "https://www.starkland.com/st202/index.htm"
+          - "https://dockstader.bandcamp.com/album/apocalypse"
 
       -
         catalogue_no: "ST-203"
@@ -33,7 +39,9 @@
         title: "From A to Z"
         coverimage: "atoz_cover.gif"
         contents: "Excerpt from Luna Park, Part Three (from Apocalypse), Tango (from Quatermass), plus works by Paul Dresher, Joseph Kasinskas, Joseph Lukasik, Pamela Z, Barbara Imhoff, Charles Amirkhanian, and Phillip Kent Bimstein."
-        url: "http://www.starkland.com/st203/index.htm"
+        url: 
+          - "https://www.starkland.com/st203/index.htm"
+          - "https://starkland.bandcamp.com/album/from-a-to-z"
 
   -
     name: "Sub Rosa"
@@ -45,7 +53,9 @@
         title: "Aerial #1"
         coverimage: "aerial_1.jpg"
         contents: "Song, Om, Runble, Shout, Raga, Dada, Tremblar, Lala, Myst, Aw, March, Harbor, Swell, Pulse, Second Song"
-        url: "http://www.subrosa.net/en/catalogue/early-electronic-music/tod-dockstader.html"
+        url: 
+          - "https://www.subrosa.net/en/catalogue/early-electronic-music/tod-dockstader.html"
+          - "https://namjunepaik.bandcamp.com/album/aerial-2003"
 
       -
         catalogue_no: "SR 228"
@@ -53,7 +63,9 @@
         title: "Aerial #2"
         coverimage: "aerial_2.jpg"
         contents: "Approach, Omaggio a Fellini, Pipes, Orgal, Babbel, Yaya, Ba Loon, Clocking, Wail, Bottom, Feeder, Spindrift, Surfer, Low Roller, Still, Beating, Piccolo, Wire, Knock, Wah, Aah"
-        url: "http://www.subrosa.net/en/catalogue/early-electronic-music/tod-dockstader_01.html"
+        url: 
+          - "https://www.subrosa.net/en/catalogue/early-electronic-music/tod-dockstader_01.html"
+          - "https://namjunepaik.bandcamp.com/album/aerial-2003"
 
       -
         catalogue_no: "SR 233"
@@ -61,7 +73,9 @@
         title: "Aerial #3"
         coverimage: "aerial_3.jpg"
         contents: "Mutter, Wave, Descent, Voicetrain, Howl, Surge, Wheeze, CQ, Jam, Bounce, Whisper, Oh, Stomp, Harmonic, Din, Pressure, Serious Jig, Stream, Steam, Wait, Woo, Finale"
-        url: "http://www.subrosa.net/en/catalogue/early-electronic-music/tod-dockstader_02.html"
+        url: 
+          - "https://www.subrosa.net/en/catalogue/early-electronic-music/tod-dockstader_02.html"
+          - "https://namjunepaik.bandcamp.com/album/aerial-2003"
 
       -
         catalogue_no: "SR 200 CD"
@@ -69,7 +83,9 @@
         title: "An Anthology Of Noise &amp; Electronic Music / Second A-Chronology 1936-2003"
         coverimage: "anthology_cover.jpg"
         contents: "Aerial > Song, alongside works by Autechre, Captain Beefheart, Sun Ra, Arcane Device, Percy Grainger, Morton Subotnick, SPK and others."
-        url: "http://www.subrosa.net/"
+        url: 
+          - "https://www.subrosa.net/en/catalogue/anthologies/an-anthology-of-noise---electronic-music-2.html"
+          - "https://subrosalabel.bandcamp.com/album/an-anthology-of-noise-electronic-music-2"
 
   -
     name: "ReR MEGACORP"
@@ -81,7 +97,8 @@
         title: "Bijou (with David Lee Myers)"
         coverimage: "bijou_cover.jpg"
         contents: "The second collaboration with David Lee Myers is a bit more abstract and introspective than Pond."
-        url: "http://tinyurl.com/8thlm"
+        url: 
+          - "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Category_Code=RL&Initial=&CatListingoffset=48&Product_Code=ReRTDDM2&Store_Code=RM&Initial="
 
       -
         catalogue_no: "ReR TDDM1"
@@ -89,7 +106,8 @@
         title: "Pond (with David Lee Myers)"
         coverimage: "pond_cover.jpg"
         contents: "The first collaboration between Tod Dockstader and David Lee Myers, born of a long written correspondence and a mutual affection for frogs."
-        url: "http://tinyurl.com/49ynl"
+        url: 
+          - "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Category_Code=RL&Initial=&CatListingoffset=48&Product_Code=ReRTDDM1&Store_Code=RM"
 
       -
         catalogue_no: "ReR TODD1"
@@ -97,7 +115,8 @@
         title: "Omniphony 1"
         coverimage: "omniphony_cover.jpg"
         contents: "Reissue with a stereo version of Study No. 7 of the Eight Electronic Pieces and Past Prelude."
-        url: "http://tinyurl.com/3v3lx"
+        url: 
+          - "https://www.rermegacorp.com/mm5/merchant.mvc?Screen=PROD&Category_Code=RL&Initial=&CatListingoffset=48&Product_Code=ReRTODD1&Store_Code=RM"
 
   -
     name: "Ellipsis Arts"
@@ -109,7 +128,7 @@
         title: "Ohm: The Early Gurus Of Electronic Music"
         coverimage: "ohm_cover.jpg"
         contents: "Apocalypse (part 2), alongside early electronic works by other composers including Robert Ashley, David Behrman, John Cage, Luc Ferrari, Edgard Varèse (Poème Electronique) and Iannis Xenakis. A compilation on a 3xCD box set with 90-page booklet was originally released, then re-released as a &ldquo;Special Edition&rdquo; which included a 2 hour DVD containing films, interviews and animations of the various artists featured on the CDs."
-        url: ""
+        url:
 
   -
     name: "Mordant Music"
@@ -121,7 +140,8 @@
         title: "Tod Dockstader &ldquo;Electronic Vol.1&rdquo; vinyl/download"
         coverimage: "MM054.png"
         contents: "Tod Dockstader's synth-based library production music lives again with the first of two bulbous volumes...to this day TD remains a gargant of free-spirited nocturnal composition...shards of avant garde on the trunk line...Vibrations Inc.<br>A reproduction of Dockstader&rsquo;s first LP of library music for Boosey &amp; Hawkes (SBH 3073)."
-        url: "https://toddockstader.bandcamp.com/album/electronic-vol-1"
+        url: 
+          - "https://toddockstader.bandcamp.com/album/electronic-vol-1"
 
       -
         catalogue_no: "MM055"
@@ -129,7 +149,8 @@
         title: "Tod Dockstader &ldquo;Electronic Vol.2&rdquo; vinyl/download"
         coverimage: "MM055.png"
         contents: "MM spore the second Tod Dockstader library album salvo after the first volume took local councils by storm...1981 is the year in question this time and once again TD deploys an arsenal of synths for the Aldwych-based Boosey & Hawkes...a behemoth of the avant-garde shows the digital age how to synth-spar with aplomb...<br>A reproduction of Dockstader&rsquo;s second LP of library music for Boosey &amp; Hawkes (SBH 3082). "
-        url: "https://toddockstader.bandcamp.com/album/electronic-vol-2"
+        url: 
+          - "https://toddockstader.bandcamp.com/album/electronic-vol-2"
 
   -
     name: "Cavendish Music"
@@ -141,7 +162,8 @@
         title: "Pioneers 02: Tod Dockstader"
         coverimage: "cavc0350.jpg"
         contents: "This is a reissue of material from the two LPs of library music for Boosey &amp; Hawkes."
-        url: "http://search.imagempm.com/#showcd/%7B%22cdcdkurz%22:%22CAVC0350%22%7D"
+        url: 
+          - "https://www.flippermusic.it/album/14367/1/pioneers-02x-dockstader-remixed"
 
   -
     name: "Creel Pone"
@@ -153,7 +175,8 @@
         title: "Tod Dockstader &ldquo;Electronic [SBH 3073]&rdquo; compact disc recordable"
         coverimage: "BandH.jpg"
         contents: "This creel pone edition includes:<ul><li>1 x crystal-clear resealable polypropylene cd sleeve with a green / silver foil stamp affixed to the exterior</li><li>1 x hand-cut single-sided inkjet-printed card-stock insert</li><li>1 x one-color inkjet-printed compact disc recordable in a high-density round-bottom cd sleeve</li></ul><p>A reproduction of Dockstader&rsquo;s first LP of library music for Boosey &amp; Hawkes."
-        url: ""
+        url: 
+          - "https://www.youtube.com/watch?v=yneVi6k5YRI&list=PL0y_iwxmSWws1IUxrwfUdHDazWP1hDboB&index=11"
 
       -
         catalogue_no: "Creel Pone #62"
@@ -161,7 +184,8 @@
         title: "Tod Dockstader &ldquo;Electronic [SBH 3082]&rdquo; compact disc recordable"
         coverimage: "BandH.jpg"
         contents: "This creel pone edition includes:</p><ul><li>1 x crystal-clear resealable polypropylene cd sleeve with a black / silver foil stamp affixed to the exterior</li><li>1 x single-sided six-color inkjet-printed hand-cut glossy-photo-stock booklet</li><li>1 x four-color inkjet-printed compact disc recordable in a high-density round-bottom cd sleeve</li></ul><p>A reproduction of Dockstader&rsquo;s second LP of library music for Boosey &amp; Hawkes. "
-        url: ""
+        url:
+          - "https://www.youtube.com/watch?v=yneVi6k5YRI&list=PL0y_iwxmSWws1IUxrwfUdHDazWP1hDboB&index=11"
 
   -
     name: "Boosey &amp; Hawkes"
@@ -248,7 +272,7 @@
         title: "Eight Electronic Pieces"
         coverimage: "locust.png"
         contents: "Reissue of Dockstader's crucial and remarkably advanced early concrete pieces, originally released privately and then reissued by Folkways in 1961. Tod Dockstader did the analog-to-digital transfer from the original tape, and Ernst Karel mastered the recordings for CD."
-        url: "http://www.locustmusic.com/dockstader.html"
+        url: ""
 
   -
     name: "Smithsonian Folkways"
@@ -260,5 +284,6 @@
         title: "Eight Electronic Pieces"
         contents: "Dockstader's crucial and remarkably advanced early concrete pieces, originally released privately. This particular recording has been re-issued on the Locust label with new liner notes. Tod Dockstader did the analog-to-digital transfer from the original tape, and Ernst Karel mastered the recordings for the Locust CD."
         coverimage: "FW03434.jpg"
-        url: "http://www.folkways.si.edu/tod-dockstader/eight-electronic-pieces/contemporary/music/album/smithsonian"
+        url: 
+          - "https://folkways.si.edu/tod-dockstader/eight-electronic-pieces/contemporary/music/album/smithsonian"
 

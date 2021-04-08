@@ -1,3 +1,6 @@
+---
+---
+
 .row {
 	max-width:940px;
 	box-sizing:border-box;
@@ -18,7 +21,7 @@
 }
 .labelname,
 .releasesheader {
-	background:$gainsboro;
+	background:#ddd;
 	padding-left:.1em;
 }
 figure {
@@ -38,7 +41,7 @@ img {
 		height:auto;
 	}
 }
-@media #{$medium-up} {
+@media only screen and (min-width:40.0625em) {
 	img {
 		&.right {
 			width:50%;

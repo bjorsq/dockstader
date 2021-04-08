@@ -6,7 +6,7 @@ format: discography
 	{% if page.headerimage %}
 	<header>
 		<figure>
-			<img class="figurehead" src="{{ site.urlimg }}{{ page.headerimage }}.svg" alt="{{ page.title escape_once }}" data-fallback="{{ site.urlimg }}{{ page.headerimage }}.png">
+			<img class="figurehead" src="{{ site.urlimg }}{{ page.headerimage }}.svg" alt="{{ page.title | escape_once }}" data-fallback="{{ site.urlimg }}{{ page.headerimage }}.png">
 		</figure>
 	</header>
 	{% endif %}
@@ -26,7 +26,11 @@ format: discography
 				<p class="cat-no">{{ release.catalogue_no }}</p>
 				<p class="content">{{ release.contents }}</p>
 				{% if release.url %}
-				<p class="url"><a href="{{ release.url }}">{{ release.url }}</a></p>
+				<ul>
+					{% for releaseurl in release.url %}
+					<li class="url"><a href="{{ releaseurl }}">{{ releaseurl }}</a></li>
+					{% endfor %}
+				</ul>
 				{% endif %}
 			</div>
 			{% endfor %}
