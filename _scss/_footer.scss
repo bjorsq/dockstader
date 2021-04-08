@@ -1,0 +1,20 @@
+.footer-panel {
+    margin-bottom: 1.25rem;
+    padding: 1.25rem;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    border-color: $footerborder;
+    background: $footerbg;
+    color: $footerfg;
+    & > :first-child {
+        margin-top: 0;
+    }
+    & > :last-child {
+        margin-bottom: 0;
+    }
+    h3 {
+        line-height: 1.4;
+        margin-bottom: 0.625rem;
+    }
+}

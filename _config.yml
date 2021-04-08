@@ -48,16 +48,14 @@ excerpt_separator: "\n\n"
 language: "en"
 
 # Include/exclude files from production _site
-include:
-    - .htaccess
 exclude:
     - node_modules
-    - Gruntfile.js
-    - bower.json
+    - Gemfile
+    - Gemfile.lock
     - package.json
+    - package-lock.json
     - LICENSE
     - README.md
-    - generate.php
     - assets/img/src
     - assets/pdf
     - assets/audio
@@ -79,7 +77,6 @@ defaults:
       type: "pages"
     values:
       show_meta: true 	# Show metadata beneath all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: "Peter Edwards"
       layout: page
@@ -89,9 +86,8 @@ defaults:
       type: "posts"
     values:
       show_meta: true   # Show metadata beneath all posts
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "your_author_name"
+      author: "Peter Edwards"
 
 
 
@@ -144,8 +140,8 @@ msapplication_tilecolor:         "#ffffff"                                      
 #                           
 
 sass:
-    sass_dir: _sass
-    style: :compressed
+    sass_dir: _scss
+    style: compressed
 
 
 #     _____           _       __      
@@ -158,5 +154,4 @@ sass:
 # used in _includes/footer_scripts.html
 
 google_analytics_tracking_id: "UA-259284-19"
-jquery_version:               "2.1.4"
 
