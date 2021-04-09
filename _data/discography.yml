@@ -1,7 +1,7 @@
 ---
   -
     name: "STARKLAND"
-    preamble: "With over four decades in the record business, Thomas Steenland has released dozens of albums on the Starkland label, presenting world premiere recordings of over 160 works by more than 80 composers."
+    preamble: "<p>With over four decades in the record business, Thomas Steenland has released dozens of albums on the Starkland label, presenting world premiere recordings of over 160 works by more than 80 composers.</p>"
     recordings:
       -
         catalogue_no: "ST-226"
@@ -167,7 +167,7 @@
 
   -
     name: "Creel Pone"
-    preamble: "&ldquo;Creel Pone began as the first ever reissue series for LP covers and related packaging items, with everything printed as closely as possible to exact 5/12 scale including the inserts, label ephemera, booklets. In fact everything but the LP labels and the LP itself. But almost immediately people wanted the missing element so Creel Pone began including the music inside the sleeve on a CD-Recordable. This makes the Creel Pone more expensive to produce than they are sold for; but really it's not about having anything to do with money but just a way for pure and great art both in vision &amp; sound to prosper and be discovered anew.&rdquo;<br><a href=\"http://www.orkstorm.com/creelpone/\">Creel Pone editions</a>"
+    preamble: "<p>&ldquo;Creel Pone began as the first ever reissue series for LP covers and related packaging items, with everything printed as closely as possible to exact 5/12 scale including the inserts, label ephemera, booklets. In fact everything but the LP labels and the LP itself. But almost immediately people wanted the missing element so Creel Pone began including the music inside the sleeve on a CD-Recordable. This makes the Creel Pone more expensive to produce than they are sold for; but really it's not about having anything to do with money but just a way for pure and great art both in vision &amp; sound to prosper and be discovered anew.&rdquo;<br><a href=\"http://www.orkstorm.com/creelpone/\">Creel Pone editions</a></p>"
     recordings:
       -
         catalogue_no: "Creel Pone #12"
@@ -189,7 +189,7 @@
 
   -
     name: "Boosey &amp; Hawkes"
-    preamble: "The Boosey &amp; Hawkes Recorded Music Library (now Cavendish Music - www.cavendishmusic.com) contains music specifically written for use in Audio-Visual Media (advertising, television, film, corporate videos etc).  It is a business to business music service that is licensed to end users at set rates controlled by a separate society, MCPS (The Mechanical Copyright Protection Society).  The albums are not released commercially or sold for profit to the general public - income is generated via licensing and royalties from broadcast &amp; airplay. SBH 3073 & SBH 3083 are old catalogue numbers for the library and would have been written and recorded to be marketed to clients and royalties collected via MCPS/PRS."
+    preamble: "<p>The Boosey &amp; Hawkes Recorded Music Library (now Cavendish Music - www.cavendishmusic.com) contains music specifically written for use in Audio-Visual Media (advertising, television, film, corporate videos etc).  It is a business to business music service that is licensed to end users at set rates controlled by a separate society, MCPS (The Mechanical Copyright Protection Society).  The albums are not released commercially or sold for profit to the general public - income is generated via licensing and royalties from broadcast &amp; airplay. SBH 3073 & SBH 3083 are old catalogue numbers for the library and would have been written and recorded to be marketed to clients and royalties collected via MCPS/PRS.</p>"
     recordings:
       -
         catalogue_no: "SBH 3073"
@@ -209,7 +209,7 @@
 
   -
     name: "Doxy Records"
-    preamble: "Unauthorised bootlegs of the original OWL LPs"
+    preamble: "<p>Unauthorised bootlegs of the original OWL LPs</p>"
     recordings:
       -
         catalogue_no: DOZ425
@@ -228,7 +228,7 @@
 
   -
     name: "OWL Records"
-    preamble: "Owl was originally (around 1961) 'Owl Records' when the Dockstader LPs were released. Then, later (around 1976), it became 'Owl Recording, Inc,' a nonprofit corporation. These Owl records have been sold out for some time."
+    preamble: "<p>Owl was originally (around 1961) 'Owl Records' when the Dockstader LPs were released. Then, later (around 1976), it became 'Owl Recording, Inc,' a nonprofit corporation. These Owl records have been sold out for some time.</p>"
     recordings:
       -
         catalogue_no: "ORLP-6"
@@ -276,7 +276,7 @@
 
   -
     name: "Smithsonian Folkways"
-    preamble: "Folkways recordings can be obtained from the <a href=\"http://www.folkways.si.edu/\"> Smithsonian Institute</a>, a major nonprofit arts institution in Washington, DC. They will send cassettes or CDs of titles in their catalogue on request."
+    preamble: "<p>Folkways recordings can be obtained from the <a href=\"http://www.folkways.si.edu/\"> Smithsonian Institute</a>, a major nonprofit arts institution in Washington, DC. They will send cassettes or CDs of titles in their catalogue on request.</p>"
     recordings:
       -
         catalogue_no: "Folkways SM 3434"

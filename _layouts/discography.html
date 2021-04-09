@@ -15,10 +15,10 @@ format: discography
 		<section>
 			<header>
 			    <h2 class="labelname">{{ label.name }}</h2>
-			    {% if label.preamble %}
-			    <p>{{ label.preamble }}</p>
-			    {% endif %}
 			</header>
+			{% if label.preamble %}
+			{{ label.preamble }}
+			{% endif %}
 			{% for release in label.recordings %}
 			<div class="release">
 				<img src="{{ site.urlimg }}discography/{{ release.coverimage }}" alt="{{ release.title }} cover">
