@@ -18,9 +18,9 @@ sitemap:
 
 <audio controls>
 
-  <source src="http://docs.google.com/uc?export=open&amp;id=1kGxNxgmexKZyUeFnPldYIa10AEDApEj9" type="audio/ogg">
-  <source src="http://docs.google.com/uc?export=open&amp;id=1_1PJE_G7G1z1YRFw2PFKzhGk-VYktm8N" type="audio/mpeg">
-  <p>Download in <a href="http://docs.google.com/uc?export=open&amp;id=1_1PJE_G7G1z1YRFw2PFKzhGk-VYktm8N">MP3</a> or <a href="http://docs.google.com/uc?export=open&amp;id=1kGxNxgmexKZyUeFnPldYIa10AEDApEj9">OGG</a> format</p>
+  <source src="https://docs.google.com/uc?export=open&amp;id=1kGxNxgmexKZyUeFnPldYIa10AEDApEj9" type="audio/ogg">
+  <source src="https://docs.google.com/uc?export=open&amp;id=1_1PJE_G7G1z1YRFw2PFKzhGk-VYktm8N" type="audio/mpeg">
+  <p>Download in <a href="https://docs.google.com/uc?export=open&amp;id=1_1PJE_G7G1z1YRFw2PFKzhGk-VYktm8N">MP3</a> or <a href="https://docs.google.com/uc?export=open&amp;id=1kGxNxgmexKZyUeFnPldYIa10AEDApEj9">OGG</a> format</p>
 </audio>
 </li>
     {% for post in site.categories.interviews %}
