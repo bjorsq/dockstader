@@ -12,8 +12,8 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      mp3: '0B2L5eVrXbcDKcTJXVnhsOEdaNEk'
-      ogg: '0B2L5eVrXbcDKVmJEODg2NXM0XzQ'
+      mp3: 'https://podcast.bjorsq.net/dockstader/past-prelude.mp3'
+      ogg: 'https://podcast.bjorsq.net/dockstader/past-prelude.ogg'
       title: 'Past Prelude'  
 ---
 

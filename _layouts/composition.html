@@ -14,9 +14,9 @@ format: compositions
 	<div class="audio">
 	    <h4><em>{{ rel.title }}</em></h4>
 		<audio controls>
-			<source src="http://docs.google.com/uc?export=open&amp;id={{ rel.ogg }}" type="audio/ogg">
-			<source src="http://docs.google.com/uc?export=open&amp;id={{ rel.mp3 }}" type="audio/mpeg">
-			<p>Your browser does not support the audio element. Download {{ rel.title }} in <a href="http://docs.google.com/uc?export=open&amp;id={{ rel.mp3 }}" title="Download MP3">MP3</a> or <a href="http://docs.google.com/uc?export=open&amp;id={{ rel.ogg }}" title="Download OGG">OGG</a> format.</p>
+			<source src="{{ rel.ogg }}" type="audio/ogg">
+			<source src="{{ rel.mp3 }}" type="audio/mpeg">
+			<p>Your browser does not support the audio element. Download {{ rel.title }} in <a href="{{ rel.mp3 }}" title="Download MP3">MP3</a> or <a href="{{ rel.ogg }}" title="Download OGG">OGG</a> format.</p>
 		</audio>
 	</div>
 	{% endfor %}

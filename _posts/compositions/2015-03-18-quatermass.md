@@ -14,8 +14,8 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      mp3: '0B2L5eVrXbcDKZndvaTNBM1lRLVk'
-      ogg: '0B2L5eVrXbcDKZUN4azNOMUcteUU'
+      mp3: 'https://podcast.bjorsq.net/dockstader/Quatermass-Parade.mp3'
+      ogg: 'https://podcast.bjorsq.net/dockstader/Quatermass-Parade.ogg'
       title: 'Quatermass act 3: Parade'  
 ---
 

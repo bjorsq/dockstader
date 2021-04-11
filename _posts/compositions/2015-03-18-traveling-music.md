@@ -14,8 +14,8 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      mp3: '0B2L5eVrXbcDKTWgzWDU0YS00VW8'
-      ogg: '0B2L5eVrXbcDKN1A1dGdzOGhKYXc'
+      mp3: 'https://podcast.bjorsq.net/dockstader/Travelling Music.mp3'
+      ogg: 'https://podcast.bjorsq.net/dockstader/Travelling Music.ogg'
       title: 'Traveling Music'  
 ---
 

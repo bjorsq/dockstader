@@ -17,8 +17,8 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      mp3: '0B2L5eVrXbcDKUXN3aHA2WWhRV2s'
-      ogg: '0B2L5eVrXbcDKQ21nMzJ1cjlvem8'
+      mp3: 'https://podcast.bjorsq.net/dockstader/Apocalypse-Part-Three.mp3'
+      ogg: 'https://podcast.bjorsq.net/dockstader/Apocalypse-Part-Three.ogg'
       title: 'Apocalypse - Part Three'
 ---
 

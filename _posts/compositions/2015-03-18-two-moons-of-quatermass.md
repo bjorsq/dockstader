@@ -12,8 +12,8 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      mp3: '0B2L5eVrXbcDKd0hRYkd2LUNaWnM'
-      ogg: '0B2L5eVrXbcDKNk9LQTJJeHVtNFE'
+      mp3: 'https://podcast.bjorsq.net/dockstader/Two-Moons-Of-Quatermass-First-Moon.mp3'
+      ogg: 'https://podcast.bjorsq.net/dockstader/Two-Moons-Of-Quatermass-First-Moon.ogg'
       title: 'Two Moons of Quatermass - First Moon'
 ---
 

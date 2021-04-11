@@ -13,8 +13,8 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      mp3: '0B2L5eVrXbcDKOFphdzFDcmFGa3c'
-      ogg: '0B2L5eVrXbcDKTUFiTmRlT1IxaTA'
+      mp3: 'https://podcast.bjorsq.net/dockstader/Omniphony1-3.mp3'
+      ogg: 'https://podcast.bjorsq.net/dockstader/Omniphony1-3.ogg'
       title: 'Omniphony 1 - act 3'  
 ---
 

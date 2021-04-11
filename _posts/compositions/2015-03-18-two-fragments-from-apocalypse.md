@@ -14,8 +14,8 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      mp3: '0B2L5eVrXbcDKQW83SHgxUUY1bmc'
-      ogg: '0B2L5eVrXbcDKZmtzWlA2LWpfMHM'
+      mp3: 'https://podcast.bjorsq.net/dockstader/Two-Fragments-from-Apocalypse-Second-Fragment.mp3'
+      ogg: 'https://podcast.bjorsq.net/dockstader/Two-Fragments-from-Apocalypse-Second-Fragment.ogg'
       title: 'Two Fragments from Apocalypse - Second Fragment'  
 ---
 

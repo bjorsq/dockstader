@@ -15,8 +15,8 @@ sitemap:
 
 samples:
     - 
-      mp3: '0B2L5eVrXbcDKLWVoYXFKaldfS00'
-      ogg: '0B2L5eVrXbcDKYnVPS1JMWmVIQ00'
+      mp3: 'https://podcast.bjorsq.net/dockstader/Water Music-Part-Three.mp3'
+      ogg: 'https://podcast.bjorsq.net/dockstader/Water Music-Part-Three.ogg'
       title: 'Water Music - part 3'
 ---
 

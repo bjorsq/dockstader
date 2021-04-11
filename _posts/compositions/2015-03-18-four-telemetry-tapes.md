@@ -12,9 +12,9 @@ sitemap:
     lastmod: 2015-09-22
 samples:
     - 
-      mp3: '0B2L5eVrXbcDKRHQtLWZLLTc3YkE'
-      ogg: '0B2L5eVrXbcDKWmFQV0czWkg0Qlk'
-      title: 'Four Telemetry Tapes - No.3'
+      mp3: 'https://podcast.bjorsq.net/dockstader/Four-Telemetry-Tapes-no2.mp3'
+      ogg: 'https://podcast.bjorsq.net/dockstader/Four-Telemetry-Tapes-no2.ogg'
+      title: 'Four Telemetry Tapes - No.2'
 ---
 
 Four Telemetry Tapes are the last pieces of truly organized sound that I did - though they're almost entirely "electronic": three rewired audio test generators, played by twisting dials and knobs. The original idea came from recordings of early satellites, starting with Sputnik: the messages they sent back to earth, "telemetry," were, to my ears, in the form of loops, slowly and subtly changing over transmission times. I constructed a lot of these loops, and started to mix them - and managed to create an early form of what became New Age music: restful, but, to me, dull. 
