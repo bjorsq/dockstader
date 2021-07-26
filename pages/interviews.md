@@ -14,6 +14,9 @@ sitemap:
 
 
 <ul>
+    {% for post in site.categories.interviews %}
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br>{{ post.description }}</li>
+    {% endfor %}
 	<li>Listen to a 1963 interview with Tod Dockstader at WRVR FM, New York City
 
 <audio controls>
@@ -22,7 +25,4 @@ sitemap:
   <p>Download in <a href="https://podcast.bjorsq.net/dockstader/Dockstader-Interview-1963.mp3">MP3</a> or <a href="https://podcast.bjorsq.net/dockstader/Dockstader-Interview-1963.ogg">OGG</a> format</p>
 </audio>
 </li>
-    {% for post in site.categories.interviews %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br>{{ post.description }}</li>
-    {% endfor %}
 </ul>
