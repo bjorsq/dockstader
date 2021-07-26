@@ -1,7 +1,7 @@
 ---
 layout: interview
 title: "Interview with John C. DeWitt for WRVR FM 1963 (transcript)"
-description: ""
+description: "Listen to the interview below:"
 categories:
     - interviews
 sitemap:

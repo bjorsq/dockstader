@@ -15,14 +15,14 @@ sitemap:
 
 <ul>
     {% for post in site.categories.interviews %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br>{{ post.description }}</li>
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br>{{ post.description }}
+    {% if forloop.last == true %}
+      <audio controls>
+        <source src="https://podcast.bjorsq.net/dockstader/Dockstader-Interview-1963.mp3" type="audio/mpeg">
+        <source src="https://podcast.bjorsq.net/dockstader/Dockstader-Interview-1963.ogg" type="audio/ogg">
+        <p>Download in <a href="https://podcast.bjorsq.net/dockstader/Dockstader-Interview-1963.mp3">MP3</a> or <a href="https://podcast.bjorsq.net/dockstader/Dockstader-Interview-1963.ogg">OGG</a> format</p>
+      </audio>
+    {% endif %}
+    </li>
     {% endfor %}
-	<li>Listen to a 1963 interview with Tod Dockstader at WRVR FM, New York City
-
-<audio controls>
-  <source src="https://podcast.bjorsq.net/dockstader/Dockstader-Interview-1963.mp3" type="audio/mpeg">
-  <source src="https://podcast.bjorsq.net/dockstader/Dockstader-Interview-1963.ogg" type="audio/ogg">
-  <p>Download in <a href="https://podcast.bjorsq.net/dockstader/Dockstader-Interview-1963.mp3">MP3</a> or <a href="https://podcast.bjorsq.net/dockstader/Dockstader-Interview-1963.ogg">OGG</a> format</p>
-</audio>
-</li>
 </ul>
