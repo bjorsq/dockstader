@@ -55,8 +55,8 @@ p {
 	margin-bottom: 1.25rem;
 	text-rendering: optimizeLegibility;
 }
-li p {
-	margin-bottom: .5rem;
+li>p {
+	margin-bottom: .25rem;
 }
 h1,
 h2,
