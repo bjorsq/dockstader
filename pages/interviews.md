@@ -15,12 +15,15 @@ sitemap:
 
 <ul>
     {% for post in site.categories.interviews %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br>{{ post.description }}
+    <li><p><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></p>
+    {% if post.description != "" %}
+      {{ post.description | markdownify }}
+    {% endif %}
     {% if post.mp3 and post.ogg %}
       <audio controls>
         <source src="{{ post.mp3 }}" type="audio/mpeg">
         <source src="{{ post.ogg }}" type="audio/ogg">
-        <br>Download in <a href="{{ post.mp3 }}">MP3</a> or <a href="{{ post.ogg }}">OGG</a> format
+        <p>Download in <a href="{{ post.mp3 }}">MP3</a> or <a href="{{ post.ogg }}">OGG</a> format</p>
       </audio>
     {% endif %}
     </li>
