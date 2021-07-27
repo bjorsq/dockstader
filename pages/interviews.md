@@ -16,11 +16,11 @@ sitemap:
 <ul>
     {% for post in site.categories.interviews %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br>{{ post.description }}
-    {% if forloop.last == true %}
+    {% if post.mp3 and post.ogg %}
       <audio controls>
-        <source src="https://podcast.bjorsq.net/dockstader/Dockstader-Interview-1963.mp3" type="audio/mpeg">
-        <source src="https://podcast.bjorsq.net/dockstader/Dockstader-Interview-1963.ogg" type="audio/ogg">
-        <p>Download in <a href="https://podcast.bjorsq.net/dockstader/Dockstader-Interview-1963.mp3">MP3</a> or <a href="https://podcast.bjorsq.net/dockstader/Dockstader-Interview-1963.ogg">OGG</a> format</p>
+        <source src="{{ post.mp3 }}" type="audio/mpeg">
+        <source src="{{ post.ogg }}" type="audio/ogg">
+        <br>Download in <a href="{{ post.mp3 }}">MP3</a> or <a href="{{ post.ogg }}">OGG</a> format
       </audio>
     {% endif %}
     </li>

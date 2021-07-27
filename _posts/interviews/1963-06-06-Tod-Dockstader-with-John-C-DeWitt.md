@@ -1,7 +1,9 @@
 ---
 layout: interview
 title: "Interview with John C. DeWitt for WRVR FM 1963 (transcript)"
-description: "Listen to the interview below:"
+description: "Early radio interview for the 'Listen' programme on WRVR FM New York _essays and sound to explore a world of ideas and evoke a variety of moods_"
+mp3: https://podcast.bjorsq.net/dockstader/Dockstader-Interview-1963.mp3
+ogg: https://podcast.bjorsq.net/dockstader/Dockstader-Interview-1963.ogg
 categories:
     - interviews
 sitemap:
