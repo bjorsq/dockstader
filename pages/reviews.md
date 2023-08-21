@@ -16,8 +16,8 @@ Reviews of "From the Archives"
 
 <ul>
     <li><a href="https://avantmusicnews.com/2016/12/09/todd-dockstader-from-the-archives-starkland-st226/">Avant Music News, by Chris De Chiara</a> (09.12.2016)</li>
-    <li><a href="https://www.newmusicusa.org/projects/tod-dockstader-from-the-archives/">New Music USA, by Tom Steenland</a> (25.12.2016)</li>
-    <li><a href="https://christianbcarey.com/2017/02/08/tod-dockstader-from-the-archives-cd-review/">Christian Carey</a> (Originally published on <a href="https://www.sequenza21.com/" target="_blank">sequenza21.com</a>, 08.02.2017)</li>
+    <li><a href="{% link _posts/reviews/2016-12-25-From-the-Archives-New-Music-USA.md %}">New Music USA, by Tom Steenland</a> (25.12.2016)</li>
+    <li><a href="{% link _posts/reviews/2017-08-02-From-the-Archives-Christian-Carey.md %}">Christian Carey</a> (Originally published on <a href="https://www.sequenza21.com/" target="_blank">sequenza21.com</a>, 08.02.2017)</li>
     <li><a href="https://classicalmodernmusic.blogspot.com/2017/02/tod-dockstader-from-archives.html">Gapplegate Classical-Modern Music Review, by Grego Applegate Edwards</a> (13.02.2017)</li>
     <li><a href="https://arcanecandy.com/2017/05/07/tod-dockstader-from-the-archives/">Arcane Candy</a> (07.05.2017)</li>
 </ul>
