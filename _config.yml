@@ -154,5 +154,5 @@ sass:
 #
 # used in _includes/footer_scripts.html
 
-google_analytics_tracking_id: "UA-259284-19"
+google_tag: "G-JVY6M0K7PW"
 

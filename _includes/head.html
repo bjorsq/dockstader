@@ -8,10 +8,6 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com">
 	<link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald&display=swap" rel="stylesheet">
 	<link href="{{ site.url }}/assets/css/style.css" rel="stylesheet">
-
-    {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification}}" />{% endif %}
-	{% if site.bing_webmastertools_id %}<meta name="msvalidate.01" content="{{ site.bing_webmastertools_id }}" />{% endif %}
-	
 	{% if site.google_author %}<link rel="author" href="{{ site.google_author }}"/>{% endif %}
 	{% if site.favicon %}<link rel="shortcut icon" href="{{ site.url }}{{ site.favicon }}" type="image/png" />{% endif %}
 	{% if site.favicon %}<link rel="icon" href="{{ site.url }}{{ site.favicon }}" type="image/png" />{% endif %}
@@ -20,7 +16,6 @@
 	{% if site.apple_touch_icon_ipad %}<link rel="apple-touch-icon" sizes="120x120" href="{{ site.url }}{{ site.apple_touch_icon_ipad }}">{% endif %}
 	{% if site.apple_touch_icon_ipad_retina %}<link rel="apple-touch-icon" sizes="152x152" href="{{ site.url }}{{ site.apple_touch_icon_ipad_retina }}">{% endif %}
 	{% if site.apple_touch_icon_precomposed %}<link rel="apple-touch-icon-precomposed" href="{{ site.url }}{{ site.apple_touch_icon_precomposed }}">{% endif %}
-
 	<!-- Facebook Optimization -->
 	<meta property="og:locale" content="{% if site.og_locale == nil %}en_EN{% else %}{{ site.og_locale }}{% endif %}" />
 	{% if site.og_type %}<meta property="og:type" content="website" />{% endif %}
@@ -30,7 +25,17 @@
 	{% if site.title %}<meta property="og:site_name" content="{{ site.title }}" />{% endif %}
 
 	{% if site.alexa_verify_id %}<meta name="alexaVerifyID" content="{{ site.alexa_verify_id }}" />{% endif %}
-
-	<!-- Search Engine Optimization -->
+    {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification}}" />{% endif %}
+	{% if site.bing_webmastertools_id %}<meta name="msvalidate.01" content="{{ site.bing_webmastertools_id }}" />{% endif %}
+	{% if site.google_tag %}
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_tag }}"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', '{{ site.google_tag }}');
+	</script>
+	{% endif %}
 	{% if page.noindex == true %}<meta name="robots" content="noindex">{% endif %}
 </head>
