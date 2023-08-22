@@ -90,20 +90,6 @@ defaults:
       comments: false
       author: "Peter Edwards"
 
-
-
-#       _   __            _             __  _           
-#      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____ 
-#     /  |/ / __ `/ | / / / __ `/ __ `/ __/ / __ \/ __ \
-#    / /|  / /_/ /| |/ / / /_/ / /_/ / /_/ / /_/ / / / /
-#   /_/ |_/\__,_/ |___/_/\__, /\__,_/\__/_/\____/_/ /_/ 
-#                       /____/                          
-#
-#  Open _data/navigation.yml to adjust the left and right topbar navigation
-#
-
-
-
 #     _____ __________ 
 #    / ___// ____/ __ \
 #    \__ \/ __/ / / / /
@@ -143,16 +129,4 @@ msapplication_tilecolor:         "#ffffff"                                      
 sass:
     sass_dir: _scss
     style: compressed
-
-
-#     _____           _       __      
-#    / ___/__________(_)___  / /______
-#    \__ \/ ___/ ___/ / __ \/ __/ ___/
-#   ___/ / /__/ /  / / /_/ / /_(__  ) 
-#  /____/\___/_/  /_/ .___/\__/____/  
-#                  /_/                
-#
-# used in _includes/footer_scripts.html
-
-google_tag: "G-JVY6M0K7PW"
 
