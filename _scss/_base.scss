@@ -11,7 +11,7 @@ body {
 	font-size: 100%;
 	background: $bg;
 	color: $fg;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", sans-serif;
 	font-style: normal;
 	font-weight: normal;
 	line-height: 150%;
@@ -62,9 +62,8 @@ h1,
 h2,
 h3 {
 	color: #222;
-	font-family: "Oswald", "Open Sans", Helvetica, Arial, sans-serif;
-	font-style: normal;
-	font-weight: normal;
+	font-style: bold;
+	font-weight: bold;
 	line-height: 1.4;
 	margin-bottom: 0.5rem;
 	margin-top: 0.2rem;
