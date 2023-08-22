@@ -5,3 +5,4 @@ https://:dockstader.pages.dev/*
   Permissions-Policy: geolocation=(self), fullscreen=(self), camera=()
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
+  Access-Control-Allow-Origin: https://dockstader.pages.dev/
