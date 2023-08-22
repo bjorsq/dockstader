@@ -12,8 +12,6 @@ sitemap:
 
 First published December 25, 2016 on <a href="https://www.newmusicusa.org/" target="_blank">newmusicusa.org</a>
 
-[https://www.newmusicusa.org/projects/tod-dockstader-from-the-archives/](https://www.newmusicusa.org/projects/tod-dockstader-from-the-archives/)
-
 **15 works from the private archives of electroacoustic master Tod Dockstader, who died Feb. 27, 2015, will premiere on a Starkland CD.**
 
 Initial Reviews
@@ -57,3 +55,5 @@ The “highly imaginative pioneer” Tod Dockstader is “one of the giants in t
 (Dusted).
 
 A [New Music Box article](https://nmbx.newmusicusa.org/remembering-tod-dockstader-1932-2015/) reviews Tod’s history: learning about sound while working on cartoons; creating his early masterpieces during off-hours at a New York studio; the rave reviews for his CDs; his transition into the digital world and the resulting Aerial CDs; and, finally, his deteriorating health.
+
+Article copied from [https://www.newmusicusa.org/projects/tod-dockstader-from-the-archives/](https://www.newmusicusa.org/projects/tod-dockstader-from-the-archives/)
