@@ -35,7 +35,11 @@ format: compositions
 					<p class="cat-no">{{ release.catalogue_no }}</p>
 					<p class="content">{{ release.contents }}</p>
 					{% if release.url %}
-					<p class="url"><a href="{{ release.url }}">{{ release.url }}</a></p>
+					<ul>
+					    {% for url in release.url %}
+					    <li class="url"><a href="{{ url }}">{{ url }}</a></li>
+						{% endfor %}
+					</ul>
 					{% endif %}
 				</div>
 				{% endif %}
