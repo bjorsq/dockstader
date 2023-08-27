@@ -18,9 +18,7 @@ Of course I'd be worried if there was even one below par track, Dockstader made 
 
 By limiting himself to a somewhat limited area of tones (radio waves), Dockstader has proven again to be the master of manipulating normally ignored or intangible sound into flowing, lucid and beautiful landscapes. He has crafted each piece to a fine layer of detail without pushing the music at all into difficult like many musique concrète composers can’t help doing. Aerial #2 is intellectually stimulating but Dockstader doesn’t let that force him to sacrifice accessibility and abstraction from enjoyable music. A lot of music I like can be classified as that which I find enjoyable to listen to and that which I find interesting from a more beard stroking perspective. Aerial #2 joins that special club found at the intersection of these two classifications. It is an absolutely fascinating and infinitely pleasing album.
 
-<http://www.brainwashed.com/index.php?option=com_content&task=view&id=4389&Itemid=64>
-
-15/01/2006
+[//]: <> (http://www.brainwashed.com/index.php?option=com_content&task=view&id=4389&Itemid=64 15/01/2006)
 
 ### An Anthology of Noise and Electronic Music, Second a-chronology 1936-2003 by Jonathan Dean
 
@@ -32,6 +30,4 @@ The second disc opens with "Bronchus One.1" (1991), an early sketch of an Autech
 
 The disc also contains a Quicktime video clip of Beefheart performing the track circa 1969, which is interesting, but ultimately irrelevant. I wholeheartedly recommend volume two of Sub Rosa's Anthology of Noise and Electronic Music not for its thematic coherence, which is nonexistent, but for the rare and unreleased tracks, which make the compilation worth the price of admission. 
 
-<http://brainwashed.com/index.php?option=com_content&task=view&id=2754&Itemid=64>
-
-13/09/2003
+[//]: <> (http://brainwashed.com/index.php?option=com_content&task=view&id=2754&Itemid=64 13/09/2003)

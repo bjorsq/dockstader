@@ -44,4 +44,4 @@ Several classic pieces are included:  Edgar Varèse's "Poem Électronique" (1958
 
 One could cite omissions or cavil over choices, but really it would be hard to put together a better or more representative collection of electro-accoustic music from this period.  The linear notes are informative without pedantry and the design of the slipcase (including a translucent sleeve printed with a schematic of the wiring inside a theremin) is perhaps the most striking I've ever seen.  In short, a first-class collection that will serve to illuminate the genesis of this important art form.
 
-<http://www.classical-music-review.org/reviews/OHM.html>
+[//]: <> (http://www.classical-music-review.org/reviews/OHM.html)

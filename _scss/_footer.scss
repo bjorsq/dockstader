@@ -1,11 +1,8 @@
 .footer-panel {
     margin-bottom: 1.25rem;
     padding: 1.25rem;
-    border-style: solid;
-    border-width: 1px;
-    border-radius: 3px;
-    border-color: $footerborder;
     background: $footerbg;
+	box-shadow: 0px 0px 8px 2px $footerborder;
     color: $footerfg;
     & > :first-child {
         margin-top: 0;

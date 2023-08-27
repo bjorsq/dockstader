@@ -13,7 +13,7 @@ sitemap:
 
 ### On Tod Dockstader
 
-> "No one is responsible for an emergence; no one can glory in it, since it always occurs in the interstice"
+<blockquote class="noquote"><p>No one is responsible for an emergence; no one can glory in it, since it always occurs in the interstice</p></blockquote>
 
 
 ### [Feed-forward]
@@ -50,10 +50,10 @@ So whilst both Meek and Dockstader both used tape-phasing techniques to create a
 
 And so listening to Dockstader's music is like listening to a 'gap of deferred time' in that what we hear is neither history nor cult but a sense of our discontinuity from the so-called continuities of musical tradition. That Dockstader's experiments had to cease because of his "lack of academic credentials" may have had the bonus effect of burying and preserving his work, making it seem like an unintentioned accident that, not being 'overcoded' and allotted its place in 'musical knowledge', is thus always open to rediscovery by any that stumble across it. Thus it is a music that is always liable to retain something of the vitality and passion that was initially injected into it. For what is communicated in the work of Dockstader is the sense that conformity to categories and expectations is a way to diminish our desire to listen and thereby to repress the continual process of singularisation as it remakes itself through the obsessive pursuit of sounds in transformation.
 
-> This is the music of the interstice ... Late nights in a studio in 1961 ... Nothing telling us how to respond...
+<blockquote class="noquote"><p>This is the music of the interstice ... Late nights in a studio in 1961 ... Nothing telling us how to respond...</p></blockquote>
 
 <footer>
-  <p class="small">Text assembled with reference to Michel Foucault's <em>Archaeology of Knowledge</em>, Morton Feldman's <em>Essays</em>, and with reference to the Starkland sleevenote material assembled on this site.</p>
+  <p>Text assembled with reference to Michel Foucault's <em>Archaeology of Knowledge</em>, Morton Feldman's <em>Essays</em>, and with reference to the Starkland sleevenote material assembled on this site.</p>
   <div class="vcard">by
     <address class="author">
       <span class="fn">Howard Slater</span>

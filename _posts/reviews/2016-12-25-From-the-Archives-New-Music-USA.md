@@ -17,13 +17,10 @@ First published December 25, 2016 on <a href="https://www.newmusicusa.org/" targ
 Initial Reviews
 ---------------
 
-“Best of the Year List” (The Big City Blog)
-
-“One of the best releases of 2016” (Avant Music News)
-
-“One of the best composers in the field.” (Vital Weekly)
-
-“A major and important release” (New Music Buff)
+<blockquote><p>Best of the Year List</p><footer>The Big City Blog</footer></blockquote>
+<blockquote><p>One of the best releases of 2016</p><footer>Avant Music News</footer></blockquote>
+<blockquote><p>One of the best composers in the field.</p><footer>Vital Weekly</footer></blockquote>
+<blockquote><p>A major and important release</p><footer>New Music Buff</footer></blockquote>
 
 Overview
 --------
@@ -45,15 +42,12 @@ About Tod Dockstader
 
 Tod Dockstader is recognized as one of the great electroacoustic composers:
 
-“Tod Dockstader belongs in the select company of Varèse, Stockhausen, Luening, Schaeffer, Subotnick, and the other pioneers of electronic music or musique concrète. His achievement is on a par with the best in his field”
-(Stereophile).
+<blockquote><p>Tod Dockstader belongs in the select company of Varèse, Stockhausen, Luening, Schaeffer, Subotnick, and the other pioneers of electronic music or musique concrète. His achievement is on a par with the best in his field</p><footer>Stereophile</footer></blockquote>
 
-The “highly imaginative pioneer” Tod Dockstader is “one of the giants in the field”
-(The Washington Post).
+<blockquote><p>The “highly imaginative pioneer” Tod Dockstader is “one of the giants in the field”</p><footer>The Washington Post</footer></blockquote>
 
-“Along with Stockhausen, Henry and Varese, Tod Dockstader should be recognized, not merely regarded, as one of the great figures of musique concrete composition”
-(Dusted).
+<blockquote><p>Along with Stockhausen, Henry and Varese, Tod Dockstader should be recognized, not merely regarded, as one of the great figures of musique concrete composition</p><footer>Dusted magazine</footer></blockquote>
 
 A [New Music Box article](https://nmbx.newmusicusa.org/remembering-tod-dockstader-1932-2015/) reviews Tod’s history: learning about sound while working on cartoons; creating his early masterpieces during off-hours at a New York studio; the rave reviews for his CDs; his transition into the digital world and the resulting Aerial CDs; and, finally, his deteriorating health.
 
-Article copied from [https://www.newmusicusa.org/projects/tod-dockstader-from-the-archives/](https://www.newmusicusa.org/projects/tod-dockstader-from-the-archives/)
+Original article copied from [www.newmusicusa.org](https://www.newmusicusa.org)

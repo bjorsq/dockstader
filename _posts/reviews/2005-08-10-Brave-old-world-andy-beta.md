@@ -12,7 +12,7 @@ sitemap:
 
 ### by Andy Beta
 
-_Originally published at [citypages.com](http://www.citypages.com/) on 8th October 2005_
+_Originally published at <a href="http://www.citypages.com/" target="_blank">citypages.com</a> on 10th August 2005_
 
 An old Coke bottle, a nail, marble, some deflated balloons, a few rolls of adhesive tape. In the hands of Minnesotan Tod Dockstader, these trivial items and certified junk all conspired to create masterworks of electronic music in the early 1960s, during the hazy, pricey dawn of the genre. His scant half-decade of work revealed a world where sound itself became the organizing force, rather than melodic logic or linear progressions. His loops, jump cuts, and juxtapositions anticipated the next 40 years of synthesizers and sampling culture.
 
@@ -37,3 +37,5 @@ The first disc of a proposed three-CD box set, Aerial #1 gleans a decade's worth
 While work at Gotham was physically demanding--doing splices on the fly and moving between the enormous tape machines, not to mention running around to record sounds--the composer says that "gathering the sound-material for Aerial was almost restful. I just sat up nights...slowly tuning a short-wave receiver and capturing what I needed onto cassettes." The piece was cooked down from over 90 hours of tape, with nearly 600 separate sections ultimately reduced to 59, all mixed together as a piece and spread across the set. Bland names belie the turbulent nature of the atmosphere in motion. The 12-minute opener "Song" is simultaneously Doppler-effected and cinematic, its restless ambience broken by a flare midway through. "Rumble" sounds less like something from up in the ionosphere and more from beneath a continental plate. And while "Lala" chirps and gurgles like a pond of frogs, "March" could soundtrack an alien abduction.
 
 Working with the old sounds in this gleaming new world of computer technology, Aerial transported Dockstader back to his earliest, fondest memories, as he told Ken Hollings in The Wire: "I remembered the mysteries as a child...I was delighted that it was still there. It brought me back to a time when I was much younger." Dockstader details the shift in time and the difference it makes: "As a child, I was a passive listener; this time, I was an active one. My purpose in doing it was...to make music out of the chaos." When I asked if he felt like Aerial had some time-travel properties, he confessed, "I've never felt I was going back in time: I'm very aware of running out of [time]." What resounded within him and captured his childhood imagination some 70 years ago gets revitalized in the present moment, though. Somewhere in the invisible night, the signal remains strong, broadcasting anew.
+
+[//]: <> (http://www.citypages.com/databank/26/1288/article13583.asp 10/08/2005)

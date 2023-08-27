@@ -7,6 +7,8 @@ html {
 	box-sizing: inherit;
 }
 body {
+	max-width: 64rem;
+	margin: 4rem auto 0;
 	min-height: 100%;
 	font-size: 100%;
 	background: $bg;
@@ -15,7 +17,6 @@ body {
 	font-style: normal;
 	font-weight: normal;
 	line-height: 150%;
-	margin: 0;
 	padding: 0;
 	position: relative;
 }
@@ -100,24 +101,53 @@ ul {
 	margin-left: 1.1rem;
 }
 blockquote {
-	margin: 0 0 1.25rem;
-	padding: 0.5625rem 1.25rem 0 1.1875rem;
-	border-left: 1px solid #ddd;
-}
-blockquote,
-blockquote p {
-	line-height: 1.6;
-	color: #6f6f6f;
+	margin: 1.25rem 0;
+	padding: 1rem 1.25rem 1rem 3rem;
+	background: $quotebg;
+	color: $quotefg;
+	border-left: 5px solid $quoteborder;
+	position: relative;
+	p {
+		font-style:italic;
+		font-size: 1.2rem;
+		line-height: 1.6;
+	}
+	&::before{
+		content: "\201C";
+		color:$quoteborder;
+		font-family: serif;
+		font-size:4rem;
+		position: absolute;
+		left: .25rem;
+		top: 1rem;
+	}
+	&.noquote {
+		padding: 1rem 1.25rem 0.1rem 1.25rem;
+		&::before {
+			content: '';
+		}
+	}
+	&::after{
+		content: '';
+	}
+	footer {
+		display: block;
+		color: $quotefooter;
+		font-style: normal;
+		font-weight: bold;
+		margin-top: .5rem;
+	}
 }
 .vcard {
-	display: inline-block;
-	margin: 0 0 1.25rem 0;
-	border: 1px solid #ddd;
-	padding: 0.625rem 0.75rem;
+	display: block;
+	margin: 1.25rem 0;
+	padding: 1rem 1.25rem;
+	background: $vcardbg;
+	color: $vcardfg;
+	border-left: 5px solid $vcardborder;
 }
 .vcard .fn {
 	font-weight: bold;
-	font-size: 0.9375rem;
 }
 @media only screen and (min-width: 44em) {
 	h1,
@@ -231,6 +261,7 @@ img.full {
 .releasesheader {
 	background: $highlight;
 	padding-left: 0.1em;
+	box-shadow: 0px 0px 8px 2px $highlightborder;
 }
 figure {
 	margin: 1em 0;

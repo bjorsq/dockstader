@@ -20,7 +20,7 @@ Once devoid of broadcasting information, the radio returns to being a defective 
 
 Aerial is a three-volume epic, with its first release curiously packaged in a thick slipcase containing the CD along with two empty cases for the upcoming volumes. Dockstader belies his age with an ear still razor-sharp for sounds that hit the gut. Opener, “Song” sets the album template with a 12-minute drift through the clouds: a roiling drone exhales its tones, only to dissipate into thin air; brief radio frequencies snap; and near-flanged timbres rise and fall in volume, all maintaining the tension that never ceases. The follow-up, “Om,” takes the same palate and swipes it with violent strokes of a radio trying to correct itself, while “Raga” is striking for its faintest of spiritual chants heard amid a frequency noise tweaked into that of a sitar’s melody. “Second Song” is a humidifier drone rendered into what sounds like passing cars and “Harbor” washes the static into the sea for boat horns lost in the fog, blaring in the distance. “Aw” stretches a choir’s vowel into what seems like an eternal drone emitting from the center of the earth through a 10-mile crack in a deserted city. As to what mysteries arise about the origin of that beckoning noise, here’s looking forward to two more albums that could further entice. 
 
-<http://www.stylusmagazine.com/reviews/tod-dockstader/aerial-1.htm>
+[//]: <> (http://www.stylusmagazine.com/reviews/tod-dockstader/aerial-1.htm)
 
 ### An Anthology of Noise & Electronic Music / Fourth A-Chronology 1937-2005
 
@@ -38,6 +38,4 @@ Along with the collages, Hinant picked strong examples of the human voice turned
 
 Just like previous volumes, Hinant has tossed in some pleasant surprises that sound awfully contemporary despite being nearly 30 to 40 years old. Japan’s Les Rallizes Denudes’s “Fucked Up and Naked” uncannily resembles the Stooges with a shoegazer makeover all drenched in liquid nitrogen vats of guitar distortion, while Gottfried Michael Koenig’s 1969 piece, “Funktion Grau” sounds like Kid606 cleaning out garbled static noises out of his laptop.
 
-<http://www.stylusmagazine.com/reviews/various-artists/an-anthology-of-noise-electronic-music-fourth-a-chronology-1937-2005.htm>
-
-20/04/2006
+[//]: <> (http://www.stylusmagazine.com/reviews/various-artists/an-anthology-of-noise-electronic-music-fourth-a-chronology-1937-2005.htm 20/04/2006)

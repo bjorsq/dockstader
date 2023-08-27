@@ -18,6 +18,4 @@ That's just the beginning of the story, of course, because the only raw ambience
 
 The idea of using electronics to bring new life to ambient sound is clever if not brand new, and Pond is full of elements that are simultaneously familiar and alien. Once you've come to terms with the circular aspect of the concept—life enters machine and exits alive—you can spend hours with this recording and still be surprised by it. Headphones are recommended if you want to really get wet.
 
-<http://www.allaboutjazz.com/pond-tod-dockstader-rer-megacorp-review-by-aaj-staff.php>
-
-01/12/2004
+[//]: <> (http://www.allaboutjazz.com/pond-tod-dockstader-rer-megacorp-review-by-aaj-staff.php 01/12/2004)

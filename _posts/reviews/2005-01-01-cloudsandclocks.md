@@ -22,9 +22,7 @@ Provided I have not misunderstood everything, the "conceptual framework" of this
 
 In closing? I'm quite puzzled - for many reasons.
 
-<http://www.cloudsandclocks.net/CD_reviews/dockstadermyers_bijou_E.html>
-
-17/11/2005
+[//]: <> (http://www.cloudsandclocks.net/CD_reviews/dockstadermyers_bijou_E.html 17/11/2005)
 
 ### Pond
 
@@ -36,6 +34,4 @@ The silent question that Dockstader's fans asked themselves - will he ever recor
 
 A joint work, Pond sees both musicians using somewhat unfamiliar means. For Dockstader, so used at using tape, the unfamiliar elements were the computer and the music software; while for Myers, so used at working with primarily electronic means, sounds that originated in the "real world". As per the work's title, sounds from the pond - for start, frogs and toads - were the (sometimes quite easy to recognize, more often mutated beyond belief) main source material; which is a factor that at first could maybe lead the listener to adopt a specific listening attitude. But after a couple of listening sessions music becomes the proper object. Music (or "organized sound", as written on the cover, maybe in memory of those polemic battles) that's quite easy to appreciate: nice timbral variety, clear sounds, vivacious stereo imaging, lots of different musical styles and atmospheres... I mean, not at all difficult. Just being willing to leave behind the well-beaten path is enough. At first, I caught myself thinking about who had done what - sure, the sad and lonely air of Surge brought to my mind the already mentioned Apocalypse; while the nasal (square) waveforms of Springers sounded as having Myers's signature. But Pond is an almost-perfect work that makes these kind of preoccupations absolutely unnecessary, and that in a way could be said to be well represented by the close of the last track, Corridor: i.e., extremely logical and totally unexpected at the same time.
 
-<http://www.cloudsandclocks.net/CD_reviews/dockstadermyers_pond_E.html>
-
-15/11/2004
+[//]: <> (http://www.cloudsandclocks.net/CD_reviews/dockstadermyers_pond_E.html 15/11/2004)
