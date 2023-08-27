@@ -66,14 +66,12 @@ body {
 				padding: 0.8rem 0.8rem;
 				transition-duration: 0.3s;
 				transition-timing-function: ease-in-out;
-				transition-property: box-shadow, color;
-				box-shadow: 0 0.05em 0.25em 0 rgba(0, 0, 0, 0.35);
+				transition-property: background-color, color;
 				cursor: pointer;
 
-				&:hover {
+				&:hover, &.active {
 					background-color: rgba(0, 0, 0, 0.85);
 					color: #fff;
-					box-shadow: 0 0.05em 0.25em 0 rgba(0, 0, 0, 0.35), inset 0 0 0 2em rgba(0, 0, 0, 0.3);
 					> a {
 						color: #fff;
 					}

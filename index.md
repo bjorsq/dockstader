@@ -3,6 +3,7 @@ layout: page
 sidebar: homepage
 headerimage: svg/tod-dockstader
 title: Tod Dockstader
+pagesection: home
 sitemap:
     priority: 1.0
     changefreq: 'yearly'
@@ -61,5 +62,4 @@ And so listening to Dockstader's music is like listening to a 'gap of deferred t
     </address>
     <time datetime="1999-03-01" class="published updated">March 1999</time>
   </div>
-  
 </footer>

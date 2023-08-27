@@ -1,21 +1,22 @@
 - title: Home
   url: "/"
-
+  layout: home
 - title: Compositions
   url: "/compositions/"
-
+  layout: composition
 - title: Biography
   url: "/biography/"
-
+  layout: biography
 - title: Discography
   url: "/discography/"
-
+  layout: discography
 - title: "Articles"
   url: "/articles/"
-
+  layout: article
 - title: Interviews
   url: "/interviews/"
-
+  layout: interview
 - title: Reviews
   url: "/reviews/"
+  layout: review
 

@@ -4,6 +4,7 @@ title: "Tod Dockstader: Biography"
 headerimage: svg/biography
 description: "Tod Dockstader was born in 1932 in St.Paul, Minnesota, and died on February 27th, 2015. After an early career in cartoons, he worked as a recording engineer at Gotham Recording Studios, where he spent his off-work hours experimenting with sounds on magnetic tape. After some initial success in the 1960s, his work gained widespread critical acclaim in the 90s when he started to release material again."
 permalink: "/biography/"
+pagesection: biography
 sitemap:
     priority: 1.0
     changefreq: 'yearly'
