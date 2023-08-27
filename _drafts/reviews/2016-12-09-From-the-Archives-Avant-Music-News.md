@@ -12,8 +12,6 @@ sitemap:
 
 First published December 9, 2016 on <a href="https://avantmusicnews.com/" target="_blank">avantmusicnews.com</a>.
 
-[https://avantmusicnews.com/2016/12/09/todd-dockstader-from-the-archives-starkland-st226/](https://avantmusicnews.com/2016/12/09/todd-dockstader-from-the-archives-starkland-st226/)
-
 The world was reintroduced to outsider electronic music composer Todd Dockstader in the 1990’s when Starkland reissued most of his work from the early 1960’s on two CD’s. The Starkland discs were met with widespread critical acclaim. Stunned by this newfound interest and acclaim for his work Dockstader returned to composing. In 2002 Recommended Records reissued additional work from the 1960’s on CD. Dockstader then teamed up with David Lee Meyers (AKA Arcane Device and Pulsewidth) releasing two CD’s on Recommended Records in 2004 and 2005. During 2005 -2006 Sub Rosa released a three CD set from Dockstader entitled “Aerial”. Many believed that this was to be his final work. Todd Dockstader passed away peacefully on February 27, 2015 surrounded by his friends and family while listening to his own music.
 
 “From the Archives” is a posthumous release of new work by electronic music composer Todd Dockstader. When Dockstader passed away in 2015 he left behind a computer full of new work totaling more than one hundred fifty hours. Daughter Tina Dockstader Kinard enlisted enthusiast Justin Brierly to go through the material and select fifty pieces to send to Thomas Steenland at Starkland. Steenland selected fifteen pieces for this outstanding new release.
@@ -23,3 +21,5 @@ The compositions on “From the Archive” were composed during 2005 – 2008. T
 Todd Dockstader’s “From the Archives” is one of the best releases of 2016. It provides us with an hour of new music from one of the masters of sound art. “From the Archives” will make long time Dockstader listeners extremely happy and will hopefully bring his incredible work to many new listeners. Thanks to the efforts of Tina Dockstader Kinard, Justin Brierley and Thomas Steenland we have the chance to hear this new work and to enjoy it for many years to come.
 
 Highly recommended!
+
+[//]: <> (https://avantmusicnews.com/2016/12/09/todd-dockstader-from-the-archives-starkland-st226/)

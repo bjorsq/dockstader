@@ -12,8 +12,6 @@ sitemap:
 
 First published February 13, 2017 on <a href="https://classicalmodernmusic.blogspot.com/" target="_blank">classicalmodernmusic.blogspot.com</a>.
 
-[https://classicalmodernmusic.blogspot.com/2017/02/tod-dockstader-from-archives.html](https://classicalmodernmusic.blogspot.com/2017/02/tod-dockstader-from-archives.html)
-
 From 2005 to 2008, in the waning years of his life, American electronic  music titan Tod Dockstader (1932-2015) worked out some vibrant ideas in his studio. They have been culled from thousands of files he left behind, chosen for their provocative, yet relatively finished state. No doubt Tod might have sequenced these or in some other manner tied some or all of these into a long-form work, but then again they each have the completeness of a member of a set of preludes or etudes, nocturnes or what have you. In the form of 15 short works that in various ways share a certain trajectory, timbral fullness or directionality they do not in the end sound tentative as much as microcosms in a last cosmic macrocosm.
 
 One is struck upon repeated listenings with how very musical these pieces are. Everything has complexed pitched relations with everything else, and the timbral contrasts and confluences make for near symphonic chamber resonances.
@@ -29,3 +27,5 @@ Tom Steenland and his Starkland label are celebrating their 25th year as a conti
 Like the purveyor of a cutting-edge art gallery, Tom has had an enormous influence on what we recognize as new and pathbreaking. Sample his extensive catalog and worlds will open unto you!
 
 We salute the Starkland label on their 25th, and Tom himself on his 40th!
+
+[//]: <> (https://classicalmodernmusic.blogspot.com/2017/02/tod-dockstader-from-archives.html)

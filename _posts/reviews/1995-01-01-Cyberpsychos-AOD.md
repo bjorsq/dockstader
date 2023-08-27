@@ -18,4 +18,4 @@ Joseph Lukasik's Utmaro's Dream is a creeping & majestic soundscape spun from sy
 
 There is a guest harpist appearance on the 2nd track. Vers Les Anges by Charles Amirkhanian incorporates a carnival feel through the keys, being alternately overwhelmed or backed by intruding sound waves. As the waves (wind sound) become more prominent, the keys are replaced by clanks & twittering birds, rubber bands & hollow taps, convoluting toward cacophony. Garland Hirshi's Cows by Phillip Kent Bimstein is very amusing: the cows lowing & cowbell tapping become the music while Garland is sampled repetitively in discussing his cows. Strummed & bowed strings join the music at times, but the lows & bells are prominent.. turning into a very odd convolution of piano, lows, & strings after a few minutes. Cows can be pretty, serene, & imposing as well.. Definitely get this CD.
 
-<http://www.cyberpsychos.netonecom.net/cpaod6/atozrev.html>
+[//]: <> (http://www.cyberpsychos.netonecom.net/cpaod6/atozrev.html)
