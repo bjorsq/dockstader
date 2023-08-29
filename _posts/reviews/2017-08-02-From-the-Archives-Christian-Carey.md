@@ -8,6 +8,14 @@ sitemap:
     priority: 0.5
     changefreq: 'never'
     lastmod: 2017-02-08
+source:
+    author: Christian B. Carey
+    publicationdate: 2017-02-08
+    title: "Tod Dockstader: “From the Archives” (CD Review)"
+    resourcetitle: "Christian B. Carey: Composer, writer, performer"
+    details:
+    url: https://christianbcarey.com/2017/02/08/tod-dockstader-from-the-archives-cd-review/
+    accessed: 2021-04-08
 ---
 
 _First published February 8, 2017 on <a href="https://www.sequenza21.com/" target="_blank">sequenza21.com</a>, the re-published on the author website <a href="https://christianbcarey.com/" target="_blank">christianbcarey.com</a>_

@@ -8,6 +8,14 @@ sitemap:
     priority: 0.5
     changefreq: 'never'
     lastmod: 2015-09-22
+source:
+    author:
+    published:
+    title:
+    resourcetitle: 
+    details:
+    url: 
+    accessed: 
 ---
 
 In the early to mid-60s Tod Dockstader created a series of innovative tape loop compositions in his off hours as a recording engineer at Gotham Recording Studios in New York City.  His work, building on the early musique concrète of Pierre Schaeffer and the tape manipulation concepts of Edgar Varèse, basked in the newfound potential to manipulate sound directly and without the mediation of a written score, an approach with had only just become feasible, and for Dockstader, who could not write music and had no formal musical training, was the only means of entering into composition of any kind.  But whereas many of his contemporaries adhered to compositional techniques similar to their work in more standard formats, Dockstader worked entirely in the new medium, developing techniques more directly suited to it, and producing influential works like his recently reissued Eight Electronic Pieces (1960).  Subsequent releases earned him mounting recognition in the music world, but having left Gotham after a final composition in 1965, he found himself without access to the expensive equipment needed for his work, and unable to gain access to academic institutions due to his lack of formal background in music.  This closed an intriguing chapter in the development of electronic music, until now, when following recently reawakened interest in older Dockstader work, he has begun releasing again for the first time in 40 years.

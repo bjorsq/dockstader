@@ -8,6 +8,14 @@ sitemap:
     priority: 0.5
     changefreq: 'never'
     lastmod: 2017-02-13
+source:
+    author: Grego Applegate Edwards
+    published: 2017-02-13
+    title: Tod Dockstader, From the Archives
+    resourcetitle: Gapplegate Classical-Modern Music Review
+    details:
+    url: https://classicalmodernmusic.blogspot.com/2017/02/tod-dockstader-from-archives.html
+    accessed: 2021-04-08
 ---
 
 First published February 13, 2017 on <a href="https://classicalmodernmusic.blogspot.com/2017/02/tod-dockstader-from-archives.html" target="_blank">classicalmodernmusic.blogspot.com</a>.

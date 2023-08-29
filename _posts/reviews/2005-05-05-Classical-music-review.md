@@ -8,6 +8,14 @@ sitemap:
     priority: 0.5
     changefreq: 'never'
     lastmod: 2015-09-22
+source:
+    author:
+    published:
+    title:
+    resourcetitle: 
+    details:
+    url: 
+    accessed: 
 ---
 
 What first strikes one on hearing these pieces is how heroic these early pioneers were.  A rather non-descript piece plays for five or six minutes, then one turns to the linear notes to discover that it took ten months and the resources of Stanford University (or Bell Labs or GRM or WDR) to realize.  Bebe Barron, one of the composers of the soundtrack to Forbidden Planet (1956), says of a collaboration with John Cage: "I was astonished when I heard the piece.  Some of the sounds would appear and disappear so quickly that you couldn't recognize the source; it made me wish that we hadn't spent so long on some of it."  Listening to the work, entitled "Williams Mix" (1952), it is difficult not to agree. Cage got what he shot for: sonic randomness.  But that's not the point.  Look at the date of composition. Musique concrète had only been around for about four years; there is no way that anyone could have known what the thing would sound like until it was done.

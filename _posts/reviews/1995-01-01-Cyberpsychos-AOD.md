@@ -8,6 +8,14 @@ sitemap:
     priority: 0.5
     changefreq: 'never'
     lastmod: 2015-09-22
+source:
+    author:
+    published:
+    title:
+    resourcetitle: 
+    details:
+    url: 
+    accessed: 
 ---
 
 A perfect sampler for a darned near perfect label. I would hope you are all well aware that I tend to rave about Tod Dockstader &/or Starkland Records in every issue, in which case you'll know that I'm going to say "buy this compilation & request a catalogue", I'll vouch for everything they release. From A to Z not only covers the initial 7 musicians to be released by Starkland, it covers musique concrete from a decade into its tape origins to the present. 

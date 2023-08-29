@@ -8,6 +8,14 @@ sitemap:
     priority: 0.5
     changefreq: 'never'
     lastmod: 2015-09-22
+source:
+    author:
+    published:
+    title:
+    resourcetitle: 
+    details:
+    url: 
+    accessed: 
 ---
 
 ### Bijou

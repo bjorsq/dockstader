@@ -1,6 +1,6 @@
 ---
 layout: review
-title: "Tod Dockstader: From the Archives - Avant Music News review by Chris De Chiara"
+title: "Tod Dockstader: From the Archives - Avant Music News review by Chris DeChiara"
 description: "First published December 9, 2016 on avantmusicnews.com"
 categories:
     - reviews
@@ -8,6 +8,14 @@ sitemap:
     priority: 0.5
     changefreq: 'never'
     lastmod: 2016-12-25
+source:
+    author: Chris DeChiara
+    published: 2016-12-09
+    title: "AMN Reviews: Todd Dockstader – From the Archives [ Starkland ST226 ]"
+    resourcetitle: Avant Music News
+    details:
+    url: https://avantmusicnews.com/2016/12/09/todd-dockstader-from-the-archives-starkland-st226/
+    accessed: 2021-04-08
 ---
 
 First published December 9, 2016 on <a href="https://avantmusicnews.com/2016/12/09/todd-dockstader-from-the-archives-starkland-st226/" target="_blank">avantmusicnews.com</a>.

@@ -8,6 +8,14 @@ sitemap:
     priority: 0.5
     changefreq: 'never'
     lastmod: 2016-12-25
+source:
+    author: Thomas Steenland
+    published: 2015-11-16
+    title: Tod Dockstader: From the Archives
+    resourcetitle: New Music USA
+    details:
+    url: https://www.newmusicusa.org/projects/tod-dockstader-from-the-archives/
+    accessed: 2021-04-08
 ---
 
 First published December 25, 2016 on <a href="https://www.newmusicusa.org/" target="_blank">newmusicusa.org</a>
@@ -49,5 +57,3 @@ Tod Dockstader is recognized as one of the great electroacoustic composers:
 <blockquote><p>Along with Stockhausen, Henry and Varese, Tod Dockstader should be recognized, not merely regarded, as one of the great figures of musique concrete composition</p><footer>Dusted magazine</footer></blockquote>
 
 A [New Music Box article](https://nmbx.newmusicusa.org/remembering-tod-dockstader-1932-2015/) reviews Tod’s history: learning about sound while working on cartoons; creating his early masterpieces during off-hours at a New York studio; the rave reviews for his CDs; his transition into the digital world and the resulting Aerial CDs; and, finally, his deteriorating health.
-
-[//]: <> (https://www.newmusicusa.org/projects/tod-dockstader-from-the-archives/)

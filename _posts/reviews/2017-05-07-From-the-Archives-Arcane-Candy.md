@@ -8,6 +8,14 @@ sitemap:
     priority: 0.5
     changefreq: 'never'
     lastmod: 2017-05-07
+source:
+    author: Arcane Candy
+    published: 2017-05-07
+    title: Tod Dockstader – From the Archives
+    resourcetitle: "Arcane Candy - A Zine About Unusual Music, Art and Travel"
+    details:
+    url: https://arcanecandy.com/2017/05/07/tod-dockstader-from-the-archives/
+    accessed: 2021-04-08
 ---
 
 First published May 7, 2017 on <a href="https://arcanecandy.com/2017/05/07/tod-dockstader-from-the-archives/" target="_blank">arcanecandy.com</a>.

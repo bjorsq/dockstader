@@ -9,6 +9,14 @@ sitemap:
     priority: 0.5
     changefreq: 'never'
     lastmod: 2015-09-22
+source:
+    author:
+    published:
+    title:
+    resourcetitle: 
+    details:
+    url: 
+    accessed: 
 ---
 
 Tod Dockstader was an early and an outstanding experimenter in the use of tape recording and editing to build a type of "Music" made out of non-musical sounds, assembled into sonic structures that were supposed to take on an artistic life of their own - for better or worse.

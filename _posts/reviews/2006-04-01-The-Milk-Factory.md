@@ -8,6 +8,14 @@ sitemap:
     priority: 0.5
     changefreq: 'never'
     lastmod: 2015-09-22
+source:
+    author:
+    published:
+    title:
+    resourcetitle: 
+    details:
+    url: 
+    accessed: 
 ---
 
 This second installation in eminent sound-sculptor Tod Dockstader’s ode to the short-wave radio is a furtherance of the ill-omened aura that pervaded the swooning electronic squalls, serrated harmonics and mangled frequency modulations of the previous document. While that effort explored overtones and dynamics through faint striations of the distressed drones, this second edition - consisting of twenty-one segments which blur into one another and unravel as one hour-long piece - is far more active, upfront, and demanding. 

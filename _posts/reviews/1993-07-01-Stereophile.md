@@ -8,6 +8,14 @@ sitemap:
     priority: 0.5
     changefreq: 'never'
     lastmod: 2015-09-22
+source:
+    author:
+    published:
+    title:
+    resourcetitle: 
+    details:
+    url: 
+    accessed: 
 ---
 
 Tod Dockstader belongs in the select company of Varèse, Stockhausen, Luening, Schaeffer, Subotnick, and the other pioneers of electronic music or musique concrete. His achievement is on a par with the best in his field. The fact that he's not as well-known has more to do with the circumstances of his work than the work itself. Not being associated with academe, Dockstader worked alone in his own studio. The results of his painstaking creations are, for the most part, contained on these two CDs. It's quite an achievement. Some of this music is being released for the first time, but all of it is over 28 years old. The sound of these analog tapes becomes all the more impressive when one realizes that Dockstader used no noise reduction whatsoever. Using simple sound sources such as dripping water, toys, and test-tone generators, Dockstader fashioned music with a surprising amount of familiar qualities - there's a wealth of rhythm, dynamics, and subtlety here. Absent conventional melody and harmony, this music is anything but random sound effects.
